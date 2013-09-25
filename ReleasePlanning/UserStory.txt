@@ -7,3 +7,5 @@ As a Campaign master, I can select the set of ridings, so that I can have a focu
 As a Campaign master, I can press a button to start the simulation, so that all the simulated data will be computed and store in temperately memory for preview 
 
 As a Campaign master, I can select a riding a riding on map then a certain year, so that I can see the demographic data of the current riding from the selected year
+
+As a campaign master, I can select a map view, so that I can see the effort that each candidate put in some district.
