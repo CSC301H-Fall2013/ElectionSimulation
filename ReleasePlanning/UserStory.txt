@@ -18,7 +18,7 @@ As a campaign master, I can load the previous result for the new simulation, so 
 
 As a campaign master, I can track the simulation result by time order, so that I can see the trend with some variable changing in the election.
 
-As a campaign master, I can preview the simulation results, so that …?
+As a campaign master, I can preview the simulation results, so that I can get an estimated view without having to generate a fancy report.
 
 
 Implementer:
