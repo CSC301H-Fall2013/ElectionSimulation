@@ -10,6 +10,17 @@ As a Campaign master, I can select a riding a riding on map then a certain year,
 
 As a campaign master, I can select a map view, so that I can see the effort that each candidate put in some district.
 
+As a campaign master, I can press a button to save the simulation result, so that I can keep it for the future reference.
+
+As a campaign master, I can manage the historical simulation record by deleting or rearranging the results, so that I can keep the result database small and accurate.
+
+As a campaign master, I can load the previous result for the new simulation, so that I can reduce the unnecessary duplicate work. 
+
+As a campaign master, I can track the simulation result by time order, so that I can see the trend with some variable changing in the election.
+
+As a campaign master, I can preview the simulation results, so that …?
+
+
 Implementer:
 As a implementer, I would like to add or delete data, so that the current demographic is up to date
 
@@ -29,3 +40,4 @@ As a presenter, I would like to read data but not modify data, so that I don’t
 As a presenter, I would like to divide the data in to different categories, so that I can check data by categories and do data analysis more easily.
 
 As a presenter, I would like to press a button to get in touch with election master or implementer, so that if I have any problem with the program, I could report it to them.
+
