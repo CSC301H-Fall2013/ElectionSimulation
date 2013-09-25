@@ -9,3 +9,12 @@ As a Campaign master, I can press a button to start the simulation, so that all 
 As a Campaign master, I can select a riding a riding on map then a certain year, so that I can see the demographic data of the current riding from the selected year
 
 As a campaign master, I can select a map view, so that I can see the effort that each candidate put in some district.
+
+Implementer:
+As a implementer, I would like to add or delete data, so that the current demographic is up to date
+
+As a implementer, I would like to add/delete users, so that each user will have different privileges
+
+As a implementer, I would like to modify the formula used to calculate the simulation, since that different census track wants differently
+
+As a implementer, I would like to set up/delete a new census track/riding in case of any changes in real life
