@@ -22,11 +22,13 @@ As a campaign master, I can preview the simulation results, so that …?
 
 
 Implementer:
-As a implementer, I would like to add or delete data, so that the current demographic is up to date
+As an implementer, I would like to add or delete data, so that the current demographic is up to date
 
-As a implementer, I would like to add/delete users, so that each user will have different privileges
+As an implementer, I would like to add/delete users, so that each user will have different privileges
 
-As a implementer, I would like to modify the formula used to calculate the simulation, so that different strategies can be applied in different area
+As an implementer, I would like to modify the formula used to calculate the simulation, so that different strategies can be applied in different area
+
+As an implementer, I would like to have a search button, so that I can find the data without reading through everything
 
 
 Presenter/Player:
