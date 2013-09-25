@@ -28,7 +28,6 @@ As a implementer, I would like to add/delete users, so that each user will have 
 
 As a implementer, I would like to modify the formula used to calculate the simulation, so that different strategies can be applied in different area
 
-As a implementer, I would like to set up/delete a new census track/riding in case of any changes in real life
 
 Presenter/Player:
 As a presenter, I would like to export pictures or data, so that I can use those pictures or data in my report.
