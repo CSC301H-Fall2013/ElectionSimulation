@@ -1,27 +1,27 @@
 Campaign master:
-As a Campaign master, I can select the voting system will be run, so that I can do simulations on different voting systems
+As Jonathan, I can select the voting system will be run, so that I can do simulations on different voting systems
 
-As a Campaign master, I can select the total number of candidates, so that I can simulate different ridings without any restriction of number of candidates
+As Jonathan, I can select the total number of candidates, so that I can simulate different ridings without any restriction of number of candidates
 
-As a Campaign master, I can select the parties of all the candidates, so that I can reflect the most realistic political spectrum
+As Jonathan, I can select the parties of all the candidates, so that I can reflect the most realistic political spectrum
 
-As a Campaign master, I can select the set of ridings, so that I can have a focus research on certain ridings
+As Jonathan, I can select the set of ridings, so that I can have a focus research on certain ridings
 
-As a Campaign master, I can press a button to start the simulation, so that all the simulated data will be computed and store in temperately memory for preview 
+As Jonathan, I can press a button to start the simulation, so that all the simulated data will be computed and store in temperately memory for preview 
 
-As a Campaign master, I can select a riding a riding on map then a certain year, so that I can see the demographic data of the current riding from the selected year
+As Jonathan, I can select a riding a riding on map then a certain year, so that I can see the demographic data of the current riding from the selected year
 
-As a campaign master, I can select a map view, so that I can see the effort that each candidate put in some district.
+As Jonathan, I can select a map view, so that I can see the effort that each candidate put in some district.
 
-As a campaign master, I can press a button to save the simulation result, so that I can keep it for the future reference.
+As Jonathan, I can press a button to save the simulation result, so that I can keep it for the future reference.
 
-As a campaign master, I can manage the historical simulation record by deleting or rearranging the results, so that I can keep the result database small and accurate.
+As Jonathan, I can manage the historical simulation record by deleting or rearranging the results, so that I can keep the result database small and accurate.
 
-As a campaign master, I can load the previous result for the new simulation, so that I can reduce the unnecessary duplicate work. 
+As Jonathan, I can load the previous result for the new simulation, so that I can reduce the unnecessary duplicate work. 
 
-As a campaign master, I can track the simulation result by time order, so that I can see the trend with some variable changing in the election.
+As Jonathan, I can track the simulation result by time order, so that I can see the trend with some variable changing in the election.
 
-As a campaign master, I can preview the simulation results, so that I can get an estimated view without having to generate a fancy report.
+As Jonathan, I can preview the simulation results, so that I can get an estimated view without having to generate a fancy report.
 
 
 Implementer:
@@ -35,12 +35,12 @@ As an implementer, I would like to have a search button, so that I can find the 
 
 
 Presenter/Player:
-As a presenter, I would like to export pictures or data, so that I can use those pictures or data in my report.
+As Linda, I would like to export pictures or data, so that I can use those pictures or data in my report.
 
-As a presenter, I would like to show the election simulation result in dot plot graph or chart graph format, so that I can make my report more visualized and vivid.
+As Linda, I would like to show the election simulation result in dot plot graph or chart graph format, so that I can make my report more visualized and vivid.
 
-As a presenter, I would like to read data but not modify data, so that I don’t need t worry about deleting data accidentally.
+As Linda, I would like to read data but not modify data, so that I don’t need t worry about deleting data accidentally.
 
-As a presenter, I would like to divide the data in to different categories, so that I can check data by categories and do data analysis more easily.
+As Linda, I would like to divide the data in to different categories, so that I can check data by categories and do data analysis more easily.
 
-As a presenter, I would like to press a button to get in touch with election master or implementer, so that if I have any problem with the program, I could report it to them.
+As Linda, I would like to press a button to get in touch with election master or implementer, so that if I have any problem with the program, I could report it to them.
