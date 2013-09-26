@@ -1,7 +1,10 @@
 Campaign master:
 As a Campaign master, I can select the voting system will be run, so that I can do simulations on different voting systems
+
 As a Campaign master, I can select the total number of candidates, so that I can simulate different ridings without any restriction of number of candidates
+
 As a Campaign master, I can select the parties of all the candidates, so that I can reflect the most realistic political spectrum
+
 As a Campaign master, I can select the set of ridings, so that I can have a focus research on certain ridings
 
 As a Campaign master, I can press a button to start the simulation, so that all the simulated data will be computed and store in temperately memory for preview 
@@ -41,4 +44,3 @@ As a presenter, I would like to read data but not modify data, so that I don’t
 As a presenter, I would like to divide the data in to different categories, so that I can check data by categories and do data analysis more easily.
 
 As a presenter, I would like to press a button to get in touch with election master or implementer, so that if I have any problem with the program, I could report it to them.
-
