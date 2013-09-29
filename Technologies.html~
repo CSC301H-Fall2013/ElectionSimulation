@@ -19,7 +19,7 @@
           <a id="forkme_banner" href="https://github.com/CSC301H-Fall2013/ElectionSimulation">View on GitHub</a>
 
           <h1 id="project_title">Team Great Bear</h1>
-          <h2 id="project_tagline">Meeting Minutes and Correspondences</h2>
+          <h2 id="project_tagline">Technologies to be used</h2>
 
             <section id="downloads">
               <a class="topnav" href="index.html" target="_top">Home</a>
@@ -36,8 +36,6 @@
     <!-- MAIN CONTENT -->
    <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-	<p> Meeting 0: Sept 23   <a class="topnav" href="Download/2013_09_23_ClientMeetingNotes.pdf" target="_top">  PDF Link</a>
-	<p> Meeting 1: Sept 26    <a class="topnav" href="Download/2013_09_26_minites.pdf" target="_top">  PDF Link</a>
       </section>
       
     </div>
@@ -45,7 +43,7 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p class="copyright">Great Bear maintained by <a href="https://github.com/dndark">dndark	</a></p>
+        <p class="copyright">Great Bear  maintained by <a href="https://github.com/c0chenlj">c0chenlj</a></p>
         <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
