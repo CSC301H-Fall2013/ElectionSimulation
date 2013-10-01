@@ -9,8 +9,6 @@ As Jonathan, I can select the set of ridings, so that I can have a focus researc
 
 As Jonathan, I can press a button to start the simulation, so that all the simulated data will be computed and store in temperately memory for preview 
 
-As Jonathan, I can select a map view, so that I can see the effort that each candidate put in some district. // under presenter
-
 As Jonathan, I can press a button to save the simulation result, so that I can keep it for the future reference.
 
 As Jonathan, I can manage the historical simulation record by deleting or rearranging the results, so that I can keep the result database small and accurate.
@@ -31,10 +29,11 @@ As an implementer, I would like to modify the formula used to calculate the simu
 
 As an implementer, I would like to have a search button, so that I can find the data without reading through everything
 
-// one button installation.
-
+As an implementer, I would like to have a "one-button-installation" and load the database automatically, so that it's easier for me to use and install on different computers.
 
 Presenter/Player:
+As Linda, I can select a map view, so that I can see the effort that each candidate put in some district. 
+
 As Linda, I would like to export pictures or data, so that I can use those pictures or data in my report.
 
 As Linda, I would like to show the election simulation result in dot plot graph or chart graph format, so that I can make my report more visualized and vivid.
