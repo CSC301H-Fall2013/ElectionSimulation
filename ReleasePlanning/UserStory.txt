@@ -9,9 +9,7 @@ As Jonathan, I can select the set of ridings, so that I can have a focus researc
 
 As Jonathan, I can press a button to start the simulation, so that all the simulated data will be computed and store in temperately memory for preview 
 
-As Jonathan, I can select a riding a riding on map then a certain year, so that I can see the demographic data of the current riding from the selected year
-
-As Jonathan, I can select a map view, so that I can see the effort that each candidate put in some district.
+As Jonathan, I can select a map view, so that I can see the effort that each candidate put in some district. // under presenter
 
 As Jonathan, I can press a button to save the simulation result, so that I can keep it for the future reference.
 
@@ -29,9 +27,11 @@ As an implementer, I would like to add or delete data, so that the current demog
 
 As an implementer, I would like to add/delete users, so that each user will have different privileges
 
-As an implementer, I would like to modify the formula used to calculate the simulation, so that different strategies can be applied in different area
+As an implementer, I would like to modify the formula used to calculate the simulation, so that different strategies.
 
 As an implementer, I would like to have a search button, so that I can find the data without reading through everything
+
+// one button installation.
 
 
 Presenter/Player:
