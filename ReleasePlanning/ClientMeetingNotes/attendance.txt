@@ -1,6 +1,0 @@
-Team Great Bear attendance sheet:
-
- |  |  |    |Jack | Jim | Liz | Eric | Francesco | Hao | Jason | Liam | Minh
-2013_09_30:	|Jack | Jim | Liz | Eric | Francesco | Hao |       | Liam | Minh
-2013_09_26: |     |     |     | Eric | Francesco | Hao | Jason | Liam | Minh	
-2013_09_23:	|     | Jim |     | Eric | Francesco | Hao | Jason | Liam | Minh
