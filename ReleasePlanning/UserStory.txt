@@ -1,49 +1,49 @@
 Campaign master:
 
-As Jonathan, I would like to modify the formula used to calculate the simulation, so that different strategies.
+1.As Jonathan, I would like to modify the formula used to calculate the simulation, so that different strategies.
 
-As Jonathan, I can select the parties of all the candidates, so that I can reflect the most realistic political spectrum
+2.As Jonathan, I can select the parties of all the candidates, so that I can reflect the most realistic political spectrum
 
-As Jonathan, I can select the set of ridings, so that I can have a focus research on certain ridings
+3.As Jonathan, I can select the set of ridings, so that I can have a focus research on certain ridings
 
-As Jonathan, I can select the total number of candidates, so that I can simulate different ridings without any restriction of number of candidates
+4.As Jonathan, I can select the total number of candidates, so that I can simulate different ridings without any restriction of number of candidates
 
-As Jonathan, I can select the voting system will be run, so that I can do simulations on different voting systems
+5.As Jonathan, I can select the voting system will be run, so that I can do simulations on different voting systems
 
-As Jonathan, I would like to add/delete users, so that each user will have different privileges
+6.As Jonathan, I would like to add/delete users, so that each user will have different privileges
 
-As Jonathan, I can select election area on the map, so that I modify the election environment according to specific requirements. 
+7.As Jonathan, I can select election area on the map, so that I modify the election environment according to specific requirements. 
+
+8.As Jonathan, I would like to add or delete data, so that the current demographic is up to date
 
 
 Implementer:
 
-As Jennifer, I would like to have a "one-button-installation" and load the database automatically, so that it's easier for me to use and install on different computers.
+1.As Jennifer, I would like to have a "one-button-installation" and load the database automatically, so that it's easier for me to use and install on different computers.
 
 Presenter/Player:
-As Linda, I can press a button to start the simulation, so that all the simulated data will be computed and store in temperately memory for preview 
+1.As Linda, I can press a button to start the simulation, so that all the simulated data will be computed and store in temperately memory for preview 
 
-As Linda, I can press a button to save the simulation result, so that I can keep it for the future reference.
+2.As Linda, I can press a button to save the simulation result, so that I can keep it for the future reference.
 
-As Linda, I can manage the historical simulation record by deleting or rearranging the results, so that I can keep the result database small and accurate.
+3.As Linda, I can manage the historical simulation record by deleting or rearranging the results, so that I can keep the result database small and accurate.
 
-As Linda, I can load the previous result for the new simulation, so that I can reduce the unnecessary duplicate work. 
+4.As Linda, I can load the previous result for the new simulation, so that I can reduce the unnecessary duplicate work. 
 
-As Linda, I can track the simulation result by time order, so that I can see the trend with some variable changing in the election.
+5.As Linda, I can track the simulation result by time order, so that I can see the trend with some variable changing in the election.
 
-As Linda, I would like to have a search button, so that I can find the data without reading through everything
+6.As Linda, I would like to have a search button, so that I can find the data without reading through everything
 
-As Linda, I can preview the simulation results, so that I can get an estimated view without having to generate a fancy report.
+7.As Linda, I can preview the simulation results, so that I can get an estimated view without having to generate a fancy report.
 
-As Linda, I would like to add or delete data, so that the current demographic is up to date
+8.As Linda, I can select a map view, so that I can see the effort that each candidate put in some district. 
 
-As Linda, I can select a map view, so that I can see the effort that each candidate put in some district. 
+9.As Linda, I would like to export pictures or data, so that I can use those pictures or data in my report.
 
-As Linda, I would like to export pictures or data, so that I can use those pictures or data in my report.
+10.As Linda, I would like to show the election simulation result in dot plot graph or chart graph format, so that I can make my report more visualized and vivid.
 
-As Linda, I would like to show the election simulation result in dot plot graph or chart graph format, so that I can make my report more visualized and vivid.
+11.As Linda, I would like to read data but not modify data, so that I don’t need t worry about deleting data accidentally.
 
-As Linda, I would like to read data but not modify data, so that I don’t need t worry about deleting data accidentally.
+12.As Linda, I would like to divide the data in to different categories, so that I can check data by categories and do data analysis more easily.
 
-As Linda, I would like to divide the data in to different categories, so that I can check data by categories and do data analysis more easily.
-
-As Linda, I would like to press a button to get in touch with election master or implementer, so that if I have any problem with the program, I could report it to them.
+13.As Linda, I would like to press a button to get in touch with election master or implementer, so that if I have any problem with the program, I could report it to them.
