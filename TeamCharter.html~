@@ -16,19 +16,19 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <a id="forkme_banner" href="https://github.com/CSC301H-Fall2013/ElectionSimulation">View on GitHub</a>
+         <a id="forkme_banner" href="https://github.com/CSC301H-Fall2013/ElectionSimulation">View on GitHub</a>
 
           <h1 id="project_title">Team Great Bear</h1>
-          <h2 id="project_tagline">Meeting Minutes and Correspondences</h2>
+          <h2 id="project_tagline">Team Charter</h2>
 
             <section id="downloads">
               <a class="topnav" href="index.html" target="_top">Home</a>
-              <a class="topnav" href="About_Team.html" target="_top">About_the_Team</a>
+              <a class="topnav" href="About_Team.html" target="_top">Meeting_Time</a>
               <a class="topnav" href="TeamCharter.html" target="_top">Team_Charter</a>
               <a class="topnav" href="Personas.html" target="_top">Personas</a>
               <a class="topnav" href="Userstories.html" target="_top">User_Stories</a>
               <a class="topnav" href="ProjectCharter.html" target="_top">Project_Charter</a>
-              <a class="topnav" href="Technologies.html" target="_top">Technologies</a>
+              <a class="topnav" href="Technologies.html" target="_top">Technologies_and_Code</a>
             </section>
         </header>
     </div>
@@ -36,8 +36,31 @@
     <!-- MAIN CONTENT -->
    <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-	<p> Meeting 0: Sept 23   <a class="topnav" href="Download/2013_09_23_ClientMeetingNotes" target="_top">  PDF Link</a>
-	<p> Meeting 1: Sept 26    <a class="topnav" href="Download/2013_09_26_minites.pdf" target="_top">  PDF Link</a>
+	<P>WE THE PEOPLE reserve the right to not surrender
+our right to reach a consensus amongst ourselves before submitting to any ex-
+ternal will that might impose on our freedom of choice; our wills bend for no
+dictator with an iron fist.
+<p>
+We acknowledge that clients have necessary demands and so shall they be met
+as long as they be met within reason (subject to the previous provision).
+<p>
+We will test the functionality of our code to our satisfaction where, at the very
+least, every critical feature will be subject to at least a few test cases.
+<p>
+We will avoid dissociation among ourselves by maintaining contact through e-
+mail between intervals of at most 16 hours. Similarly, we will hold two weekly
+meetings, one of which will include the product champion and the other of which
+will occur among ourselves during tutorial. We will otherwise meet on Mondays
+at 11. In case of an immediate concern, we will call send a text message to one
+another to immediately gather the group’s collective attention.
+<P>
+With a complete list of user stories we will set and maintain deadlines within
+respective sprints so as to keep a consistent momentum.
+<P>
+We stress the importance of honesty especially in the face of any sort of hiccup
+during the scrum process; it will be more useful to immediately admit to needing
+support from the other team members than to fail silently and fracture the team.
+<P> <a href="Download/team_charter.pdf">Download Link for Personas</a></p>
       </section>
       
     </div>
@@ -45,7 +68,7 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p class="copyright">Great Bear maintained by <a href="https://github.com/dndark">dndark	</a></p>
+        <p class="copyright">Great Bear  maintained by <a href="https://github.com/dndark">dndark</a></p>
         <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>

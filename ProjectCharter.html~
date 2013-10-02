@@ -23,12 +23,12 @@
 
             <section id="downloads">
               <a class="topnav" href="index.html" target="_top">Home</a>
-              <a class="topnav" href="About_Team.html" target="_top">About_the_Team</a>
+              <a class="topnav" href="About_Team.html" target="_top">Meeting_Time</a>
               <a class="topnav" href="TeamCharter.html" target="_top">Team_Charter</a>
               <a class="topnav" href="Personas.html" target="_top">Personas</a>
               <a class="topnav" href="Userstories.html" target="_top">User_Stories</a>
               <a class="topnav" href="ProjectCharter.html" target="_top">Project_Charter</a>
-              <a class="topnav" href="Technologies.html" target="_top">Technologies</a>
+              <a class="topnav" href="Technologies.html" target="_top">Technologies_and_Code</a>
             </section>
         </header>
     </div>
@@ -36,6 +36,30 @@
     <!-- MAIN CONTENT -->
    <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+      <p>
+      Hypothetically, upon completion of the software, its functionality will be divided
+as per the permissions of the user(s). We will have defined two different kinds
+of users: Campaign Master, and Presenter/Player. The Player will have the
+authority to set the parameters for the overall simulation environment which
+the Campaign Master will be confined to. Then, the Campaign Master will
+allocate the resources dedicated by the Player for the simulation of an election.
+The Campaign Master will choose a type of election to simulate (FPTP or STV
+etc) and the software will generate the results based on all the federal election
+data we will have been able to procure. Since the model will function mostly on
+statistics, which revolves around uncertainty, we can be fairly certain of success
+if the system predicts the results according to the tendency of the data, or if we
+the data as a validation set and run a simulation with the same parameters to
+attempt to generate the same outcome.
+<P>
+On the presenter’s end, success would be if the system properly generated a neat
+graphical representation of the results, demonstrating the various proportions
+of the voters. One of the more important features of the software would be to
+generate nice graphs of the results because the software is politically-motivated;
+the end result is to argue to some high-authority figures that proportional voting
+is feasible at least within the city of Toronto, so it would have to be appeal-
+ing and simple for them to understand and being able to see the proportions
+of voters should convince them additionally the voice of the voters is vastly
+under-represented.
       </section>
       
     </div>
@@ -43,7 +67,7 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p class="copyright">Great Bear  maintained by <a href="https://github.com/c0chenlj">c0chenlj</a></p>
+        <p class="copyright">Great Bear  maintained by <a href="https://github.com/dndark">dndark</a></p>
         <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
