@@ -40,8 +40,10 @@
          <P>HTML - A markup language for creating web pages  
          <p>Django - A web framework for our server portion of our project.
 	 <p>Python - A Programming language that Django based on.
-	 <p>Sql - Used to managing our data base
-	  <a href="https://github.com/CSC301H-Fall2013/ElectionSimulation/tree/master/Install">Checkout our code at GitHub repositiory</a>
+	 <p>PyCharnm/Eclipse with the PyDev plugin - An IED for write Python/Django
+	 <p>Sql - Used to managing our data base.
+	 <p><a href="https://github.com/CSC301H-Fall2013/ElectionSimulation/tree/master/Code"> Checkout our code at GitHub repositiory </a>
+	  <p><a href="https://github.com/CSC301H-Fall2013/ElectionSimulation/tree/master/Install">Software installation</a>
       </section>
       
     </div>
