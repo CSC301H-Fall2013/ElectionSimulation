@@ -1,0 +1,32 @@
+Implementer
+As an Jennifer, I would like to add or delete data, so that the current demographic is up to date
+	-Test Cases:
+		-try adding data to the existing ones, and see if it is saved after exitting
+		-try deleting data to the existing ones, and see if it is saved after exitting
+
+
+
+As an Jennifer, I would like to have a "one-button-installation" and load the database automatically, so that it's easier for me to use and install on different computers.
+	-Test Case:
+		-Click on the "button" to see if everything is installed
+
+
+
+As an implementer, I would like to have a search button, so that I can find the data without reading through everything
+	-Test Case:
+		-Search for an existing data, see if it can find it
+		-Search for an non-existing data, see if it has no bug
+
+
+
+As an Jennifer, I would like to add/delete users, so that each user will have different privileges
+	-Test Case:
+		-add a user, try logging in with the new user
+		-add a user without privileges, try to see if they can operate functions that requires such previleges
+		-delete a user, try to log back in with the deleted account
+
+
+As an Jennifer, I would like to modify the formula used to calculate the simulation, so that different strategies.
+	-Test Cae:
+		-Modify the formual with same data input, to see if the result is changed and correct
+
