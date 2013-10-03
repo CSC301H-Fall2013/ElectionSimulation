@@ -4,9 +4,6 @@
 # This installer will install python, Django framework , Apache HTTP server
 # The server will be run on port 80
 
-# Get root access early
-sudo -s
-
 # Install prerequisites
 # In case there is no python
 if test -z `which python`
