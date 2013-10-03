@@ -1,0 +1,16 @@
+Implementer 1:
+As Jennifer, I would like to have a "one-button-installation" and load the database automatically, so that it's easier for me to use and install on different computers.
+	-TestCase - manual only:
+	    Possitive test cases:
+            -Get the install package
+            -Run install.sh , need permission if any
+            -Put in password for root access
+            -Wait for the installation to finish
+            -Check if http://greatbear.cloudapp.net/ has something to offer rather than errors
+            -If yes then the test passes
+        Negative test cases:
+            -Run on non-linux os : this cannot run
+            -No root access : this cannot install
+	-Estimation:
+		-Story point: 3
+		-Time : 24 hours
