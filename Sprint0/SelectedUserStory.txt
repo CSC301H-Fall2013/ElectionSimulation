@@ -1,6 +1,0 @@
-As Jennifer, I would like to have a "one-button-installation" and load the database automatically, so that it's easier for me to use and install on different computers.
-	-TestCase - manual only:
-		-Click on the "button" to see if everything is installed
-	-Estimation:
-		-Story point 3
-		-Time : 24 hours
