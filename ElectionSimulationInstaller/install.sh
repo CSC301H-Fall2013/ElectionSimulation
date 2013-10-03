@@ -3,6 +3,7 @@
 # Target system OS : Ubuntu Server 13.04
 # This installer will install python, Django framework , Apache HTTP server
 # The server will be run on port 80
+# Please run "sudo -s" before running the script first if there is any problem during
 
 # Install prerequisites
 # In case there is no python
@@ -32,13 +33,16 @@ then
 fi
 
 # Copy install webpage files
-cp -r ./ElectionSimulation ${HOME}/ElectionSimulation
+cd ../
+rm -rf ${HOME}/ElectionSimulation/
+mkdir ${HOME}/ElectionSimulation/
+cp -r ./ElectionSimulation/ ${HOME}/
 
 # Set configuration files
 # store a back up of the default configuration
-cat etc/apache2/sites-available/default > etc/apache2/sites-available/default_back_up
+cat /etc/apache2/sites-available/default > /etc/apache2/sites-available/default_back_up
 
 # write the configuration
 # Replace all %HOME% with the real ${HOME} in the template file and write it all to the real file
-sed -e "s|%HOME%|${HOME}|g" < ./ApacheConfig > etc/apache2/sites-available/default
+sed -e "s|%HOME%|${HOME}|g" < ./ApacheConfig > /etc/apache2/sites-available/default
 sudo apachectl restart

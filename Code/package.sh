@@ -7,4 +7,4 @@ chmod 700 *
 InstallerFolder=ElectionSimulationInstaller
 rm -rf ../${InstallerFolder}/ElectionSimulation/
 mkdir ../${InstallerFolder}/ElectionSimulation/
-cp -r ./ElectionSimulation/ ../${InstallerFolder}/ElectionSimulation/
+cp -r ./ElectionSimulation/ ../${InstallerFolder}
