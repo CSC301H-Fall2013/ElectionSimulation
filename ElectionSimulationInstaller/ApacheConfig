@@ -1,0 +1,10 @@
+WSGIScriptAlias / %HOME%/ElectionSimulation/ElectionSimulation/wsgi.py
+WSGIPythonPath %HOME%/ElectionSimulation
+<VirtualHost *:80>
+<Directory %HOME%/ElectionSimulation>
+        <Files wsgi.py>
+                Order deny,allow
+                Allow from all
+        </Files>
+</Directory>
+</VirtualHost>
