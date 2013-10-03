@@ -8,3 +8,4 @@ InstallerFolder=ElectionSimulationInstaller
 rm -rf ../${InstallerFolder}/ElectionSimulation/
 mkdir ../${InstallerFolder}/ElectionSimulation/
 cp -r ./ElectionSimulation/ ../${InstallerFolder}
+tar -zcvf ../ElectionSimulation.tgz ../ElectionSimulationInstaller
