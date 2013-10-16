@@ -1,0 +1,24 @@
+CSC301 Group Meeting #6
+
+Team: Great Bear
+Date: Oct 12th, Saturday
+Time: 2:00 pm. - 4:00 pm.
+
+----------Group Meeting---------
+1. Create scrum board on Trello.
+address: https://trello.com/b/biyCbmVI/electionsimulation
+
+2. Story estimation by Scrum Poker.
+ 
+-----------To Do List-----------
+1.Produce the sprint backlog -> by Oct 17th.
+
+2.Burn down chart -> by Oct 17th.
+
+-----------Attendance-----------
+liangxu chenJason Cheng 
+Francesco Gramano 
+Minh Le HoangHao Wu
+Eric Zaporzan
+
+

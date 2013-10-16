@@ -1,0 +1,28 @@
+CSC301 Group Meeting #5
+
+Team: Great Bear
+Date: Oct 10th, Thursday
+Time: 11:00 a.m. - 12:00 p.m.
+
+----------Group Meeting---------
+With TA
+
+
+-----------To Do List-----------
+1.Estimate every stories -> By the end of Saturday
+
+2.Build database -> By the end of Sprint 1 Final
+
+3.Contact UofT library about the database license -> By the end of Sprint 1 Final
+
+4.Next group meeting on this Saturday.
+
+5.Start create index card for the software. -> By the end of Oct 17th
+
+-----------Attendance-----------
+liangxu chenJason Cheng 
+Francesco Gramano 
+Minh Le HoangHao Wu
+Eric Zaporzan
+
+

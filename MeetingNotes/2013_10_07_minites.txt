@@ -1,0 +1,30 @@
+CSC301 Group Meeting #4
+
+Team: Great Bear
+Date: Oct 7th, Monday
+Time: 11:00 a.m. - 12:00 p.m.
+
+----------Group Meeting---------
+With Product Champion, Jim.
+
+About the data.
+1.Jim wants us to the complete database, get everything connected by the end of the Sprint 1. (Prioritizing the user stories.)
+
+2.Jim wants to use the data from 2005, not recent years(after 2010).
+
+
+About the formula: still no response from Jim.
+
+About the documentation:
+Need both system docs and user docs.
+
+-----------To Do List-----------
+1. Write user stories on index card in next meeting -> by Oct 10th.
+
+-----------Attendance-----------
+liangxu chenJason Cheng 
+Francesco Gramano 
+Minh Le HoangHao Wu
+Eric Zaporzan
+
+
