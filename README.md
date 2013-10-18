@@ -3,7 +3,6 @@ ElectionSimulation
 
 Election Tycoon project by Team Great Bear
 
-check everything on our website http://csc301h-fall2013.github.io/ElectionSimulation/index.html
-
+Check everything on our Wikipage https://github.com/CSC301H-Fall2013/ElectionSimulation/wiki/Election-Simulation-Wiki-Home
 
 Our project is running on http://greatbear.cloudapp.net/
