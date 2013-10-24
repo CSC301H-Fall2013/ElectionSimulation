@@ -1,0 +1,60 @@
+Test Report:
+
+  Check_Empty_Test:
+    1. Create a "fake source" with nothing in it
+    2. if the table is not empty, the test fails
+    3. else the test succeeds
+    
+  Check_One_Element_Test:
+    1. Create a "fake source" with one valid row in it
+    2. if the table does not contain the same row as the source, the test fails
+    3. else the test succeeds
+
+  Check_Element_Correct_Test:
+    1. Pick a few random rows from the source file, and save it in a temperate file
+    2. From the table, do a select on the data we saved in the temperate file
+    3. if the result from the select is empty, the test fails
+    4. if all the result is the same as the data in the temperate file, the test succeeds
+    
+  Check_Everything_Test:
+    1. Create a "fake Source" file, with fewer number of columns but the same restrictions(integer or charcter with limited length) in each column
+    2. Select everything from the table
+    3. Compare the resulting table with the data we created
+    4. if the table is not exactly the same as the data we created, the test fails
+    5. else the test succeeds
+    
+   Check_Number_Entry_Test:
+    1. Count the number of rows in the source file (read the line number on the last line of the source file)
+    2. Do a count on the table we created. This can be done with a few lines of queries.
+    3. If the number in the source file is not the same as the number in the table, the test fails
+    4. If the two numbers are the same, the test succeeds
+    
+   Check_NULL_Test:
+    1. Create a "fake Source" file, with few rows of different valid data, but with one NULL entry in the middle.  
+    2. From the table, do a select on the data we saved in the temperate file
+    3. if the result contains the invalid row, the test fails, return the error indicating NULL entry
+    4. else the test succeeds
+    
+   Check_length_Test:
+    1. Create a "fake Source" file, with with few rows of different valid data, but with one that exceeds the maximum allowed length in the middle.
+    2. From the table, do a select on the data we saved in the temperate file
+    3. f the result contains the invalid row, the test fails, return the error indicating "length exceeds" entry
+    4. else the test succeeds
+    
+   Check_Wrong_Type_Test:
+    1. Create a "fake Source" file, with with few rows of different valid data, but with one entry that has wrong type (expecting integer but given charcter) in the middle.  
+    2. From the table, do a select on the data we saved in the temperate file
+    3. f the result contains the invalid row, the test fails, return the error indicating "Wrong Type" entry
+    4. else the test succeeds
+    
+   Check_Extra_column_Test:
+    1. Create a "fake Source" file,with with few rows of different valid data, but with one entry that has extra columns in the middle.
+    2. From the table, do a select on the data we saved in the temperate file
+    3. f the result contains the invalid row, the test fails, return the error indicating "Extra Column" entry
+    4. else the test succeeds
+   
+   Check_Primary_Key_Test:
+    1. Create a "fake Source" file, with with few rows of different valid data, but with one data that has the repeated Primary Key
+    2. From the table, do a select on the data we saved in the temperate file
+    3. f the result contains the invalid row, the test fails, return the error indicating "Primary Key" entry
+    4. else the test succeeds
