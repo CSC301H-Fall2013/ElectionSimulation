@@ -1,0 +1,36 @@
+ 
+CREATE TABLE Polling_Station(
+	PS_ID CHAR(50) ,
+	Candiate CHAR(50)    ,
+	CT_ID CHAR(50)    ,
+	Party CHAR(50)	      ,
+	Riding_ID CHAR(50)    NOT NULL,
+	Vote INTEGER       NOT NULL,
+	PRIMARY KEY (PS_ID, Candiate),
+	FOREIGN KEY(Riding_ID) REFERENCES Riding(Riding_ID)
+	FOREIGN KEY(CT_ID) REFERENCES Riding(CT_ID)
+	);
+
+CREATE TABLE Census_Tract(
+	ID  PRIMARY KEY NOT NULL,
+	CT_ID CHAR(50),
+	demographic INTEGER NOT NULL,
+	Ageunder_18 INTEGER NOT NULL,
+	Agerest INTEGER NOT NULL,
+	Male INTEGER NOT NULL,
+	Female INTEGER NOT NULL
+	);
+	
+CREATE TABLE Riding(
+	Riding_ID CHAR(50)    ,
+	Candiate CHAR(50)     ,
+	Party CHAR(50)	      , 
+	Vote INTEGER  NOT NULL,
+	Expenses  INTERGER  NOT NULL,
+	PRIMARY KEY (Riding_ID, Candiate)
+	)
+	
+	
+	
+	
+
