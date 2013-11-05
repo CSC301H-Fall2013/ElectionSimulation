@@ -1,0 +1,18 @@
+We chose to simplify the formula by using the logistic regression,
+where the weights would represent the relative proportion of voter
+demographics necessary in the model.
+
+
+Test 1: Using random proportions for demographics, does the model
+properly return a number between the range [0, 1]?
+
+
+Test 2: If we evenly distribute the proportions of the voter
+demographics after evenly grouping the voters among parties
+they could vote for, does the formula corroborate that the
+candidate gets an even voter representation?
+
+
+Test 3: Using as much data from a previous election as possible,
+can we predict the same result as a previous election using the
+same voter demographics as the model's parameters? 
