@@ -1,0 +1,36 @@
+#We test the proportion of unrepresented voters because the correct
+#results should be easily accessible
+SELECT (SUM(Vote) - MAX(Vote)) / SUM(Vote)
+FROM (SELECT SUM(Vote)
+	FROM Riding
+	GROUP BY Party);
+#The total number of voters who did not get represented
+
+
+
+#We wish to test this result because it is critical for the prediction model
+#so we would presumably hand-pick a candidate and verify that their coverage
+#is properly queried.
+SELECT COUNT(PS_ID)
+FROM Riding
+INNER JOIN Polling_Station AS PS ON PS.Riding_ID = Riding.Riding_ID;
+GROUP BY Riding.Candidate;
+#The result should return number of polling station the candidates cover.
+
+
+
+#We wish to query the candidate with the highest votes because (unless that
+#candidate had a tie) they would have won the election for their riding
+SELECT Candidate
+FROM RIDING
+WHERE Vote = (SELECT MAX(Vote)
+FROM Riding);
+#The result should return the candidate(s) of 1993 who had the most votes
+
+
+
+#We test the total voting population because the correct
+#results should be the easiest to access
+SELECT SUM(Male), SUM(Female)
+FROM Census_Tract;
+#The sum of these two numbers should represent the total population
