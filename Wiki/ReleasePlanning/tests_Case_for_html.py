@@ -109,7 +109,7 @@ class SimpleTest(unittest.TestCase):
         
         
      def test_mail_to(self):
-        ''' Negative case. Check whether the mail to button can link to a new html page.
+        '''Positive case. Check whether the mail to button can link to a new html page.
         This is the test case for user story 4, to display the image.
         '''
         
