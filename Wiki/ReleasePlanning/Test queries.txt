@@ -1,0 +1,49 @@
+#We test the proportion of unrepresented voters because the correct
+#results should be easily accessible
+SELECT (SUM(Vote) - MAX(Vote)) / SUM(Vote)
+FROM (SELECT SUM(Vote)
+	FROM Riding
+	GROUP BY Party);
+#The total number of voters who did not get represented
+
+
+#we wish to see the total number of the cencus tract, riding and Polling_Station
+SELECT COUNT(CT_ID)
+FROM Census_Tract
+
+SELECT COUNT(PS_ID)
+FROM Polling_Station
+
+SELECT COUNT(riding_ID)
+FROM Riding
+
+#We wish to test this result because it is critical for the prediction model
+#so we would presumably hand-pick a candidate and verify that their coverage
+#is properly queried.
+SELECT COUNT(PS_ID)
+FROM Riding
+INNER JOIN Polling_Station AS PS ON PS.Riding_ID = Riding.Riding_ID;
+GROUP BY Riding.Candidate;
+#The result should return number of polling station the candidates cover.
+
+
+
+#We wish to query the candidate with the lowest votes make sure don't get some number less then 0
+SELECT Candidate
+FROM RIDING
+WHERE Vote = (SELECT MIN(Vote)
+FROM Riding);
+
+
+#We test the total voting population because the correct
+#results should be the easiest to access
+SELECT SUM(Male), SUM(Female)
+FROM Census_Tract;
+#The sum of these two numbers should represent the total population
+
+
+SELECT SUM(Agerest), SUM(Ageunder_18)
+FROM Census_Tract;
+#The sum of these two numbers should represent the total population with should be equal to sum of male and female
+
+
