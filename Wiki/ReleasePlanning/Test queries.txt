@@ -7,6 +7,15 @@ FROM (SELECT SUM(Vote)
 #The total number of voters who did not get represented
 
 
+#we wish to see the total number of the cencus tract, riding and Polling_Station
+SELECT COUNT(CT_ID)
+FROM Census_Tract
+
+SELECT COUNT(PS_ID)
+FROM Polling_Station
+
+SELECT COUNT(riding_ID)
+FROM Riding
 
 #We wish to test this result because it is critical for the prediction model
 #so we would presumably hand-pick a candidate and verify that their coverage
@@ -19,14 +28,11 @@ GROUP BY Riding.Candidate;
 
 
 
-#We wish to query the candidate with the highest votes because (unless that
-#candidate had a tie) they would have won the election for their riding
+#We wish to query the candidate with the lowest votes make sure don't get some number less then 0
 SELECT Candidate
 FROM RIDING
-WHERE Vote = (SELECT MAX(Vote)
+WHERE Vote = (SELECT MIN(Vote)
 FROM Riding);
-#The result should return the candidate(s) of 1993 who had the most votes
-
 
 
 #We test the total voting population because the correct
@@ -34,3 +40,10 @@ FROM Riding);
 SELECT SUM(Male), SUM(Female)
 FROM Census_Tract;
 #The sum of these two numbers should represent the total population
+
+
+SELECT SUM(Agerest), SUM(Ageunder_18)
+FROM Census_Tract;
+#The sum of these two numbers should represent the total population with should be equal to sum of male and female
+
+
