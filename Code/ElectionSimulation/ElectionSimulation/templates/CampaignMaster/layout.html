@@ -1,13 +1,20 @@
 {% extends "layout.html" %}
 {% block content %}
 <div class="container">
-        <a class="btn btn-primary" href="/campaign_master/">List of campaigns</a>
-        <a class="btn btn-primary" href="/campaign_master/add">Create new campaign</a>
-    {% block CampaignMaster_content %}{% endblock %}
-    <div class="footer">
-        <p>
-            &copy; Team Great Bear - CSC301 - University of Toronto - September 2013
-        </p>
+    <div class="row">
+        <div class="col-md-12" align="center">
+            <h1>Campaign master tools</h1>
+        </div>
+        <div class="col-md-12" align="right">
+            <b>User name:</b> g2minhle
+        </div>
+        <div class="col-md-12">
+            <a class="btn btn-primary" href="/campaign_master/">List of campaigns</a>
+            <a class="btn btn-primary" href="/campaign_master/add">Create new campaign</a>
+        </div>
+        <div class="col-md-12">
+            {% block CampaignMaster_content %}{% endblock %}
+        </div>
     </div>
 </div>
 {% endblock %}
