@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="container">
+        <a class="btn btn-primary" href="/campaign_master/">List of campaigns</a>
+        <a class="btn btn-primary" href="/campaign_master/add">Create new campaign</a>
+    {% block CampaignMaster_content %}{% endblock %}
+    <div class="footer">
+        <p>
+            &copy; Team Great Bear - CSC301 - University of Toronto - September 2013
+        </p>
+    </div>
+</div>
+{% endblock %}
