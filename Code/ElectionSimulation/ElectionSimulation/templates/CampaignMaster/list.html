@@ -13,26 +13,14 @@
         </tr>
         </thead>
         <tbody>
-        <tr>
-            <td>1</td>
-            <td>Mark</td>
-            <td>Mark</td>
-            <td>Mark</td>
-            <td>Mark</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Jacob</td>
-            <td>Mark</td>
-            <td>Mark</td>
-            <td>Mark</td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>twitter</td>
-            <td>Mark</td>
-            <td>Mark</td>
-            <td>Mark</td>
-        </tr>
+        {% for campaign in campaigns %}
+            <tr>
+                <td>{{campaign.id}}</td>
+                <td>{{campaign.name}}</td>
+                <td>{{campaign.create_date}}</td>
+                <td>N/A</td>
+                <td>N/A</td>
+            </tr>
+        {% endfor %}
     </table>
 {% endblock %}
