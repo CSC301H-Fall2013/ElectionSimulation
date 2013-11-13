@@ -13,13 +13,13 @@
         </tr>
         </thead>
         <tbody>
-        {% for i in campaigns %}
+        {% for campaign in campaigns %}
             <tr>
-                <td>{{i.id}}</td>
-                <td>{{i.name}}</td>
-                <td>{{i.create_date}}</td>
-                <td>N/A</td>
-                <td>N/A</td>
+                <td>{{campaign.id}}</td>
+                <td>{{campaign.name}}</td>
+                <td>{{campaign.create_date}}</td>
+                <td>{{campaign.voting_system}}</td>
+                <td>{{campaign.formula.id}} - {{campaign.formula.name}}</td>
             </tr>
         {% endfor %}
     </table>

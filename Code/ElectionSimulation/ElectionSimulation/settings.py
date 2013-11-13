@@ -9,6 +9,8 @@ ADMINS = (
 
 MANAGERS = ADMINS
 
+# This setting can be found in /Code/environments.properties
+# Must keep this information in synch with the file
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',                     
