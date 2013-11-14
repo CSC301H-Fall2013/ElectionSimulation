@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="Test_empty_Campaign">test_empty_Campaign</a></td></tr>
+<tr><td><a href="Test_Campaign_is_Num">test_Campaign_is_Num</a></td></tr>
+<tr><td><a href="Test_add_Canadiate">Test_add_candidate</a></td></tr>
+<tr><td><a href="Test_add_Multiple_candiate">Test_add_multiple_candidate</a></td></tr>
+<tr><td><a href="Test_repeated_adding_campaign">Test_repeated_adding_campaign</a></td></tr>
+<tr><td><a href="Test_different_voting_system">Test_different_voting_system</a></td></tr>
+<tr><td><a href="Test_different_Formula">Test_different_Formula</a></td></tr>
+<tr><td><a href="Test_different_Candadate_party">Test_different_candidate_party</a></td></tr>
+</tbody></table>
+</body>
+</html>
