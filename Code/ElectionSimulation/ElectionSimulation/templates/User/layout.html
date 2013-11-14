@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12" align="center">
+            <h1>User Interface</h1>
+        </div>
+        <div class="col-md-12" align="right">
+            <b>User name:</b> {{full_name}} 
+        </div>
+        <div class="col-md-12">
+            <a class="btn btn-primary" href="/User">List of campaigns</a>
+        </div>
+        <div class="col-md-12">
+            {% block CampaignMaster_content %}{% endblock %}
+        </div>
+    </div>
+</div>
+{% endblock %}
