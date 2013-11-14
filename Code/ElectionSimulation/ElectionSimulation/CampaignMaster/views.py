@@ -16,7 +16,6 @@ def list_campaign(request):
 
 def show_add_campaign_form(request):
     context = {}
-    context.update(csrf(request))
     context['full_name'] = request.user.username
     # Load list of formula
     context['formulas'] = Formula.objects.all()
@@ -28,7 +27,7 @@ def show_add_campaign_form(request):
                                  'Social choice theory',
                                  'Politics portal']
     context['parties'] = PoliticalParty.objects.all()
-    return render_to_response('CampaignMaster/addNewCampaign.html', context)
+    return render('CampaignMaster/addNewCampaign.html', context)
 
 
 def add_new_campaign(request):
@@ -53,7 +52,7 @@ def add_new_campaign(request):
                             voting_system=voting_system)
     # Add into DB
     new_campaign.save()
-    return render_to_response('CampaignMaster/addNewCampaign.html', {'full_name': request.user.username})
+    return render('CampaignMaster/addNewCampaign.html', {'full_name': request.user.username})
 
 
 def add_campaign(request):
