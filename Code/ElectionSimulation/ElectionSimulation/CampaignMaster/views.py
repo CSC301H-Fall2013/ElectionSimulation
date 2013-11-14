@@ -64,4 +64,4 @@ def add_campaign(request):
     if request.method == 'GET':
         return show_add_campaign_form(request)
     elif request.method == 'POST':
-        return add_campaign(request)
+        return add_new_campaign(request)
