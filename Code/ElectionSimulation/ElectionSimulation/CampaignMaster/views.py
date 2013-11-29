@@ -27,7 +27,7 @@ def show_add_campaign_form(request):
                                  'Social choice theory',
                                  'Politics portal']
     context['parties'] = PoliticalParty.objects.all()
-    return render('CampaignMaster/addNewCampaign.html', context)
+    return render(request, 'CampaignMaster/addNewCampaign.html', context)
 
 
 def add_new_campaign(request):
@@ -52,7 +52,7 @@ def add_new_campaign(request):
                             voting_system=voting_system)
     # Add into DB
     new_campaign.save()
-    return render('CampaignMaster/addNewCampaign.html', {'full_name': request.user.username})
+    return render(request, 'CampaignMaster/addNewCampaign.html', {'full_name': request.user.username})
 
 
 def add_campaign(request):
