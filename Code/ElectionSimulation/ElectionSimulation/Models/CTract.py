@@ -1,17 +1,17 @@
 from django.db import models
 
 class CTract(models.Model):
-	""" The model for Census Tracts
+    """ The model for Census Tracts
     """
 
-    ctuid = models.DateTimeField(max_length=1000)
-    age_1 = models.DateTimeField(max_length=1000)
-    age_2 = models.DateTimeField(max_length=1000)
-    age_3 = models.DateTimeField(max_length=1000)
-    age_4 = models.DateTimeField(max_length=1000)
-    age_5 = models.DateTimeField(max_length=1000)
-    age_6 = models.DateTimeField(max_length=1000)
-    age_7 = models.DateTimeField(max_length=1000)
-    age_8 = models.DateTimeField(max_length=1000)
-    age_9 = models.DateTimeField(max_length=1000)
-    age_10 = models.DateTimeField(max_length=1000)
+    ctuid = models.IntegerField()
+    age_1 = models.FloatField()
+    age_2 = models.FloatField()
+    age_3 = models.FloatField()
+    age_4 = models.FloatField()
+    age_5 = models.FloatField()
+    age_6 = models.FloatField()
+    age_7 = models.FloatField()
+    age_8 = models.FloatField()
+    age_9 = models.FloatField()
+    age_10 = models.FloatField()

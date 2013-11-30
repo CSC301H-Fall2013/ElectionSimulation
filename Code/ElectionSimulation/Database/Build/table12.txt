@@ -1,0 +1,295 @@
+~35~,~01001~,~Algoma~,~Algoma~,~450~,~E~,~SSM~,43688,43765,,,,0,~05~
+~35~,~01002~,~Brampton~,~Brampton~,~454~,~E~,~MIS~,80678,94631,,,,0,~05~
+~35~,~01003~,~Bramalea--Gore--Malton~,~Bramalea--Gore--Malton~,~452~,~E~,~MIS~,56348,56909,,,,0,~05~
+~35~,~01004~,~Brant~,~Brant~,~456~,~E~,~~,65336,68982,,,,0,~05~
+~35~,~01005~,~Bruce--Grey~,~Bruce--Grey~,~458~,~E~,~~,66746,70869,,,,0,~05~
+~35~,~01006~,~Burlington~,~Burlington~,~460~,~E~,~BUR~,63577,64149,,,,0,~05~
+~35~,~01007~,~Cambridge~,~Cambridge~,~462~,~E~,~KIT~,69634,78792,,,,0,~05~
+~35~,~01008~,~Carleton--Gloucester~,~Carleton--Gloucester~,~464~,~E~,~OTT~,75578,86695,,,,0,~05~
+~35~,~01009~,~Cochrane--Superior~,~Cochrane--SupÇrieur~,~466~,~E~,~N/A~,41262,40248,,,,0,~05~
+~35~,~01010~,~Durham~,~Durham~,~468~,~E~,~OSH~,68790,80282,,,,0,~05~
+~35~,~01011~,~Elgin--Norfolk~,~Elgin--Norfolk~,~470~,~E~,~~,56065,59172,,,,0,~05~
+~35~,~01012~,~Erie~,~Erie~,~472~,~E~,~STC~,51617,53341,,,,0,~05~
+~35~,~01013~,~Essex--Kent~,~Essex--Kent~,~474~,~E~,~~,51100,52204,,,,0,~05~
+~35~,~01014~,~Essex--Windsor~,~Essex--Windsor~,~476~,~E~,~WSR~,56457,62730,,,,0,~05~
+~35~,~01015~,~Glengarry--Prescott--Russell~,~Glengarry--Prescott--Russell~,~478~,~E~,~~,67681,73383,,,,0,~05~
+~35~,~01016~,~Guelph--Wellington~,~Guelph--Wellington~,~480~,~E~,~~,76618,84056,,,,0,~05~
+~35~,~01017~,~Haldimand--Norfolk~,~Haldimand--Norfolk~,~482~,~E~,~N/A~,60021,61596,,,,0,~05~
+~35~,~01018~,~Halton--Peel~,~Halton--Peel~,~484~,~E~,~BUR~,67417,75294,,,,0,~05~
+~35~,~01019~,~Hamilton East~,~Hamilton-Est~,~486~,~E~,~HAM~,52117,50656,,,,0,~05~
+~35~,~01020~,~Hamilton Mountain~,~Hamilton Mountain~,~488~,~E~,~HAM~,64576,62186,,,,0,~05~
+~35~,~01021~,~Hamilton--Wentworth~,~Hamilton--Wentworth~,~490~,~E~,~HAM~,72906,82822,,,,0,~05~
+~35~,~01022~,~Hamilton West~,~Hamilton-Ouest~,~492~,~E~,~HAM~,60728,58684,,,,0,~05~
+~35~,~01023~,~Hastings--Frontenac--Lennox and Addington~,~Hastings--Frontenac--Lennox and Addington~,~494~,~E~,~~,58252,62958,,,,0,~05~
+~35~,~01024~,~Huron--Bruce~,~Huron--Bruce~,~496~,~E~,~~,60955,63557,,,,0,~05~
+~35~,~01025~,~Kenora--Rainy River~,~Kenora--Rainy River~,~498~,~E~,~~,48102,49241,,,,0,~05~
+~35~,~01026~,~Kent~,~Kent~,~500~,~E~,~~,54943,54735,,,,0,~05~
+~35~,~01027~,~Kingston and the Islands~,~Kingston et les Iles~,~502~,~E~,~~,73775,78122,,,,0,~05~
+~35~,~01028~,~Kitchener~,~Kitchener~,~504~,~E~,~KIT~,70875,72856,,,,0,~05~
+~35~,~01029~,~Lambton--Middlesex~,~Lambton--Middlesex~,~506~,~E~,~~,52210,54993,,,,0,~05~
+~35~,~01030~,~Lanark--Carleton~,~Lanark--Carleton~,~508~,~E~,~~,72621,83835,,,,0,~05~
+~35~,~01031~,~Leeds--Grenville~,~Leeds--Grenville~,~510~,~E~,~~,59819,63277,,,,0,~05~
+~35~,~01032~,~Lincoln~,~Lincoln~,~512~,~E~,~HAM~,65699,71656,,,,0,~05~
+~35~,~01033~,~London East~,~London-Est~,~514~,~E~,~LON~,71537,73274,,,,0,~05~
+~35~,~01034~,~London--Middlesex~,~London--Middlesex~,~516~,~E~,~LON~,64749,70213,,,,0,~05~
+~35~,~01035~,~London West~,~London-Ouest~,~518~,~E~,~LON~,76807,82002,,,,0,~05~
+~35~,~01036~,~Markham--Whitchurch-Stouffville~,~Markham--Whitchurch-Stouffville~,~520~,~E~,~~,89270,97652,,,,0,~05~
+~35~,~01037~,~Mississauga East~,~Mississauga-Est~,~522~,~E~,~MIS~,68321,67560,,,,0,~05~
+~35~,~01038~,~Mississauga South~,~Mississauga-Sud~,~524~,~E~,~MIS~,61134,58900,,,,0,~05~
+~35~,~01039~,~Mississauga West~,~Mississauga-Ouest~,~526~,~E~,~MIS~,90244,120034,,,,0,~05~
+~35~,~01040~,~Nepean~,~Nepean~,~528~,~E~,~OTT~,67383,73567,,,,0,~05~
+~35~,~01041~,~Niagara Falls~,~Niagara Falls~,~530~,~E~,~~,59547,62084,,,,0,~05~
+~35~,~01042~,~Nickel Belt~,~Nickel Belt~,~532~,~E~,~SUD~,50182,57355,,,,0,~05~
+~35~,~01043~,~Nipissing~,~Nipissing~,~534~,~E~,~~,49699,54534,,,,0,~05~
+~35~,~01044~,~Northumberland~,~Northumberland~,~536~,~E~,~~,60058,63719,,,,0,~05~
+~35~,~01045~,~Oakville--Milton~,~Oakville--Milton~,~538~,~E~,~BUR~,81279,88934,,,,0,~05~
+~35~,~01046~,~Ontario~,~Ontario~,~540~,~E~,~OSH~,92772,113432,,,,0,~05~
+~35~,~01047~,~Oshawa~,~Oshawa~,~542~,~E~,~OSH~,62540,61536,,,,0,~05~
+~35~,~01048~,~Ottawa Centre~,~Ottawa-Centre~,~544~,~E~,~OTT~,57676,60445,,,,0,~05~
+~35~,~01049~,~Ottawa South~,~Ottawa-Sud~,~546~,~E~,~OTT~,65111,67313,,,,0,~05~
+~35~,~01050~,~Ottawa--Vanier~,~Ottawa--Vanier~,~548~,~E~,~OTT~,60408,61780,,,,0,~05~
+~35~,~01051~,~Ottawa West~,~Ottawa-Ouest~,~550~,~E~,~OTT~,57698,57491,,,,0,~05~
+~35~,~01052~,~Oxford~,~Oxford~,~552~,~E~,~~,63866,65839,,,,0,~05~
+~35~,~01053~,~Parry Sound--Muskoka~,~Parry Sound--Muskoka~,~554~,~E~,~~,55985,60645,,,,0,~05~
+~35~,~01054~,~Perth--Wellington--Waterloo~,~Perth--Wellington--Waterloo~,~556~,~E~,~~,63234,65991,,,,0,~05~
+~35~,~01055~,~Peterborough~,~Peterborough~,~558~,~E~,~~,71714,76205,,,,0,~05~
+~35~,~01056~,~Prince Edward--Hastings~,~Prince Edward--Hastings~,~560~,~E~,~~,63637,65516,,,,0,~05~
+~35~,~01057~,~Renfrew--Nipissing--Pembroke~,~Renfrew--Nipissing--Pembroke~,~562~,~E~,~~,59236,62810,,,,0,~05~
+~35~,~01058~,~St. Catharines~,~St. Catharines~,~564~,~E~,~STC~,63404,64881,,,,0,~05~
+~35~,~01059~,~Sarnia--Lambton~,~Sarnia--Lambton~,~566~,~E~,~N/A~,56106,57432,,,,0,~05~
+~35~,~01060~,~Sault Ste. Marie~,~Sault Ste. Marie~,~568~,~E~,~SSM~,52681,52067,,,,0,~05~
+~35~,~01061~,~Simcoe Centre~,~Simcoe-Centre~,~570~,~E~,~~,71264,89922,,,,0,~05~
+~35~,~01062~,~Simcoe North~,~Simcoe-Nord~,~572~,~E~,~~,67552,74437,,,,0,~05~
+~35~,~01063~,~Stormont--Dundas~,~Stormont--Dundas~,~574~,~E~,~~,57933,58930,,,,0,~05~
+~35~,~01064~,~Sudbury~,~Sudbury~,~576~,~E~,~SUD~,57071,59826,,,,0,~05~
+~35~,~01065~,~Thunder Bay--Atikokan~,~Thunder Bay--Atikokan~,~578~,~E~,~THU~,47817,48436,,,,0,~05~
+~35~,~01066~,~Thunder Bay--Nipigon~,~Thunder Bay--Nipigon~,~580~,~E~,~THU~,49527,49711,,,,0,~05~
+~35~,~01067~,~Timiskaming--French-River~,~Timiskaming--French-River~,~582~,~E~,~~,39849,40016,,,,0,~05~
+~35~,~01068~,~Timmins--Chapleau~,~Timmins--Chapleau~,~584~,~E~,~~,43328,42890,,,,0,~05~
+~35~,~01069~,~Victoria--Haliburton~,~Victoria--Haliburton~,~586~,~E~,~~,64658,73225,,,,0,~05~
+~35~,~01070~,~Waterloo~,~Waterloo~,~588~,~E~,~KIT~,78497,89557,,,,0,~05~
+~35~,~01071~,~Welland--St. Catharines--Thorold~,~Welland--St. Catharines--Thorold~,~590~,~E~,~STC~,62458,66407,,,,0,~05~
+~35~,~01072~,~Wellington--Grey--Dufferin--Simcoe~,~Wellington--Grey--Dufferin--Simcoe~,~592~,~E~,~~,68043,74400,,,,0,~05~
+~35~,~01073~,~Windsor--St. Clair~,~Windsor--Sainte-Claire~,~594~,~E~,~WSR~,57763,59827,,,,0,~05~
+~35~,~01074~,~Windsor West~,~Windsor-Ouest~,~596~,~E~,~WSR~,61339,61264,,,,0,~05~
+~35~,~01075~,~York North~,~York-Nord~,~597~,~E~,~~,112868,144500,,,,0,~05~
+~35~,~01076~,~York--Simcoe~,~York--Simcoe~,~598~,~E~,~~,75898,87837,,,,0,~05~
+~35~,~01077~,~Beaches--Woodbine~,~Beaches--Woodbine~,~400~,~E~,~TOR~,57838,58034,,,,0,~05~
+~35~,~01078~,~Broadview--Greenwood~,~Broadview--Greenwood~,~402~,~E~,~TOR~,52661,51093,,,,0,~05~
+~35~,~01079~,~Davenport~,~Davenport~,~404~,~E~,~TOR~,36869,36016,,,,0,~05~
+~35~,~01080~,~Don Valley East~,~Don Valley-Est~,~406~,~E~,~TOR~,54706,53990,,,,0,~05~
+~35~,~01081~,~Don Valley North~,~Don Valley-Nord~,~408~,~E~,~TOR~,50433,47994,,,,0,~05~
+~35~,~01082~,~Don Valley West~,~Don Valley-Ouest~,~410~,~E~,~TOR~,62286,62181,,,,0,~05~
+~35~,~01083~,~Eglinton--Lawrence~,~Eglinton--Lawrence~,~412~,~E~,~TOR~,52331,50993,,,,0,~05~
+~35~,~01084~,~Etobicoke Centre~,~Etobicoke-Centre~,~414~,~E~,~TOR~,60868,56588,,,,0,~05~
+~35~,~01085~,~Etobicoke--Lakeshore~,~Etobicoke--Lakeshore~,~416~,~E~,~TOR~,60279,57985,,,,0,~05~
+~35~,~01086~,~Etobicoke North~,~Etobicoke-Nord~,~418~,~E~,~TOR~,63617,60697,,,,0,~05~
+~35~,~01087~,~Parkdale--High Park~,~Parkdale--High Park~,~420~,~E~,~TOR~,55383,52572,,,,0,~05~
+~35~,~01088~,~Rosedale~,~Rosedale~,~422~,~E~,~TOR~,68521,70613,,,,0,~05~
+~35~,~01089~,~St. Paul's~,~St. Paul's~,~424~,~E~,~TOR~,63118,63834,,,,0,~05~
+~35~,~01090~,~Scarborough--Agincourt~,~Scarborough--Agincourt~,~426~,~E~,~TOR~,56996,54346,,,,0,~05~
+~35~,~01091~,~Scarborough Centre~,~Scarborough-Centre~,~428~,~E~,~TOR~,56099,52973,,,,0,~05~
+~35~,~01092~,~Scarborough East~,~Scarborough-Est~,~430~,~E~,~TOR~,54705,54087,,,,0,~05~
+~35~,~01093~,~Scarborough--Rouge River~,~Scarborough--Rouge River~,~432~,~E~,~TOR~,66294,69667,,,,0,~05~
+~35~,~01094~,~Scarborough West~,~Scarborough-Ouest~,~434~,~E~,~TOR~,55112,56286,,,,0,~05~
+~35~,~01095~,~Trinity--Spadina~,~Trinity--Spadina~,~436~,~E~,~TOR~,50326,51842,,,,0,~05~
+~35~,~01096~,~Willowdale~,~Willowdale~,~438~,~E~,~TOR~,62734,58623,,,,0,~05~
+~35~,~01097~,~York Centre~,~York-Centre~,~440~,~E~,~TOR~,54776,52459,,,,0,~05~
+~35~,~01098~,~York South--Weston~,~York-Sud--Weston~,~442~,~E~,~TOR~,51428,49052,,,,0,~05~
+~35~,~01099~,~York West~,~York-Ouest~,~444~,~E~,~TOR~,47123,44367,,,,0,~05~
+~35~,~03001~,~Abitibi~,~Abitibi~,~300~,~F~,~~,58861,0,,,,0,~05~
+~35~,~03002~,~Argenteuil--Papineau~,~Argenteuil--Papineau~,~302~,~F~,~~,53693,0,,,,0,~05~
+~35~,~03003~,~Beauce~,~Beauce~,~304~,~F~,~N/A~,67578,0,,,,0,~05~
+~35~,~03004~,~Beauharnois--Salaberry~,~Beauharnois--Salaberry~,~306~,~F~,~N/A~,64011,0,,,,0,~05~
+~35~,~03005~,~Bellechasse~,~Bellechasse~,~310~,~F~,~N/A~,59228,0,,,,0,~05~
+~35~,~03006~,~Berthier--Montcalm~,~Berthier--Montcalm~,~312~,~F~,~N/A~,71176,0,,,,0,~05~
+~35~,~03007~,~Blainville--Deux-Montagnes~,~Blainville--Deux-Montagnes~,~314~,~F~,~N/A~,85847,0,,,,0,~05~
+~35~,~03008~,~Bonaventure--Iles-de-la-Madeleine~,~Bonaventure--Iles-de-la-Madeleine~,~316~,~F~,~N/A~,35892,0,,,,0,~05~
+~35~,~03009~,~Brome--Missisquoi~,~Brome--Missisquoi~,~318~,~F~,~N/A~,53983,0,,,,0,~05~
+~35~,~03010~,~Chambly~,~Chambly~,~320~,~F~,~N/A~,66151,0,,,,0,~05~
+~35~,~03011~,~Champlain~,~Champlain~,~322~,~F~,~N/A~,61141,0,,,,0,~05~
+~35~,~03012~,~Gatineau-La Liävre~,~Gatineau-La Liävre~,~338~,~F~,~N/A~,75575,0,,,,0,~05~
+~35~,~03013~,~Charlesbourg~,~Charlesbourg~,~324~,~F~,~QUE~,76055,0,,,,0,~05~
+~35~,~03014~,~Charlevoix~,~Charlevoix~,~326~,~F~,~N/A~,55958,0,,,,0,~05~
+~35~,~03015~,~ChÉteauguay~,~ChÉteauguay~,~328~,~F~,~N/A~,69660,0,,,,0,~05~
+~35~,~03016~,~Chicoutimi~,~Chicoutimi~,~330~,~F~,~N/A~,57792,0,,,,0,~05~
+~35~,~03017~,~Drummond~,~Drummond~,~332~,~F~,~N/A~,56841,0,,,,0,~05~
+~35~,~03018~,~Frontenac~,~Frontenac~,~334~,~F~,~N/A~,43638,0,,,,0,~05~
+~35~,~03019~,~GaspÇ~,~GaspÇ~,~336~,~F~,~N/A~,40609,0,,,,0,~05~
+~35~,~03020~,~Hull--Aylmer~,~Hull--Aylmer~,~340~,~F~,~N/A~,61134,0,,,,0,~05~
+~35~,~03021~,~Joliette~,~Joliette~,~342~,~F~,~N/A~,70865,0,,,,0,~05~
+~35~,~03022~,~Jonquiäre~,~Jonquiäre~,~344~,~F~,~N/A~,45537,0,,,,0,~05~
+~35~,~03023~,~Kamouraska--Riviäre-du-Loup~,~Kamouraska--Riviäre-du-Loup~,~346~,~F~,~N/A~,50569,0,,,,0,~05~
+~35~,~03024~,~Lac-Saint-Jean~,~Lac-Saint-Jean~,~348~,~F~,~N/A~,46267,0,,,,0,~05~
+~35~,~03025~,~Quebec~,~QuÇbec~,~372~,~F~,~QUE~,71630,0,,,,0,~05~
+~35~,~03026~,~La Prairie~,~La Prairie~,~350~,~F~,~N/A~,71246,0,,,,0,~05~
+~35~,~03027~,~Laurentides~,~Laurentides~,~352~,~F~,~N/A~,76636,0,,,,0,~05~
+~35~,~03028~,~LÇvis~,~LÇvis~,~354~,~F~,~QUE~,76123,0,,,,0,~05~
+~35~,~03029~,~Longueuil~,~Longueuil~,~356~,~F~,~~,73700,0,,,,0,~05~
+~35~,~03030~,~Lotbiniäre~,~Lotbiniäre~,~358~,~F~,~N/A~,64590,0,,,,0,~05~
+~35~,~03031~,~Louis-HÇbert~,~Louis-HÇbert~,~360~,~F~,~QUE~,74645,0,,,,0,~05~
+~35~,~03032~,~Manicouagan~,~Manicouagan~,~362~,~F~,~N/A~,36267,0,,,,0,~05~
+~35~,~03033~,~MatapÇdia--Matane~,~MatapÇdia--Matane~,~364~,~F~,~N/A~,45406,0,,,,0,~05~
+~35~,~03034~,~MÇgantic--Compton--Stanstead~,~MÇgantic--Compton--Stanstead~,~366~,~F~,~N/A~,51855,0,,,,0,~05~
+~35~,~03035~,~Beauport--Montmorency--OrlÇans~,~Beauport--Montmorency--OrlÇans~,~308~,~F~,~QUE~,67686,0,,,,0,~05~
+~35~,~03036~,~Pontiac--Gatineau--Labelle~,~Pontiac--Gatineau--Labelle~,~368~,~F~,~N/A~,53311,0,,,,0,~05~
+~35~,~03037~,~Portneuf~,~Portneuf~,~370~,~F~,~QUE~,54841,0,,,,0,~05~
+~35~,~03038~,~QuÇbec-Est~,~QuÇbec-Est~,~374~,~F~,~QUE~,69243,0,,,,0,~05~
+~35~,~03039~,~Richelieu~,~Richelieu~,~376~,~F~,~N/A~,58488,0,,,,0,~05~
+~35~,~03040~,~Richmond--Wolfe~,~Richmond--Wolfe~,~378~,~F~,~N/A~,53203,0,,,,0,~05~
+~35~,~03041~,~Rimouski--TÇmiscouata~,~Rimouski--TÇmiscouata~,~380~,~F~,~N/A~,53161,0,,,,0,~05~
+~35~,~03042~,~Roberval~,~Roberval~,~382~,~F~,~N/A~,48065,0,,,,0,~05~
+~35~,~03043~,~Saint-Hubert~,~Saint-Hubert~,~384~,~F~,~~,71038,0,,,,0,~05~
+~35~,~03044~,~Saint-Hyacinthe--Bagot~,~Saint-Hyacinthe--Bagot~,~386~,~F~,~N/A~,62326,0,,,,0,~05~
+~35~,~03045~,~Saint-Jean~,~Saint-Jean~,~388~,~F~,~N/A~,61038,0,,,,0,~05~
+~35~,~03046~,~Saint-Maurice~,~Saint-Maurice~,~390~,~F~,~N/A~,54702,0,,,,0,~05~
+~35~,~03047~,~Shefford~,~Shefford~,~392~,~F~,~N/A~,62382,0,,,,0,~05~
+~35~,~03048~,~Sherbrooke~,~Sherbrooke~,~394~,~F~,~N/A~,71940,0,,,,0,~05~
+~35~,~03049~,~TÇmiscamingue~,~TÇmiscamingue~,~395~,~F~,~N/A~,55624,0,,,,0,~05~
+~35~,~03050~,~Terrebonne~,~Terrebonne~,~396~,~F~,~N/A~,86760,0,,,,0,~05~
+~35~,~03051~,~Trois-Riviäres~,~Trois-Riviäres~,~397~,~F~,~N/A~,58356,0,,,,0,~05~
+~35~,~03052~,~Verchäres~,~Verchäres~,~399~,~F~,~N/A~,60438,0,,,,0,~05~
+~35~,~03053~,~Ahuntsic~,~Ahuntsic~,~250~,~F~,~MON~,65283,0,,,,0,~05~
+~35~,~03054~,~Anjou--Riviäre-des-Prairies~,~Anjou--Riviäre-des-Prairies~,~252~,~F~,~MON~,71398,0,,,,0,~05~
+~35~,~03055~,~Bourassa~,~Bourassa~,~254~,~F~,~MON~,60863,0,,,,0,~05~
+~35~,~03056~,~Laval East~,~Laval-Est~,~266~,~F~,~MON~,69581,0,,,,0,~05~
+~35~,~03057~,~Hochelaga--Maisonneuve~,~Hochelaga--Maisonneuve~,~256~,~F~,~MON~,59470,0,,,,0,~05~
+~35~,~03058~,~Lachine--Lac-Saint-Louis~,~Lachine--Lac-Saint-Louis~,~258~,~F~,~MON~,67931,0,,,,0,~05~
+~35~,~03059~,~LaSalle--êmard~,~LaSalle--êmard~,~260~,~F~,~MON~,65920,0,,,,0,~05~
+~35~,~03060~,~Laurier--Sainte-Marie~,~Laurier--Sainte-Marie~,~262~,~F~,~MON~,57939,0,,,,0,~05~
+~35~,~03061~,~Laval West~,~Laval-Ouest~,~268~,~F~,~MON~,69215,0,,,,0,~05~
+~35~,~03062~,~Laval Centre~,~Laval-Centre~,~264~,~F~,~MON~,68949,0,,,,0,~05~
+~35~,~03063~,~Mercier~,~Mercier~,~270~,~F~,~MON~,76343,0,,,,0,~05~
+~35~,~03064~,~Mount Royal~,~Mont-Royal~,~272~,~F~,~MON~,58664,0,,,,0,~05~
+~35~,~03065~,~Notre-Dame-de-GrÉce~,~Notre-Dame-de-GrÉce~,~274~,~F~,~MON~,52256,0,,,,0,~05~
+~35~,~03066~,~Outremont~,~Outremont~,~276~,~F~,~MON~,57971,0,,,,0,~05~
+~35~,~03067~,~Papineau--Saint-Michel~,~Papineau--Saint-Michel~,~278~,~F~,~MON~,56328,0,,,,0,~05~
+~35~,~03068~,~Pierrefonds--Dollard~,~Pierrefonds--Dollard~,~280~,~F~,~MON~,67802,0,,,,0,~05~
+~35~,~03069~,~Rosemont~,~Rosemont~,~282~,~F~,~MON~,65899,0,,,,0,~05~
+~35~,~03070~,~Saint-Denis~,~Saint-Denis~,~284~,~F~,~MON~,55070,0,,,,0,~05~
+~35~,~03071~,~Saint-Henri--Westmount~,~Saint-Henri--Westmount~,~286~,~F~,~MON~,49494,0,,,,0,~05~
+~35~,~03072~,~Saint-Laurent--Cartierville~,~Saint-Laurent--Cartierville~,~288~,~F~,~MON~,55336,0,,,,0,~05~
+~35~,~03073~,~Saint-LÇonard~,~Saint-LÇonard~,~290~,~F~,~MON~,61361,0,,,,0,~05~
+~35~,~03074~,~Vaudreuil~,~Vaudreuil~,~292~,~F~,~MON~,66667,0,,,,0,~05~
+~35~,~03075~,~Verdun--Saint-Paul~,~Verdun--Saint-Paul~,~294~,~F~,~MON~,59774,0,,,,0,~05~
+~35~,~05001~,~Annapolis Valley--Hants~,~Annapolis Valley--Hants~,~170~,~E~,~N/A~,64708,67741,,,,0,~05~
+~35~,~05002~,~Cape Breton--East Richmond~,~Cap-Breton--Richmond-Est~,~173~,~E~,~N/A~,42446,42910,,,,0,~05~
+~35~,~05003~,~Cape Breton Highlands--Canso~,~Cap-Breton Highlands--Canso~,~175~,~E~,~N/A~,47670,46221,,,,0,~05~
+~35~,~05004~,~Cape Breton--The Sydneys~,~Cap-Breton--The Sydneys~,~177~,~E~,~N/A~,47301,46222,,,,0,~05~
+~35~,~05005~,~Central Nova~,~Central Nova~,~180~,~E~,~N/A~,52184,51606,,,,0,~05~
+~35~,~05006~,~Cumberland--Colchester~,~Cumberland--Colchester~,~185~,~E~,~N/A~,58302,57521,,,,0,~05~
+~35~,~05007~,~Dartmouth~,~Dartmouth~,~190~,~E~,~N/A~,66681,69470,,,,0,~05~
+~35~,~05008~,~Halifax~,~Halifax~,~150~,~E~,~HAL~,68144,68878,,,,0,~05~
+~35~,~05009~,~Halifax West~,~Halifax-Ouest~,~155~,~E~,~HAL~,72431,82258,,,,0,~05~
+~35~,~05010~,~South Shore~,~South Shore~,~160~,~E~,~N/A~,56419,56724,,,,0,~05~
+~35~,~05011~,~South West Nova~,~South West Nova~,~165~,~E~,~N/A~,51561,50341,,,,0,~05~
+~35~,~06001~,~BeausÇjour~,~BeausÇjour~,~225~,~E~,~N/A~,47522,49344,,,,0,~05~
+~35~,~06002~,~Carleton--Charlotte~,~Carleton--Charlotte~,~230~,~E~,~N/A~,45026,45765,,,,0,~05~
+~35~,~06003~,~Fredericton--York-Sunbury~,~Fredericton--York-Sunbury~,~235~,~E~,~N/A~,61381,65272,,,,0,~05~
+~35~,~06004~,~Fundy--Royal~,~Fundy--Royal~,~237~,~E~,~N/A~,58215,61281,,,,0,~05~
+~35~,~06005~,~Acadie--Bathurst~,~Acadie--Bathurst~,~220~,~E~,~N/A~,50206,51325,,,,0,~05~
+~35~,~06006~,~Madawaska--Victoria~,~Madawaska--Victoria~,~240~,~E~,~N/A~,40185,40721,,,,0,~05~
+~35~,~06007~,~Miramichi~,~Miramichi~,~242~,~E~,~N/A~,38388,39263,,,,0,~05~
+~35~,~06008~,~Moncton~,~Moncton~,~244~,~E~,~N/A~,63793,64930,,,,0,~05~
+~35~,~06009~,~Restigouche--Chaleur~,~Restigouche--Chaleur~,~246~,~E~,~N/A~,37729,38478,,,,0,~05~
+~35~,~06010~,~Saint John~,~Saint John~,~200~,~E~,~~,54649,53480,,,,0,~05~
+~35~,~07001~,~Brandon--Souris~,~Brandon--Souris~,~600~,~E~,~~,50427,50008,,,,0,~05~
+~35~,~07002~,~Churchill~,~Churchill~,~602~,~E~,~~,39710,39646,,,,0,~05~
+~35~,~07003~,~Dauphin--Swan River~,~Dauphin--Swan River~,~604~,~E~,~~,45963,43855,,,,0,~05~
+~35~,~07004~,~Lisgar--Marquette~,~Lisgar--Marquette~,~606~,~E~,~N/A~,45820,45044,,,,0,~05~
+~35~,~07005~,~Portage--Interlake~,~Portage--Interlake~,~608~,~E~,~~,47672,48684,,,,0,~05~
+~35~,~07006~,~Provencher~,~Provencher~,~610~,~E~,~~,47742,48873,,,,0,~05~
+~35~,~07007~,~St. Boniface~,~Saint-Boniface~,~612~,~E~,~WIN~,57480,60002,,,,0,~05~
+~35~,~07008~,~Selkirk--Red River~,~Selkirk--Red River~,~614~,~E~,~WIN~,57452,60136,,,,0,~05~
+~35~,~07009~,~Winnipeg North~,~Winnipeg-Nord~,~616~,~E~,~WIN~,57507,58145,,,,0,~05~
+~35~,~07010~,~Winnipeg North Centre~,~Winnipeg-Nord-Centre~,~618~,~E~,~WIN~,42465,43462,,,,0,~05~
+~35~,~07011~,~Winnipeg St. James~,~Winnipeg St. James~,~620~,~E~,~WIN~,50606,51082,,,,0,~05~
+~35~,~07012~,~Winnipeg South~,~Winnipeg-Sud~,~622~,~E~,~WIN~,59974,63277,,,,0,~05~
+~35~,~07013~,~Winnipeg South Centre~,~Winnipeg-Sud-Centre~,~624~,~E~,~WIN~,56248,54408,,,,0,~05~
+~35~,~07014~,~Winnipeg Transcona~,~Winnipeg Transcona~,~626~,~E~,~WIN~,55100,54142,,,,0,~05~
+~35~,~08001~,~Burnaby--Kingsway~,~Burnaby--Kingsway~,~750~,~E~,~VAN~,71059,70591,,,,0,~05~
+~35~,~08002~,~Capilano--Howe Sound~,~Capilano--Howe Sound~,~752~,~E~,~VAN~,50756,54172,,,,0,~05~
+~35~,~08003~,~Cariboo--Chilcotin~,~Cariboo--Chilcotin~,~754~,~E~,~~,40836,43368,,,,0,~05~
+~35~,~08004~,~Comox--Alberni~,~Comox--Alberni~,~756~,~E~,~~,59533,69223,,,,0,~05~
+~35~,~08005~,~Delta~,~Delta~,~758~,~E~,~VAN~,53024,58786,,,,0,~05~
+~35~,~08006~,~Esquimalt--Juan de Fuca~,~Esquimalt--Juan de Fuca~,~760~,~E~,~VIC~,54651,59670,,,,0,~05~
+~35~,~08007~,~Fraser Valley East~,~Fraser Valley-Est~,~762~,~E~,~~,51736,61539,,,,0,~05~
+~35~,~08008~,~Fraser Valley West~,~Fraser Valley-Ouest~,~764~,~E~,~~,63338,80672,,,,0,~05~
+~35~,~08009~,~Kamloops~,~Kamloops~,~766~,~E~,~N/A~,50976,56001,,,,0,~05~
+~35~,~08010~,~Kootenay East~,~Kootenay-Est~,~768~,~E~,~N/A~,41915,44534,,,,0,~05~
+~35~,~08011~,~Kootenay West--Revelstoke~,~Kootenay-Ouest--Revelstoke~,~770~,~E~,~~,40309,45065,,,,0,~05~
+~35~,~08012~,~Mission--Coquitlam~,~Mission--Coquitlam~,~772~,~E~,~VAN~,59990,71001,,,,0,~05~
+~35~,~08013~,~Nanaimo--Cowichan~,~Nanaãmo--Cowichan~,~774~,~E~,~~,66810,76710,,,,0,~05~
+~35~,~08014~,~New Westminster--Burnaby~,~New Westminster--Burnaby~,~776~,~E~,~VAN~,71462,74365,,,,0,~05~
+~35~,~08015~,~North Island--Powell River~,~North Island--Powell River~,~778~,~E~,~~,52850,59872,,,,0,~05~
+~35~,~08016~,~North Vancouver~,~North Vancouver~,~780~,~E~,~VAN~,58864,62629,,,,0,~05~
+~35~,~08017~,~Okanagan Centre~,~Okanagan-Centre~,~782~,~E~,~~,64860,80602,,,,0,~05~
+~35~,~08018~,~Okanagan--Shuswap~,~Okanagan--Shuswap~,~784~,~E~,~~,52097,60337,,,,0,~05~
+~35~,~08019~,~Okanagan--Similkameen--Merritt~,~Okanagan--Similkameen--Merritt~,~786~,~E~,~N/A~,51971,58061,,,,0,~05~
+~35~,~08020~,~Port Moody--Coquitlam~,~Port Moody--Coquitlam~,~788~,~E~,~VAN~,65955,75562,,,,0,~05~
+~35~,~08021~,~Prince George--Bulkley Valley~,~Prince George--Bulkley Valley~,~790~,~E~,~PGR~,47164,49578,,,,0,~05~
+~35~,~08022~,~Prince George--Peace River~,~Prince George--Peace River~,~792~,~E~,~PGR~,47339,50612,,,,0,~05~
+~35~,~08023~,~Richmond~,~Richmond~,~794~,~E~,~VAN~,70891,75371,,,,0,~05~
+~35~,~08024~,~Saanich--Gulf Islands~,~Saanich--Les Iles-du-Golfe~,~796~,~E~,~VIC~,75360,86449,,,,0,~05~
+~35~,~08025~,~Skeena~,~Skeena~,~798~,~E~,~~,39977,40860,,,,0,~05~
+~35~,~08026~,~Surrey North~,~Surrey-Nord~,~800~,~E~,~VAN~,69813,83336,,,,0,~05~
+~35~,~08027~,~Surrey--White Rock--South Langley~,~Surrey--White Rock--South Langley~,~802~,~E~,~VAN~,74076,85732,,,,0,~05~
+~35~,~08028~,~Vancouver Centre~,~Vancouver-Centre~,~804~,~E~,~VAN~,77445,79975,,,,0,~05~
+~35~,~08029~,~Vancouver East~,~Vancouver-Est~,~806~,~E~,~VAN~,55080,55606,,,,0,~05~
+~35~,~08030~,~Vancouver Quadra~,~Vancouver Quadra~,~808~,~E~,~VAN~,65100,66044,,,,0,~05~
+~35~,~08031~,~Vancouver South~,~Vancouver-Sud~,~810~,~E~,~VAN~,64192,63839,,,,0,~05~
+~35~,~08032~,~Victoria~,~Victoria~,~812~,~E~,~VIC~,70394,74785,,,,0,~05~
+~35~,~09001~,~Cardigan~,~Cardigan~,~100~,~E~,~N/A~,20021,20591,,,,0,~05~
+~35~,~09002~,~Egmont~,~Egmont~,~110~,~E~,~N/A~,22642,23296,,,,0,~05~
+~35~,~09003~,~Hillsborough~,~Hillsborough~,~120~,~E~,~N/A~,23694,25060,,,,0,~05~
+~35~,~09004~,~Malpeque~,~Malpäque~,~130~,~E~,~N/A~,20716,22151,,,,0,~05~
+~35~,~10001~,~Kindersley--Lloydminster~,~Kindersley--Lloydminster~,~650~,~E~,~~,42245,37895,,,,0,~05~
+~35~,~10002~,~Mackenzie~,~Mackenzie~,~652~,~E~,~~,42875,39853,,,,0,~05~
+~35~,~10003~,~Moose Jaw--Lake Centre~,~Moose Jaw--Lake Centre~,~654~,~E~,~~,45272,44346,,,,0,~05~
+~35~,~10004~,~Prince Albert--Churchill River~,~Prince-Albert--Churchill River~,~658~,~E~,~~,43538,43181,,,,0,~05~
+~35~,~10005~,~Regina--Lumsden~,~Regina--Lumsden~,~660~,~E~,~REG~,49132,49719,,,,0,~05~
+~35~,~10006~,~Regina--Qu'Appelle~,~Regina--Qu'Appelle~,~662~,~E~,~REG~,44262,43495,,,,0,~05~
+~35~,~10007~,~Regina--Wascana~,~Regina--Wascana~,~664~,~E~,~REG~,53301,53562,,,,0,~05~
+~35~,~10008~,~Saskatoon--Clark's Crossing~,~Saskatoon--Clark's Crossing~,~668~,~E~,~SAS~,54490,55054,,,,0,~05~
+~35~,~10009~,~Saskatoon--Dundurn~,~Saskatoon--Dundurn~,~670~,~E~,~SAS~,54996,56205,,,,0,~05~
+~35~,~10010~,~Saskatoon--Humboldt~,~Saskatoon--Humboldt~,~672~,~E~,~SAS~,49294,50314,,,,0,~05~
+~35~,~10011~,~Souris--Moose Mountain~,~Souris--Moose Mountain~,~674~,~E~,~~,46285,43627,,,,0,~05~
+~35~,~10012~,~Swift Current--Maple Creek--Assiniboia~,~Swift Current--Maple Creek--Assiniboia~,~676~,~E~,~~,44077,41513,,,,0,~05~
+~35~,~10013~,~The Battlefords--Meadow Lake~,~The Battlefords--Meadow Lake~,~678~,~E~,~N/A~,47329,43671,,,,0,~05~
+~35~,~10014~,~Yorkton--Melville~,~Yorkton--Melville~,~680~,~E~,~~,44576,42809,,,,0,~05~
+~35~,~11001~,~Athabasca~,~Athabasca~,~700~,~E~,~~,45987,46967,,,,0,~05~
+~35~,~11002~,~Beaver River~,~Beaver River~,~702~,~E~,~~,42434,39992,,,,0,~05~
+~35~,~11003~,~Calgary Centre~,~Calgary-Centre~,~704~,~E~,~CAL~,71895,71578,,,,0,~05~
+~35~,~11004~,~Calgary North~,~Calgary-Nord~,~706~,~E~,~CAL~,76602,86584,,,,0,~05~
+~35~,~11005~,~Calgary Northeast~,~Calgary-Nord-Est~,~708~,~E~,~CAL~,66504,72755,,,,0,~05~
+~35~,~11006~,~Calgary Southeast~,~Calgary-Sud-Est~,~710~,~E~,~CAL~,69264,74677,,,,0,~05~
+~35~,~11007~,~Calgary Southwest~,~Calgary-Sud-Ouest~,~712~,~E~,~CAL~,75976,83467,,,,0,~05~
+~35~,~11008~,~Calgary West~,~Calgary-Ouest~,~714~,~E~,~CAL~,67784,73735,,,,0,~05~
+~35~,~11009~,~Crowfoot~,~Crowfoot~,~716~,~E~,~~,44558,46440,,,,0,~05~
+~35~,~11010~,~Edmonton East~,~Edmonton-Est~,~718~,~E~,~EDM~,56015,59276,,,,0,~05~
+~35~,~11011~,~Edmonton North~,~Edmonton-Nord~,~720~,~E~,~EDM~,65915,71348,,,,0,~05~
+~35~,~11012~,~Edmonton Northwest~,~Edmonton-Nord-Ouest~,~722~,~E~,~EDM~,53099,53157,,,,0,~05~
+~35~,~11013~,~Edmonton Southeast~,~Edmonton-Sud-Est~,~724~,~E~,~EDM~,63776,68198,,,,0,~05~
+~35~,~11014~,~Edmonton Southwest~,~Edmonton-Sud-Ouest~,~726~,~E~,~EDM~,69333,75660,,,,0,~05~
+~35~,~11015~,~Edmonton--Strathcona~,~Edmonton--Strathcona~,~728~,~E~,~EDM~,65848,65181,,,,0,~05~
+~35~,~11016~,~Elk Island~,~Elk Island~,~730~,~E~,~~,49816,56085,,,,0,~05~
+~35~,~11017~,~Lethbridge~,~Lethbridge~,~732~,~E~,~~,61456,63881,,,,0,~05~
+~35~,~11018~,~Macleod~,~Macleod~,~734~,~E~,~~,43333,46668,,,,0,~05~
+~35~,~11019~,~Medicine Hat~,~Medicine Hat~,~736~,~E~,~~,57220,58310,,,,0,~05~
+~35~,~11020~,~Peace River~,~Peace River~,~738~,~E~,~~,60031,63169,,,,0,~05~
+~35~,~11021~,~Red Deer~,~Red Deer~,~740~,~E~,~~,61261,66716,,,,0,~05~
+~35~,~11022~,~St. Albert~,~St-Albert~,~742~,~E~,~~,52844,61659,,,,0,~05~
+~35~,~11023~,~Vegreville~,~VÇgrÇville~,~744~,~E~,~~,48517,48494,,,,0,~05~
+~35~,~11024~,~Wetaskiwin~,~Wetaskiwin~,~746~,~E~,~~,52832,56615,,,,0,~05~
+~35~,~11025~,~Wild Rose~,~Wild Rose~,~748~,~E~,~~,52020,61330,,,,0,~05~
+~35~,~11026~,~Yellowhead~,~Yellowhead~,~749~,~E~,~~,52369,55147,,,,0,~05~
+~35~,~12001~,~Bonavista--Trinity--Conception~,~Bonavista--Trinity--Conception~,~050~,~E~,~N/A~,61321,62456,,,,0,~05~
+~35~,~12002~,~Burin--St. George's~,~Burin--Saint-Georges~,~055~,~E~,~N/A~,53569,53648,,,,0,~05~
+~35~,~12003~,~Gander--Grand Falls~,~Gander--Grand Falls~,~060~,~E~,~N/A~,55162,55974,,,,0,~05~
+~35~,~12004~,~Humber--St. Barbe--Baie Verte~,~Humber--Sainte-Barbe--Baie Verte~,~065~,~E~,~N/A~,53109,53842,,,,0,~05~
+~35~,~12005~,~Labrador~,~Labrador~,~070~,~E~,~N/A~,16931,18276,,,,0,~05~
+~35~,~12006~,~St. John's East~,~St. John's-Est~,~010~,~E~,~SJS~,72992,74852,,,,0,~05~
+~35~,~12007~,~St. John's West~,~St. John's-Ouest~,~030~,~E~,~SJS~,64143,67808,,,,0,~05~
+~35~,~13001~,~Yukon~,~Yukon~,~850~,~E~,~N/A~,15680,16480,,,,0,~05~
+~35~,~14001~,~Nunatsiaq~,~Nunatsiaq~,~900~,~E~,~N/A~,10888,12196,,,,0,~05~
+~35~,~14002~,~Western Arctic~,~Western Arctic~,~902~,~E~,~N/A~,18142,19968,,,,0,~05~
