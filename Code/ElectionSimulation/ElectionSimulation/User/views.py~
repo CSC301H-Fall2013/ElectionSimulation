@@ -1,7 +1,6 @@
 from django.shortcuts import render
 from ElectionSimulation.Models.Campaign import Campaign
 from ElectionSimulation.Models.Formula import Formula
-from ElectionSimulation.Models.Result import Result
 from ElectionSimulation.Models.PoliticalParty import PoliticalParty
 from django.core.context_processors import csrf
 from django.shortcuts import render_to_response
