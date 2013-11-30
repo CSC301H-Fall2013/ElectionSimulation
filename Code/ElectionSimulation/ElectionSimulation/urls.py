@@ -7,6 +7,7 @@ admin.autodiscover()
 urlpatterns = patterns('',
     url(r'^admin/', include(admin.site.urls)),
     url(r'^campaign_master/', include('ElectionSimulation.CampaignMaster.urls')),
+    url(r'^User/', include('ElectionSimulation.User.urls')),
     # Campaign master's pages
     url(r'^login/$', login),
     url(r'^auth/$', auth_view),

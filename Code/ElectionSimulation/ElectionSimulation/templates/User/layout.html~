@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-12">
             <a class="btn btn-primary" href="/User">List of campaigns</a>
-            <a class="btn btn-primary" href="/User/add_candidate_effort">add_candidate_effort</a>
+            <a class="btn btn-primary" href="/User/add_candidate_effort">List of campaigns</a>
         </div>
         <div class="col-md-12">
             {% block CampaignMaster_content %}{% endblock %}
