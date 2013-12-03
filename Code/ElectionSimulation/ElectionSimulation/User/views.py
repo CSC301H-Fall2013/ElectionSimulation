@@ -59,7 +59,7 @@ def piechart(request):
 
 def add_new_candidate_effort(request):
     # Get basic information about the campaign
-    campaign_name = request.POST.get('campaign_name', "")
+    campaign_name = request.POST.get('campaigns', "")
     effort_list = []
     for i in range(1, 11):
         candidate_effort = request.POST.get("age_group_" + str(i), "")
@@ -98,10 +98,19 @@ def add_new_candidate_effort(request):
     for exp in Expenses.objects.all():
         exp_effort.append(float(getattr(exp, 'expense'))/getattr(exp, 'expense_ceiling'))
 
-    #sum of ctracts per cand 
-        #sum of pstations in ctract * dotproduct of effort_age and Ct demogs
-    expected_cand_vote_prop = [0, 0, 0]
-    for i in range(3): #should be replaced with number of candidates.
+    
+    for camp in Campaign.objects.all():
+      if (getattr(camp, "name") == campaign_name):
+	cands = getattr(camp, "candidates")
+	break
+    cands = cands.split(";")
+    cands = [elem[:elem.rfind("/")] for elem in cands]
+    #remove the empty element 
+    cands = cands[:-1]
+    cands = [elem.split()[0] for elem in cands]
+    print(cands)
+    expected_cand_vote_prop = [0]*len(cands)
+    for i in range(len(cands)): #should be replaced with number of candidates.
         #s = 0
         d_prod = 0
         temp = 0
@@ -112,13 +121,20 @@ def add_new_candidate_effort(request):
             for k in range(len(pd_arr)):
                 #s += float(pd_to_tots[str(pd_arr[k])][i])
                 temp += float(pd_to_votes[str(pd_arr[k])][i])
-            expected_cand_vote_prop[i] += exp_effort[i]*(temp)
+	expected_cand_vote_prop[i] += exp_effort[i]*(temp)*d_prod
 
 
     #normalize the proportions
     #s = sum(sorted(expected_cand_vote_prop))
     expected_cand_vote_prop = [int(elem) for elem in expected_cand_vote_prop]
-    context = {'Result': expected_cand_vote_prop}
-    
+    context = {}
+    result = []
+    for j in range(len(cands)):
+      obj = {}
+      obj['cand'] = cands[j]
+      obj['result'] = expected_cand_vote_prop[j]
+      result.append(obj)
+    context['candidates'] = result
+    print(context)
     return render(request,'User/piechart.html', context)
      

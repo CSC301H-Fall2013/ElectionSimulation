@@ -19,10 +19,9 @@
             var data = new google.visualization.DataTable();
             data.addColumn('string', 'Canadidate');
             data.addColumn('number', 'vote');
-            
-            {% for i in Result %}
-               data.addRows([["a",{{i}}]]);
-               alert({{i}})
+            {% for i in candidates %}
+		data.addRows([["{{i.cand}}",{{i.result}}]]);
+		    
             {% endfor %}
 
             // Set chart options
