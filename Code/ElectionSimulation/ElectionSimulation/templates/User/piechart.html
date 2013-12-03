@@ -21,7 +21,8 @@
             data.addColumn('number', 'vote');
             
             {% for i in Result %}
-               data.addRows([["{{ i.candidate}}",{{ i.vote }}]]);
+               data.addRows([["a",{{i}}]]);
+               alert({{i}})
             {% endfor %}
 
             // Set chart options
