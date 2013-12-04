@@ -1,17 +1,17 @@
+# This file manage top level url pattern that will direct to subsections of the site
 from django.conf.urls import patterns, include, url
+from django.contrib import admin
+from ElectionSimulation.login.views import login, auth_view
 
-# Uncomment the next two lines to enable the admin:
-# from django.contrib import admin
-# admin.autodiscover()
-
+admin.autodiscover()
 urlpatterns = patterns('',
-    # Examples:
-    # url(r'^$', 'ElectionSimulation.views.home', name='home'),
-    # url(r'^ElectionSimulation/', include('ElectionSimulation.foo.urls')),
-
-    # Uncomment the admin/doc line below to enable admin documentation:
-    # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
-
-    # Uncomment the next line to enable the admin:
-    # url(r'^admin/', include(admin.site.urls)),
+    url(r'^admin/', include(admin.site.urls)),
+    url(r'^campaign_master/', include('ElectionSimulation.CampaignMaster.urls')),
+    url(r'^User/', include('ElectionSimulation.User.urls')),
+    # Campaign master's pages
+    url(r'^login/$', login),
+    url(r'^auth/$', auth_view),
+    #url(r'^logout/$', logout),
+    #url(r'^loggedin/$', loggedin),
 )
+
