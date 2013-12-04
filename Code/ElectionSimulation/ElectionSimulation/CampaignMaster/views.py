@@ -39,9 +39,8 @@ def add_new_campaign(request):
     for i in range(0, candidate_count):
         candidate_name = request.POST.get("candidate_name_" + str(i), "")
         candidate_party = request.POST.get("candidate_party_" + str(i), "")
-        if candidate_name.strip() != "":
-            candidates = candidates + candidate_name + chr(10)
-            candidates = candidates + candidate_party + chr(10)
+	candidates = candidates + candidate_name + chr(10)
+	candidates = candidates + candidate_party + chr(10)
     # Get the formula system and voting system
     formula = request.POST.get('formula', "")
     voting_system = request.POST.get('voting_system', "")

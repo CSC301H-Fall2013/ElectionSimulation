@@ -103,12 +103,12 @@ def add_new_candidate_effort(request):
       if (getattr(camp, "name") == campaign_name):
 	cands = getattr(camp, "candidates")
 	break
-    cands = cands.split(";")
-    cands = [elem[:elem.rfind("/")] for elem in cands]
+    cands = cands.split("\n")
+    cands = [elem[:elem.rfind("")] for elem in cands]
     #remove the empty element 
     cands = cands[:-1]
+    cands = cands[::2]
     cands = [elem.split()[0] for elem in cands]
-    print(cands)
     expected_cand_vote_prop = [0]*len(cands)
     for i in range(len(cands)): #should be replaced with number of candidates.
         #s = 0
