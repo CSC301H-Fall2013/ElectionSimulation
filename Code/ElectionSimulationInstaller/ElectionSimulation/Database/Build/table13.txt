@@ -1,0 +1,2156 @@
+Bonavista--Trinity--Conception	Fred J. Mifflin (Lib.)	Gloucester	Politician	26230	74.8
+Bonavista--Trinity--Conception	Charlie Brett (P.C.)	Bonavista Bay	Self Employed	7479	21.3
+Bonavista--Trinity--Conception	Clem George (N.D.P.)	Carbonear	Claimant Services Officer	1003	2.9
+Bonavista--Trinity--Conception	Lynn Tobin (N.L.P.)	Huntsville	Health care Professional	370	1.1
+Burin--St. George's/Burin--Saint-Georges	Roger Simmons (Lib.)	Ottawa	Politician	24912	80.3
+Burin--St. George's/Burin--Saint-Georges	Paul A. Gallant (P.C.)	Stephenville	Businessman	4935	15.9
+Burin--St. George's/Burin--Saint-Georges	Mark Noseworthy (N.D.P.)	Stephenville	Student	757	2.4
+Burin--St. George's/Burin--Saint-Georges	Michael Rendell (N.L.P.)	St-John's	Systems Programmer	418	1.4
+Gander--Grand Falls	George Baker (Lib.)	Gander	Politician/Parliamentarian	24202	78.1
+Gander--Grand Falls	Tom G. Rideout (P.C.)	St.John's	Politician	6063	19.6
+Gander--Grand Falls	Dennis Whalen (N.D.P.)	Lumsdon	Fisherman	530	1.7
+Gander--Grand Falls	Nolan White (N.L.P.)	St. John's	System Programmer	200	0.7
+Humber--St. Barbe--Baie Verte/Humber--Sainte-Barbe--Baie Verte	Brian Tobin (Lib.)	Nepean	Journalist	26879	82.2
+Humber--St. Barbe--Baie Verte/Humber--Sainte-Barbe--Baie Verte	Margaret Ann O'Rourke (P.C.)	Corner Brook	Broadcast Journalist	5160	15.8
+Humber--St. Barbe--Baie Verte/Humber--Sainte-Barbe--Baie Verte	Linda Soper (N.D.P.)	Carbonear	Postal Clerk	658	2.0
+Labrador	Bill Rompkey (Lib.)	Nepean	Politician	8721	77.1
+Labrador	G. Wayne Piercey (P.C.)	Labrador/Goose Bay	Manager	2141	18.9
+Labrador	Barry Knight (N.D.P.)	Goose Bay	Teacher (Retired)	443	3.9
+St. John's East/St. John's-Est	Bonnie Hickey (Lib.)	Manuels	Homemaker	20270	44.2
+St. John's East/St. John's-Est	Ross Reid (P.C.)	St.John's	Consultant	19320	42.1
+St. John's East/St. John's-Est	Bob Buckingham (N.D.P.)	St. John's	Lawyer	2937	6.4
+St. John's East/St. John's-Est	J. Leonard Barron (R.P.)	St. John's	Retired	1362	3.0
+St. John's East/St. John's-Est	Bill Vetter (Nat.)	St. John's	Prof. of Elect'cl Engineering	1235	2.7
+St. John's East/St. John's-Est	Michael Rayment (N.L.P.)	St. John's	Computer System Manager	389	0.9
+St. John's East/St. John's-Est	Bob Tremblett (C.H.P.)	St. Phillip's	Organizer	349	0.8
+St. John's West/St. John's-Ouest	Jean Payne (Lib.)	Aquaforte	Business Person	24023	55.1
+St. John's West/St. John's-Ouest	Loyola Hearn (P.C.)	Renens	Business Person	16390	37.6
+St. John's West/St. John's-Ouest	Sharon Walsh (N.D.P.)	St. John's	Food Services Worker	1752	4.0
+St. John's West/St. John's-Ouest	Dana Tucker (R.P.)	St. John's	Management Consultant	1030	2.4
+St. John's West/St. John's-Ouest	Guy Harvey (N.L.P.)	Paradise	Educator	432	1.0				
+Cardigan	Lawrence MacAulay (Lib.)	St. Peter's	M.P.	10170	61.7
+Cardigan	Wilbur MacDonald (P.C.)	Vernon	Farmer	5388	32.7
+Cardigan	Reg Phelan (N.D.P.)	Morell	Farmer-Carpenter	934	5.7
+Egmont	Joe McGuire (Lib.)	Tyne Valley	M.P.	10687	57.6
+Egmont	Basil L. Stewart (P.C.)	Summerside	Businessman	6970	37.6
+Egmont	Basil Brian Dumville (N.D.P.)	Glenwood	Machine Operator	893	4.8
+Hillsborough	George Proud (Lib.)	West Royalty	Property Supervisor	11976	60.6
+Hillsborough	Tom McMillan (P.C.)	Keppoch	Political Scientist	5269	26.7
+Hillsborough	Dolores Dodi Crane (N.D.P.)	Charlottetown	Lawyer	1143	5.8
+Hillsborough	Freeman T. Whitty (R.P.)	Charlottetown	Teacher	744	3.8
+Hillsborough	Dave Patterson (Nat.)	Winsloe	Author/Naturalist	350	1.8
+Hillsborough	Baird Judson (C.H.P.)	Charlottetown	Teacher of University (P.E.I.)	167	0.8
+Hillsborough	Peter Cameron (N.L.P.)	Wolfville	Educator	123	0.6
+Malpeque/Malpäque	Wayne Easter (Lib.)	Queens Co.	Farmer	10579	60.8
+Malpeque/Malpäque	Garth E. Staples (P.C.)	Charlottetown	Businessman	5499	31.6
+Malpeque/Malpäque	Karen Fyfe (N.D.P.)	Stanley Bridge	Dairy Farmer	761	4.4
+Malpeque/Malpäque	John Freddie Gunn (C.H.P.)	Malpeque	Carpenter	320	1.8
+Malpeque/Malpäque	Jeremy Stiles (G.P.)	Albany	Occupational Health/Envir.Sfty	249	1.4				
+Annapolis Valley--Hants	John Murphy (Lib.)	Canning	Social Worker,Administrator	18238	39.4
+Annapolis Valley--Hants	Jim White (P.C.)	Windsor	Lawyer	9406	20.3
+Annapolis Valley--Hants	Pat Nowlan (Ind.)	Wolfville	Member of Parliment	8958	19.4
+Annapolis Valley--Hants	John Merriam (R.P.)	New Minas	Insurance Broker	5919	12.8
+Annapolis Valley--Hants	Dick Terfry (N.D.P.)	East Hants	Sales Consultant	2308	5.0
+Annapolis Valley--Hants	Jack Enserink (C.H.P.)	Kings	Contractor	614	1.3
+Annapolis Valley--Hants	Steve Mockford (Nat.)	Kingston	Student	484	1.1
+Annapolis Valley--Hants	John Runkle (N.L.P.)	Halifax	Teacher	319	0.7
+Cape Breton--East Richmond/Cap-Breton--Richmond-Est	David Dingwall (Lib.)	Sydney	Lawyer	24997	78.3
+Cape Breton--East Richmond/Cap-Breton--Richmond-Est	Sam Boutilier (P.C.)	Glace Bay	Retired	2756	8.6
+Cape Breton--East Richmond/Cap-Breton--Richmond-Est	Joanne Lamey (N.D.P.)	Dartmouth	Organizer	1778	5.6
+Cape Breton--East Richmond/Cap-Breton--Richmond-Est	Harry Pollett (R.P.)	Cape Breton	Physician	1761	5.5
+Cape Breton--East Richmond/Cap-Breton--Richmond-Est	Billy Kennedy (Nat.)	Glace Bay	Self-Employed Barber	447	1.4
+Cape Breton--East Richmond/Cap-Breton--Richmond-Est	Patrick Gilbert (N.L.P.)	Halifax	Pastry Chef	171	0.5
+Cape Breton Highlands--Canso/Cap-Breton Highlands--Canso	Francis LeBlanc (Lib.)	Port Hawkesbury	Politician	22719	64.4
+Cape Breton Highlands--Canso/Cap-Breton Highlands--Canso	Lewis MacKinnon (P.C.)	Antigonish	Self-employed	7878	22.3
+Cape Breton Highlands--Canso/Cap-Breton Highlands--Canso	Henry Van Berkel (R.P.)	Antigonish	Teacher	2971	8.4
+Cape Breton Highlands--Canso/Cap-Breton Highlands--Canso	Junior Bernard (N.D.P.)	Cape Breton	Forestry	1375	3.9
+Cape Breton Highlands--Canso/Cap-Breton Highlands--Canso	Earl Lafford (N.L.P.)		Bus Owner - Driver	337	1.0
+Cape Breton--The Sydneys/Cap-Breton--The Sydneys	Russell MacLellan (Lib.)	Cape Breton Co.	Politician	25188	75.8
+Cape Breton--The Sydneys/Cap-Breton--The Sydneys	Marlene Lovett (P.C.)	North Sydney	Entrepreneur	3731	11.2
+Cape Breton--The Sydneys/Cap-Breton--The Sydneys	Robert Arthur Hawley (N.D.P.)	Brasdor	Unemployed fish plant worker	2126	6.4
+Cape Breton--The Sydneys/Cap-Breton--The Sydneys	Keith Dingwall (R.P.)	Sydney	Businessman	1907	5.7
+Cape Breton--The Sydneys/Cap-Breton--The Sydneys	Avard Mills (N.L.P.)	Halifax	Construction Worker	280	0.8
+Central Nova	Roseanne Skoke (Lib.)	Stellarton	Barrister and Solicitor	16329	43.5
+Central Nova	Ken Streatch (P.C.)	Halifax County	Self Employed Farmer	12074	32.2
+Central Nova	Howard MacKinnon (R.P.)	Pictou	Lawyer	5897	15.7
+Central Nova	Hugh MacKenzie (N.D.P.)	Westville	Real Estate Sales	2446	6.5
+Central Nova	Gerard W. Horgan (Nat.)	River John	Farmer	512	1.4
+Central Nova	Pulkesh Lakhanpal (N.L.P.)	Halifax	Medical Student	266	0.7
+Cumberland--Colchester	Dianne Brushett (Lib.)	Truro	Businesswoman	18241	42.6
+Cumberland--Colchester	Bill Casey (P.C.)	Cumberland County	Businessman, Politician	15659	36.6
+Cumberland--Colchester	Audrey Staples (R.P.)	Colchester Co	Businesswoman	5638	13.2
+Cumberland--Colchester	Barbara Jack (N.D.P.)	Cumberland Co.	Farmer	2393	5.6
+Cumberland--Colchester	Steve McLean (C.H.P.)	Colchester	Forestry Worker	602	1.4
+Cumberland--Colchester	Phyllis Hall (N.L.P.)	Halifax	Secretary	311	0.7
+Dartmouth	Ron MacDonald (Lib.)	Dartmouth	Politician	23461	50.8
+Dartmouth	Judith Gass (P.C.)	Dartmouth	Lawyer	10842	23.5
+Dartmouth	Orest Ulan (R.P.)	Dartmouth	Media Consultant	7242	15.7
+Dartmouth	Marty Zelenietz (N.D.P.)	Dartmouth	University Teacher	3301	7.2
+Dartmouth	Cliff Williams (Nat.)	Dartmouth	Print Salesman	810	1.8
+Dartmouth	Claude Viau (N.L.P.)	Halifax	Researcher	516	1.1
+Halifax	Mary Clancy (Lib.)	Halifax	Politician	21326	45.9
+Halifax	Jim Vaughan (P.C.)			9600	20.7
+Halifax	Steve Greene (R.P.)	Halifax	Businessman	6717	14.5
+Halifax	Lynn Jones (N.D.P.)	Halifax	Employment Counsellor	6214	13.4
+Halifax	Charles Phillips (Nat.)	Halifax	Posta Worker, Musician, Writer	1383	3.0
+Halifax	Gilles Bigras (N.L.P.)	Halifax	Teacher	448	1.0
+Halifax	W. Vladimir Klonowski (G.P.)	Halifax	Consultant	307	0.7
+Halifax	A.R. Art Canning (Ind.)	Halifax Co.	Self Employed	277	0.6
+Halifax	Steve Rimek (Ind.)	Halifax	Geographer	99	0.2
+Halifax	Tony Seed (M.-L.)	Halifax	Publisher	84	0.2
+Halifax West/Halifax-Ouest	Geoff Regan (Lib.)	Bedford	Lawyer	27089	46.0
+Halifax West/Halifax-Ouest	Joel Matheson (P.C.)	Halifax	Self Employed	13816	23.5
+Halifax West/Halifax-Ouest	Jim Donohue (R.P.)	Halifax	Computer Systems Analyst	11433	19.4
+Halifax West/Halifax-Ouest	Sheila Richardson (N.D.P.)	Halifax	Student	5009	8.5
+Halifax West/Halifax-Ouest	Kirby Judge (Nat.)	Halifax	Teacher	1070	1.8
+Halifax West/Halifax-Ouest	Bernard Gormley (N.L.P.)	Halifax	Researcher	472	0.8
+South Shore	Derek Wells (Lib.)	Chester	Lawyer	17351	46.9
+South Shore	Peter L. McCreath (P.C.)	Hubbards	Educator	12060	32.6
+South Shore	Anne Matthiasson (R.P.)	Lunenburg	Real Estate Agent	4999	13.5
+South Shore	Eric Hustvedt (N.D.P.)	Lunenburg	Public Relations Consultant	1847	5.0
+South Shore	A. James Donahue (Nat.)	Chester	Architect	421	1.1
+South Shore	Richard Robertson (N.L.P.)	Halifax	Artist	287	0.8
+South West Nova	Harry Verran (Lib.)	Annapolis County	Retired	20745	54.8
+South West Nova	Yvon Joseph Thibault (P.C.)	Clare	Fishery	8589	22.7
+South West Nova	Louis E. Mason (R.P.)	Annapolis County	Christmas Tree Farmer	5893	15.6
+South West Nova	Peter Zavitz (N.D.P.)	Bridgetown	School Teacher	2110	5.6
+South West Nova	Gregg Murphy (N.L.P.)	Halifax	Businessman	540	1.4
+BeausÇjour	Fernand Robichaud (Lib.)	Saint-Louis-de-Kent	Adjoint	30117	76.2
+BeausÇjour	Ian Hamilton (P.C.)	Memramcook	Vocational Teacher	6004	15.2
+BeausÇjour	A. David H. Bailie (N.D.P.)	Sackville		2246	5.7
+BeausÇjour	James George Bannister (Nat.)	Shediac	Teacher, Student	740	1.9
+BeausÇjour	Mae Boudreau Pedersen (C.H.P.)	Moncton	RetraitÇe	443	1.1
+Carleton--Charlotte	Harold Culbert (Lib.)	Woodstock	Insurance Agent	13970	43.1
+Carleton--Charlotte	Greg Thompson (P.C.)	St.Stephen	Financial Planner	13159	40.6
+Carleton--Charlotte	Greg Wyborn (R.P.)	Quispamsis	Engineer	3831	11.8
+Carleton--Charlotte	Bill Barteau (N.D.P.)	Deer Island	Office Employee	1016	3.1
+Carleton--Charlotte	Richard Shelley (Nat.)	Glassville	Nightwatchman	431	1.3
+Fredericton--York-Sunbury	Andy Scott (Lib.)	Fredericton	Public Servant	21771	46.6
+Fredericton--York-Sunbury	J.W. Bud Bird (P.C.)	Fredericton	Businessman	13619	29.2
+Fredericton--York-Sunbury	Jack Lamey (R.P.)	Fredericton	Businessman	7985	17.1
+Fredericton--York-Sunbury	Pauline Mackenzie (N.D.P.)	Fredericton	Educator	2348	5.0
+Fredericton--York-Sunbury	Neil C. Dickie (N.L.P.)	Huntsville	Editor and Businessman	383	0.8
+Fredericton--York-Sunbury	Steven Gillrie (C.P.)	Fredericton	Self Employed	371	0.8
+Fredericton--York-Sunbury	Doreen Fraser (NIL)	Fredericton	Retired Accountant	226	0.5
+Fundy--Royal	Paul Zed (Lib.)	Rothesay	Lawyer/University teacher	21777	46.5
+Fundy--Royal	Bob Corbett (P.C.)	Gagetown	Businessman	13274	28.3
+Fundy--Royal	Dan McKiel (R.P.)	Quispamsis	Educator	8283	17.7
+Fundy--Royal	Mark Connell (N.D.P.)	Sussex	Geologist/Businessman	2254	4.8
+Fundy--Royal	Colby Fraser (NIL)	Grand Bay	Electrician	1256	2.7
+Acadie--Bathurst	Douglas Young (Lib.)	Tracadie-Sheila	Avocat-Notaire	26843	66.4
+Acadie--Bathurst	Luce-AndrÇe Gauthier (P.C.)	Shippagan	Avocate-Notaire	11162	27.6
+Acadie--Bathurst	Kim Gallant (N.D.P.)	Bathurst	Control Technologist	2413	6.0
+Madawaska--Victoria	Pierrette Ringuette-Maltais (Lib.)	Ste-Anne de Madawaska	Politicienne	16059	48.8
+Madawaska--Victoria	Bernard Valcourt (P.C.)	Edmundston	Avocat-Notaire	15042	45.7
+Madawaska--Victoria	Kimberly C. Spikings (R.P.)	Arthurette	Financial Consultant	955	2.9
+Madawaska--Victoria	Parise Martin (N.D.P.)	Grand Sault	Auxiliaire EnregistrÇ	854	2.6
+Miramichi	Charles Hubbard (Lib.)	Red Bank	School Principal	18839	61.1
+Miramichi	Peter Murphy (P.C.)	Newcastle	Insurance Agent	7036	22.8
+Miramichi	Paul D. Doyle (R.P.)	Nelson Miramichi	Mill Worker	3063	9.9
+Miramichi	Gordon E. Allison (N.D.P.)	Chatham	Industrial Sales	1570	5.1
+Miramichi	Wilmot F. Ross (C.P.)	Naswaak Bridge	Research Consultant	309	1.0
+Moncton	George S. Rideout (Lib.)	Moncton	Lawyer	33654	66.3
+Moncton	Bernadette LeBlanc (P.C.)	Dieppe	Retired Citizenship Judge	7251	14.3
+Moncton	Clyde Woodworth (R.P.)	Riverview	Self employed	6310	12.4
+Moncton	GÇrard Snow (N.D.P.)	Moncton	Directeur de recherche	2500	4.9
+Moncton	Isaac J. Legere (C.H.P.)	Moncton	Insurance Broker	553	1.1
+Moncton	Ronald Edwin Openshaw (N.L.P.)	Fairfield, Iowa (USA) 52557	Professor of Physics	491	1.0
+Restigouche--Chaleur	Guy Arseneault (Lib.)	Dalhousie	Enseignant	21004	70.5
+Restigouche--Chaleur	Bruce N. MacIntosh (P.C.)	Campbellton	Mayor/Businessman	5913	19.9
+Restigouche--Chaleur	Nancie Quigley (N.D.P.)	Campbellton	Resident Attendant	2060	6.9
+Restigouche--Chaleur	Laurent Maltais (N.L.P.)	Campbellton	Travailleur Sociale	804	2.7
+Saint John	Elsie Wayne (P.C.)	Saint John	Retired	15123	43.3
+Saint John	Pat Landers (Lib.)	Saint John	Homemaker	11735	33.6
+Saint John	Joe Boyce (NIL)	Saint John	Businessman	3687	10.6
+Saint John	John V. Erbs (R.P.)	Saint John	Clerk	2201	6.3
+Saint John	Shirley Brown (N.D.P.)	Saint John	Teacher	1433	4.1
+Saint John	Jim Webb (C.P.)	Saint John	Retired	359	1.0
+Saint John	Christopher B. Collrin (N.L.P.)	Saint John	Human Resources Consultant	226	0.7
+Saint John	Joy Ann Hobson (Nat.)	Saint John	Part-Time Student & Writer	146	0.4
+Abitibi	Bernard Deshaies (B.Q.)	Amos	Commercant	19076	46.2
+Abitibi	Guy St-Julien (P.C.)	Vaud'or	DÇputÇ FÇdÇral	14551	35.3
+Abitibi	Lucie Blais (Lib.)	Sullivan	Directrice gÇnÇrale	6696	16.2
+Abitibi	Louise Cloutier (N.D.P.)	Chisasibi	Enseignante	951	2.3
+Argenteuil--Papineau	Maurice Dumas (B.Q.)	Mirabel-Saint-Canut	Professeur	23360	47.3
+Argenteuil--Papineau	Jacques Desforges (Lib.)	Grenville	Thanatologue	14234	28.8
+Argenteuil--Papineau	Lise Bourgault (P.C.)	St. Philippe D'Argenteuil	Politicien ou Parlementaire	10959	22.2
+Argenteuil--Papineau	Jean G. Drapeau (N.D.P.)	St-Colomban	Agent Service Clientäle	888	1.8
+Beauce	Gilles Bernier (Ind.)	St-Georges de Beauce	DÇputÇ	20343	40.5
+Beauce	Jean-Guy Breton (B.Q.)	Saint-Joseph de Beauce	Conseiller en Formation Scolai	18201	36.2
+Beauce	Pierre Gravel (Lib.)	Ste-Marie	Avocat	7273	14.5
+Beauce	Jeannine Bourque (P.C.)	St-Goerges Ouest	Producteur Agricole	4108	8.2
+Beauce	Tom Vouloumanos (N.D.P.)	Sherbrooke	êtudiant	365	0.7
+Beauharnois--Salaberry	Laurent Lavigne (B.Q.)		Producteur Agricole	25873	51.4
+Beauharnois--Salaberry	Linda Julien (Lib.)	St-TimothÇe	Avocate & Dirigeante	15875	31.5
+Beauharnois--Salaberry	Marie-AndrÇe McSween (P.C.)	Salaberry-de-Valleyfield	Directeur de Compte.	7602	15.1
+Beauharnois--Salaberry	Marc Dubuc (N.D.P.)	St-TimothÇe	Comptable	987	2.0
+Bellechasse	Franáois Langlois (B.Q.)	Sainte-Claire	Avocat	16981	40.7
+Bellechasse	Pierre Blais (P.C.)	Berthier-Sur-Mer	Avocat	15831	37.9
+Bellechasse	Eric Lemieux (Lib.)	Ste-Foy	Professeur et homme d'affaire	8361	20.0
+Bellechasse	Robert Leclerc (N.D.P.)	QuÇbec	Journalier	601	1.4
+Berthier--Montcalm	Michel Bellehumeur (B.Q.)	Berthierville	Avocat	35952	60.9
+Berthier--Montcalm	Madeleine BÇlanger (Lib.)	Louiseville	Femme D'Affaires	16163	27.4
+Berthier--Montcalm	RÇal Naud (P.C.)	St. Gabriel De Brandon	Directeur General	5271	8.9
+Berthier--Montcalm	RÇal Croteau (N.L.P.)	St-Edouard-Mask	Conseiller en Gestion	803	1.4
+Berthier--Montcalm	Jean-Pierre de Billy (N.D.P.)	St-Calinte	Agent des Services Correction	593	1.0
+Berthier--Montcalm	Laurent Harvey (Nat.)	Lavaltrie	Comptable	272	0.5
+Blainville--Deux-Montagnes	Paul Mercier (B.Q.)	Blainville		48214	59.4
+Blainville--Deux-Montagnes	Pierre Brien (Lib.)	Sainte-ThÇräse	Administrateur	18730	23.1
+Blainville--Deux-Montagnes	Monique Landry (P.C.)	Ste-ThÇräse	DÇputÇe	11840	14.6
+Blainville--Deux-Montagnes	Linda LÇgarÇ-St-Cyr (N.L.P.)	St-Eustache	Consultante en relation d'aide	1010	1.2
+Blainville--Deux-Montagnes	Jean-Paul Rioux (N.D.P.)	St-Eustache	Chauffeur d'autobus	858	1.1
+Blainville--Deux-Montagnes	Richard Kirkman Kendall (Libert.)	Deux Montagnes	Manager - Package Development	397	0.5
+Blainville--Deux-Montagnes	Gisäle Ray (Com'lth)	Roxboro	RetraitÇe	105	0.1
+Bonaventure--Iles-de-la-Madeleine	Patrick Gagnon (Lib.)	New Richmond	Consultant	12007	43.6
+Bonaventure--Iles-de-la-Madeleine	Michel Saint-Pierre (B.Q.)	Carleton	Administration	9237	33.5
+Bonaventure--Iles-de-la-Madeleine	Darryl L. Gray (P.C.)	Escuminac	Enseignant-Cultivateur	5929	21.5
+Bonaventure--Iles-de-la-Madeleine	Germaine Poirier (N.D.P.)	Victoriaville	Rentiäre	370	1.3
+Brome--Missisquoi	Gaston PÇloquin (B.Q.)	Bromont	Enseignant	17836	40.8
+Brome--Missisquoi	Joan Kouri (Lib.)	Brome Ouest	PÇdagogue	16040	36.7
+Brome--Missisquoi	Francine Vincelette (P.C.)	Lac Brome	Femme D'Affaire	7504	17.2
+Brome--Missisquoi	Jean Guy Peloquin (Abol.)	Eastman	Agent D'affaire	722	1.7
+Brome--Missisquoi	Yves DÇcarie (N.L.P.)	Compton	Administrateur	563	1.3
+Brome--Missisquoi	Sean Hutchinson (N.D.P.)	MontrÇal	Etudiant	553	1.3
+Brome--Missisquoi	Gary Wightman (NIL)	Canton Bedford	Sale and Distribution	380	0.9
+Brome--Missisquoi	Edmond SÇguin (Nat.)	St. Eustache	Programmer	156	0.4
+Chambly	Ghislain Lebel (B.Q.)	N.D. Bon Secours	Notaire	36485	59.7
+Chambly	Jean-Claude Villiard (Lib.)	Verdun	Administrateur	17803	29.1
+Chambly	HÇläne Tremblay (P.C.)	St-Bruno	Chef D'entreprise	4760	7.8
+Chambly	Franáois CìtÇ (N.D.P.)		Avocat	1796	2.9
+Chambly	Marcel Marjot (Com'lth)	MontrÇal	RetraitÇ	277	0.5
+Champlain	RÇjean Lefebvre (B.Q.)	St. Adelphe	Ouvrier Sylvicole Principal	23650	48.8
+Champlain	Michel Champagne (P.C.)	Proulxville	Politologue	13083	27.0
+Champlain	Michel Veillette (Lib.)	Cap. de la Madeleine	Industriel	11254	23.2
+Champlain	AndrÇ De Billy (N.D.P.)	Plessisville	Camionneur	449	0.9
+Gatineau-La Liävre	Mark Assad (Lib.)	Buckingham	Professeur	39283	55.5
+Gatineau-La Liävre	Jules Fournier (B.Q.)	Aylmer	Agent de Liaison	25012	35.3
+Gatineau-La Liävre	JÇrìme P. Falardeau (P.C.)	Gatineau	Hommes D'Affaire	4478	6.3
+Gatineau-La Liävre	Elizabeth Holden (N.D.P.)	Gatineau	Secretaire GÇnÇrale	1099	1.6
+Gatineau-La Liävre	Daniäle BÇlair (N.L.P.)	OrlÇans	Enseignante	737	1.0
+Gatineau-La Liävre	Nicole Leblanc (M.-L.)	Hull	Commis	189	0.3
+Charlesbourg	Jean-Marc Jacob (B.Q.)	Beauport	Medecin Veterinaire	38565	59.4
+Charlesbourg	Michel Renaud (Lib.)	Loretteville	Avocat	15180	23.4
+Charlesbourg	Monique B. Tardif (P.C.)	Cap-Rouge	Politician	8150	12.6
+Charlesbourg	Michel Audy (N.L.P.)	Charlesbourg	Entrepreneur Construction	1487	2.3
+Charlesbourg	Gaston Juneau (N.D.P.)	Stoneham	ReprÇsentant syndical	1258	1.9
+Charlesbourg	Nelson Lejeune (Abol.)	Sainte-Foy	Cuisinier	318	0.5
+Charlevoix	GÇrard Asselin (B.Q.)	Baie-Comeau	Contremaitre	23617	62.0
+Charlevoix	AndrÇ DesgagnÇs (Lib.)	Baie-St-Paul	I.T.	7160	18.8
+Charlevoix	GÇrard Guy (P.C.)	Gatineau	Conseiller	6800	17.8
+Charlevoix	Audrey Carpentier (N.D.P.)	Gatineau	SecrÇtaire	533	1.4
+ChÉteauguay	Maurice Godin (B.Q.)	Mercier	Pre-RetraitÇ	34652	58.0
+ChÉteauguay	Kimon Valaskakis (Lib.)	MontrÇal	Economiste	18121	30.3
+ChÉteauguay	Ricardo Lopez (P.C.)	St.Jacques Le Mineur	Administrateur	5782	9.7
+ChÉteauguay	Luc Proulx (N.D.P.)	Westmount	Agent de Bureau	858	1.4
+ChÉteauguay	StÇphane Beauregard (Com'lth)	MontrÇal	ReprÇsentant	317	0.5
+Chicoutimi	Gilbert Fillion (B.Q.)	Chicoutimi	RetraitÇ (professeur)	29511	63.9
+Chicoutimi	AndrÇ Harvey (P.C.)	Chicoutimi	Politicien	11126	24.1
+Chicoutimi	Georges Frenette (Lib.)	Chicoutimi	Professeur	5000	10.8
+Chicoutimi	Christine Moore (N.D.P.)	MontrÇal	Çtudiante	548	1.2
+Drummond	Pauline Picard (B.Q.)	Drummondville	Administrative/Conseilläre	24923	54.9
+Drummond	Bernard Boudreau (Lib.)	St-Charles De Drummond	Avocat	10924	24.1
+Drummond	Jean-Guy Guilbault (P.C.)	Drummondville	Politicien	8971	19.8
+Drummond	Ferdinand Berner (N.D.P.)	Durham-sud	Agriculteur	605	1.3
+Frontenac	Jean-Guy ChrÇtien (B.Q.)	Garthby	Professeur-Agriculteur	19428	58.4
+Frontenac	Jean-Guy Jam (Lib.)	Plessisville	Gestionnaire	7465	22.5
+Frontenac	Jean-Claude Nadeau (P.C.)	St.Jacques De Leeds	Administrateur	5431	16.3
+Frontenac	Jean-RenÇ Guernon (G.P.)	Vianney	Ecologiste	379	1.1
+Frontenac	Joseph Bowman (N.D.P.)	Ottawa	Etudiant	345	1.0
+Frontenac	Jean C. Turmel (Abol.)	Nepean	Ingenieur electric	210	0.6
+GaspÇ	Yvan Bernier (B.Q.)	GaspÇ	Administrateur	13224	45.2
+GaspÇ	Delton Sams (Lib.)	Gaspe	Avocat	10128	34.6
+GaspÇ	Charles-Eugäne Marin (P.C.)	Sainte.Anne-Des-Monts	MÇdicin Psychiatric	5425	18.5
+GaspÇ	Michel Limoges (G.P.)	GaspÇ	Administrateur-Çcrivain	291	1.0
+GaspÇ	Eric Wilson Steedman (N.D.P.)	MontrÇal	Etudiant	209	0.7
+Hull--Aylmer	Marcel MassÇ (Lib.)	Hull	êconomiste/Administrateur	27988	53.3
+Hull--Aylmer	Gilles Rocheleau (B.Q.)	Hull	DÇputÇ	14293	27.2
+Hull--Aylmer	Tony Cannavino (NIL)	Hull	Policier	4583	8.7
+Hull--Aylmer	Pierre ChÇnier (P.C.)	Hull	Agent Financier	3244	6.2
+Hull--Aylmer	Francine Bourque (N.D.P.)	Aylmer	Professeure	1346	2.6
+Hull--Aylmer	George Halpern (G.P.)	Aylmer	Sales Manager	468	0.9
+Hull--Aylmer	Robert Mayer (N.L.P.)	Hull	Directeur (Gestionnaire)	401	0.8
+Hull--Aylmer	Franáoise Roy (M.-L.)	Hull	MenagÇre	162	0.3
+Hull--Aylmer	Linda Dubois (Abol.)	Gatineau	Märe	63	0.1
+Joliette	RenÇ Laurin (B.Q.)	Joliette	Directeur GÇnÇral	41061	66.3
+Joliette	RÇjean Lefebvre (Lib.)	Joliette	Entrepreneur	10108	16.3
+Joliette	Gaby LarrivÇe (P.C.)	St-Charle Borromee	Politicien	8784	14.2
+Joliette	Gilles Roy (N.L.P.)	Joliette	Homme D'Affaire	1285	2.1
+Joliette	Gilles De Chantal (N.D.P.)	Aylmer	Organisateur Communautaire	745	1.2
+Jonquiäre	AndrÇ Caron (B.Q.)	Jonquiäre	Conseiller d'Orientation	25129	67.6
+Jonquiäre	Jean-Pierre Blackburn (P.C.)	Jonquiäre	Administrateur	6645	17.9
+Jonquiäre	Gilles Savard (Lib.)	Jonquiäre	Professeur	4528	12.2
+Jonquiäre	Normand Dufour (N.L.P.)	Jonquiäre	Boucher, Animateur	444	1.2
+Jonquiäre	Karl BÇlanger (N.D.P.)	JonquiÇre	Etudiant	413	1.1
+Kamouraska--Riviäre-du-Loup	Paul Cràte (B.Q.)	La Pocatiäre	Directeur du Personnel et Secr	18510	52.9
+Kamouraska--Riviäre-du-Loup	AndrÇ Plourde (P.C.)	Notre-Dame du Portage	Politicien	8051	23.0
+Kamouraska--Riviäre-du-Loup	Maurice Tremblay (Lib.)	Cacouna	Avocat	7476	21.4
+Kamouraska--Riviäre-du-Loup	Pierre-Paul Malenfant (NIL)	Trois-Pistoles	Intervenant Social	537	1.5
+Kamouraska--Riviäre-du-Loup	HÇläne Bois (N.D.P.)	Pont-Viau	Infirmiäre	440	1.3
+Lac-Saint-Jean	Lucien Bouchard (B.Q.)	Alma	DÇputÇ	27258	75.6
+Lac-Saint-Jean	Noâl Girard (Lib.)	Alma	Professionnel de la vente	5172	14.3
+Lac-Saint-Jean	Denise Falardeau (P.C.)	Alma	Enseignante	3201	8.9
+Lac-Saint-Jean	Marie D. Jalbert (N.D.P.)	Ancienne-Lorette	SecrÇtaire	443	1.2
+Quebec/QuÇbec	Christiane Gagnon (B.Q.)	QuÇbec	Agente d'immeubles	27788	53.8
+Quebec/QuÇbec	Jean Pelletier (Lib.)	QuÇbec	Directeur de Cabinet	13955	27.0
+Quebec/QuÇbec	Gilles Loiselle (P.C.)	QuÇbec	Diplomate	7052	13.7
+Quebec/QuÇbec	Majella Desmeules (N.D.P.)	QuÇbec	Politicologue Enrecherche	1027	2.0
+Quebec/QuÇbec	Danielle Charland (N.L.P.)	QuÇbec	Educatrice en Soudi	853	1.7
+Quebec/QuÇbec	Richard Domm (G.P.)	Stoneham	Ecologiste	786	1.5
+Quebec/QuÇbec	Ernst Fernandez (Abol.)	QuÇbec	Homme d'Affaires	159	0.3
+La Prairie	Richard BÇlisle (B.Q.)	Saint-Lambert	Conseiller en RÇadaptation	27490	43.1
+La Prairie	Jacques Saada (Lib.)	Saint-Lambert	Homme D'Affaires	27014	42.3
+La Prairie	Fernand Jourdenais (P.C.)	Brossard	Politician	7750	12.1
+La Prairie	Mohamed Akoum (N.D.P.)	Saint-Laurent	Consultant en Systäme D'Info.	708	1.1
+La Prairie	Pierre Montpetit (N.L.P.)	Longueuil	Consultant	699	1.1
+La Prairie	Alain Gauthier (Com'lth)	St-Lambert	MÇdecin	199	0.3
+Laurentides	Monique Guay (B.Q.)	PrÇvost	Femme D'Affaires Administrateu	41822	60.7
+Laurentides	Michelle Tisseyre (Lib.)	Rosemore		18651	27.1
+Laurentides	Jacques Vien (P.C.)	Val Morin		7169	10.4
+Laurentides	Patricia Houle (N.D.P.)	Laval	SecrÇtaire	820	1.2
+Laurentides	Gilles Gervais (Com'lth)	MontrÇal		464	0.7
+LÇvis	Antoine DubÇ (B.Q.)	St-Jean	Administrateur	40487	61.5
+LÇvis	Jean-Marc Gagnon (Lib.)	St-Nicholas	Dir. du Service a la Clientäle	14284	21.7
+LÇvis	Serge LÇveillÇ (P.C.)	Saint-Henri	Directeur gÇnÇral-Centre Sport	9185	14.0
+LÇvis	Marie-France Renaud (N.D.P.)	Charlesburg		1186	1.8
+LÇvis	Carole Carrier (Abol.)	QuÇbec	Inf-Aux	667	1.0
+Longueuil	Nic Leblanc (B.Q.)	Longueuil	DÇputÇ	38892	66.0
+Longueuil	Guy Chartrand (Lib.)	Ile PÇrìt	Gestionnaire	14252	24.2
+Longueuil	Richard Ledoux (P.C.)	Longueuil	Avocat	4561	7.7
+Longueuil	Sergio Martinez (N.D.P.)	MontrÇal	Professeur	999	1.7
+Longueuil	Dany LÇpine (Com'lth)	Sherbrooke	Etudiant	251	0.4
+Lotbiniäre	Jean Landry (B.Q.)	St-ValÇre	Photographe AÇrien	26956	53.8
+Lotbiniäre	Michael Provencher (Lib.)	Victoriaville	Avocat	14888	29.7
+Lotbiniäre	Jacques Le Sieur (P.C.)	Victoriaville	Consultant	7576	15.1
+Lotbiniäre	AndrÇ-Pierre Robitaille (N.D.P.)	MontrÇal	Administrateur	707	1.4
+Louis-HÇbert	Philippe ParÇ (B.Q.)	Cap-Rouge	RetraitÇ	33879	55.7
+Louis-HÇbert	Margo Brousseau (Lib.)	Ste-Foy	Avocate	15673	25.8
+Louis-HÇbert	Suzanne Duplessis (P.C.)	Sainte-Foy	DÇputÇe	9313	15.3
+Louis-HÇbert	Michel Nadeau (N.L.P.)	Ste-Foy	Directeur Services Admin.	882	1.5
+Louis-HÇbert	Karl Adomeit (N.D.P.)	Sillery	êtudiant	784	1.3
+Louis-HÇbert	Raymond Guimond (Abol.)	Cap-Rouge	Conseiller & Ed.	166	0.3
+Louis-HÇbert	Jacques Brochu (Com'lth)	Ste-Foy	Analyste En Informatique	147	0.2
+Manicouagan	Bernard St-Laurent (B.Q.)	Moisie	Agent Services Correctionnels	14859	55.0
+Manicouagan	Charles Langlois (P.C.)	Moisir	Politicien	6012	22.2
+Manicouagan	Rita Lavoie (Lib.)	Chomedey Laval	Femme d'affaires	5706	21.1
+Manicouagan	Eric HÇbert (N.D.P.)	MontrÇal	Etudiant	451	1.7
+MatapÇdia--Matane	RenÇ Canuel (B.Q.)	Amqui	Enseignant	18331	57.3
+MatapÇdia--Matane	Maurice Gauthier (Lib.)	Matane	Directeur	10410	32.6
+MatapÇdia--Matane	Jean-Luc Joncas (P.C.)	Amqui	Politicien	2448	7.7
+MatapÇdia--Matane	Pierre Gauthier (N.L.P.)	Mont-Joli	OrthothÇrapeute	570	1.8
+MatapÇdia--Matane	Robert McKoy (N.D.P.)	Brossard	êtudiant	218	0.7
+MÇgantic--Compton--Stanstead	Maurice Bernier (B.Q.)	Sherbrooke	Fonctionnaire	17214	44.7
+MÇgantic--Compton--Stanstead	Eugene Naylor (Lib.)	Compton	Tecnicien Equipement Agriculte	13602	35.3
+MÇgantic--Compton--Stanstead	Gilles Goddard (P.C.)	Ascot Corner	Homme d'Affaire	6026	15.7
+MÇgantic--Compton--Stanstead	Jacqueline Benoåt (N.L.P.)	Coaticook	Enseignante	750	2.0
+MÇgantic--Compton--Stanstead	Martine Simard (N.D.P.)	Laval	Enseignante	494	1.3
+MÇgantic--Compton--Stanstead	Marco Bissonnette (Abol.)	Waterville	Homme d'Affaire	212	0.6
+MÇgantic--Compton--Stanstead	James Stewart (Nat.)	Bishopton	Prof. Engineer	197	0.5
+Beauport--Montmorency--OrlÇans	Michel Guimond (B.Q.)	Boischatel	Avocat	31671	57.7
+Beauport--Montmorency--OrlÇans	Charles DeBlois (P.C.)	Beauport	Politicien (ou parlementaire)	12687	23.1
+Beauport--Montmorency--OrlÇans	Doris Dawson-Bernard (Lib.)	QuÇbec	Conseilliere	7899	14.4
+Beauport--Montmorency--OrlÇans	Suzanne Fortin (N.D.P.)	Beauport	Etudiante	1174	2.1
+Beauport--Montmorency--OrlÇans	Gilles Rochette (N.L.P.)	Beauport	Analyste en informatique	1138	2.1
+Beauport--Montmorency--OrlÇans	Micheline Loignon (Abol.)	QuÇbec	Infirmiäre Auxiliaire	297	0.5
+Pontiac--Gatineau--Labelle	Robert Bertrand (Lib.)	Fort-Coulonge	Assureur-vie	17313	40.3
+Pontiac--Gatineau--Labelle	Claude Radermaker (B.Q.)	Ste. VÇronique	Agent de Conservation	14487	33.7
+Pontiac--Gatineau--Labelle	Barry Moore (P.C.)	Maniwaki	Politicien/Parlementaire	9408	21.9
+Pontiac--Gatineau--Labelle	Brian Corriveau (Nat.)	Litchfield	Farmer	716	1.7
+Pontiac--Gatineau--Labelle	Nicole Des Roches (N.D.P.)	Chelsea	Enseignante-Teacher	674	1.6
+Pontiac--Gatineau--Labelle	Glen Emmett Patrick Kealey (Ind.)	Gloucester	Volunteer Co-Chairman CIPI	399	0.9
+Portneuf	Pierre De Savoye (B.Q.)	Ste.Catherine	Professeur	24065	53.6
+Portneuf	Paulin Plamondon (Lib.)	St-Raymond	Homme D'Affaires	10382	23.1
+Portneuf	Marc Ferland (P.C.)	St. Basile	Dessinateur Industrielle	6632	14.8
+Portneuf	RenÇ Matte (NIL)	St-Casimir	êcrivain-Animateur	2281	5.1
+Portneuf	Robert Royer (N.L.P.)	Fossambault	Homme D'affaires	875	2.0
+Portneuf	John MacFarlane (N.D.P.)	St-Raymond	êtudiant	636	1.4
+QuÇbec-Est	Jean-Paul Marchand (B.Q.)	Ancienne Lorette	Ecrivain	34594	59.6
+QuÇbec-Est	Camil Samson (Lib.)	QuÇbec	Animateur-Chronigueur	14151	24.4
+QuÇbec-Est	Marcel R. Tremblay (P.C.)	Charlesbourg	IlÇputÇ	6553	11.3
+QuÇbec-Est	Pierre-Paul Paquet (N.L.P.)	L'Ancienne-Lorette	IngÇnieur	1122	1.9
+QuÇbec-Est	StÇphanie Mitchell (N.D.P.)	Verdun	Adjointe Administrative	971	1.7
+QuÇbec-Est	Henri Gagnon (Abol.)	St-Raymond	Dr. Chryro	371	0.6
+QuÇbec-Est	Guy Sanfaáon (Nat.)	QuÇbec	DÇbardeur	289	0.5
+Richelieu	Louis Plamondon (B.Q.)	Tracy	Homme d'Affaires	31558	66.5
+Richelieu	Michel Biron (Lib.)	Nicolet	Industriel	10933	23.1
+Richelieu	Lorraine Frappier (P.C.)	Tracy	Directrice GÇnÇrale	4455	9.4
+Richelieu	Carl Ethier (N.D.P.)	Ste-Victore	PsychothÇrapeute	337	0.7
+Richelieu	Paulo Da Silva (Com'lth)	MontrÇal	Manager	157	0.3
+Richmond--Wolfe	Gaston Leroux (B.Q.)	de Brompton	Conseiller en Communication	22235	52.3
+Richmond--Wolfe	Yvon CotÇ (P.C.)	Rock Forest	DeputÇ federale Politicien	10004	23.5
+Richmond--Wolfe	GaÇtan Dumas (Lib.)	Rock-Forest	Avocat	9159	21.5
+Richmond--Wolfe	Anne-Marie Marois (N.L.P.)	Ste-Christine	Märe	676	1.6
+Richmond--Wolfe	Marc-AndrÇ Peloquin (N.D.P.)	Kingsbury	Retraite	479	1.1
+Rimouski--TÇmiscouata	Suzanne Tremblay (B.Q.)	Bic	Professeure	23016	59.9
+Rimouski--TÇmiscouata	AndrÇ Reid (Lib.)	Pointe au Päre	IngÇnieur	9475	24.7
+Rimouski--TÇmiscouata	Jean Morin (P.C.)	Rimouski	Journaliste	4619	12.0
+Rimouski--TÇmiscouata	Franáois-Michel Denis (NIL)	Rimouski	Enseignant de Cegep	599	1.6
+Rimouski--TÇmiscouata	Gilles Roussel (N.L.P.)	Ste.Luce		400	1.0
+Rimouski--TÇmiscouata	Alex En Hwa Ng (N.D.P.)	MontrÇal	Etudiant	335	0.9
+Roberval	Michel Gauthier (B.Q.)	Roberval	Administrateur	20109	60.0
+Roberval	AurÇlien Gill (Lib.)	Mashteuiatsh	Administrateur	6863	20.5
+Roberval	Henri-Paul Brassard (P.C.)	Dolbeau	Administrateur	6065	18.1
+Roberval	Alain Giguäre (N.D.P.)	MontrÇal	Etudiant	500	1.5
+Saint-Hubert	Pierrette Venne (B.Q.)	Brossard	Notaire	34959	56.9
+Saint-Hubert	AngÇline Fournier (Lib.)	Saint-Lambert	Analyste Politique	19615	31.9
+Saint-Hubert	Jean Lesage (P.C.)	Brossard	Avocat	4520	7.4
+Saint-Hubert	Nathalie Rochefort (N.D.P.)	MontrÇal	êtudiante	903	1.5
+Saint-Hubert	Jean Cerigo (N.L.P.)	MontrÇal	Administrateur	868	1.4
+Saint-Hubert	Claude K. Alain (Nat.)	Greenfield Park	Agent Immobilier	339	0.6
+Saint-Hubert	Bruno Lipke (Com'lth)	Laval	Electrical Contracting	240	0.4
+Saint-Hyacinthe--Bagot	Yvan Loubier (B.Q.)	MontrÇal		28014	57.4
+Saint-Hyacinthe--Bagot	HÇläne Riendeau (Lib.)	Sainte-Rosalie	Adjointe Administrative	10124	20.7
+Saint-Hyacinthe--Bagot	AndrÇe Champagne (P.C.)	St. Hyacinthe	Politicien	9834	20.1
+Saint-Hyacinthe--Bagot	Luc Chamberland (N.D.P.)	St. Bruno-de-Montarville	Sans emploi	848	1.7
+Saint-Jean	Claude Bachand (B.Q.)	St-Jean-sur-Richelieu	Educateur	29753	55.9
+Saint-Jean	Delbert Deschambault (Lib.)	St-Jean Sur Richelieu	Maire	14343	26.9
+Saint-Jean	ClÇment Couture (P.C.)	St-Jean-sur-Richelieu	Politicien/Parlementaire	7780	14.6
+Saint-Jean	Alain LongprÇ (N.L.P.)	Fulford	Commercant	773	1.5
+Saint-Jean	Jutta Teigeler (N.D.P.)	Aylmer	Conseillere en dÇveloppement	497	0.9
+Saint-Jean	Guy David (Com'lth)	Dollard-Des-Ormeaux	Technicien en Electronique	100	0.2
+Saint-Maurice	Jean ChrÇtien (Lib.)	Ottawa	Avocat et CHEF du PARTI LIBERA	25200	54.1
+Saint-Maurice	Claude RomprÇ (B.Q.)	Shawinigan	Attache Politique	18896	40.5
+Saint-Maurice	Pauline B. Daneault (P.C.)	Grand-Mere	Gestionneire	1909	4.1
+Saint-Maurice	Christian Simard (N.L.P.)	Compton	Administrateur	372	0.8
+Saint-Maurice	Robert Des Champs (N.D.P.)	Grand Märe	Rentier	236	0.5
+Shefford	Jean H. Leroux (B.Q.)	St. CÇsaire	Enseignant	27125	55.7
+Shefford	Roger LÇgarÇ (Lib.)	Granby	Directeur GÇnÇral-Affaires	14154	29.1
+Shefford	Jocelyn Compagnat (P.C.)	St.Alphonde de Granby	Dir. Corporatif Douane	5836	12.0
+Shefford	Michäle Beausoleil (N.L.P.)	Shefford	Administrateur	763	1.6
+Shefford	Marielle Sanna (N.D.P.)	Roxton Falls Canton	Travailleuse Autonome	601	1.2
+Shefford	Denis Loubier (Abol.)	Granby	Camionneur	225	0.5
+Sherbrooke	Jean J. Charest (P.C.)	Sherbrooke	Politicien	29758	52.4
+Sherbrooke	Guy Boutin (B.Q.)	Ascot	Administrateur	21548	37.9
+Sherbrooke	Jean Paul Pelletier (Lib.)	Sherbrooke	Consultant	4458	7.9
+Sherbrooke	Serge TrÇpanier (N.L.P.)	Sherbrooke	Professeur Relaxation	523	0.9
+Sherbrooke	Martine Caouette (N.D.P.)	Sherbrooke	InfirmiÇre	446	0.8
+Sherbrooke	Jean-Guy TrÇpanier (Abol.)	Ascot		86	0.2
+TÇmiscamingue	Pierre Brien (B.Q.)	Ville-Marie	Economiste	22540	55.7
+TÇmiscamingue	Gilles HÇroux (Lib.)	Rouyn-Noranda	Educateur	9248	22.9
+TÇmiscamingue	Gabriel Desjardins (P.C.)	Rouyn-Noranda	Politicien	7819	19.3
+TÇmiscamingue	GrÇgoire Deguire (N.L.P.)	Huntsville	Coiffeur	529	1.3
+TÇmiscamingue	CÇlyne Ayotte (Abol.)	La Sarre	SecrÇtaire	299	0.7
+Terrebonne	Benoåt Sauvageau (B.Q.)	Charlemagne	Enseignant	58030	68.9
+Terrebonne	Claire Brouillet (Lib.)	Terrebonne		15102	17.9
+Terrebonne	Jean-Marc Robitaille (P.C.)	Mascouche		9825	11.7
+Terrebonne	RenÇe-Claude Lorimier (N.D.P.)	MontrÇal	Enseignante	900	1.1
+Terrebonne	Christian Chouery (Com'lth)	St. Laurent	Representant	403	0.5
+Trois-Riviäres	Yves Rocheleau (B.Q.)	Trois Riviäres	Conseiller en DevÇloppement	24927	53.4
+Trois-Riviäres	Pierre H. Vincent (P.C.)	Trois-Riviäres	Avocat	10950	23.5
+Trois-Riviäres	Jean-Pierre Caron (Lib.)	St. Louis de France	Directeur General	9882	21.2
+Trois-Riviäres	Roger PÇrigny (N.L.P.)	Trois Riviäre	Professeur	522	1.1
+Trois-Riviäres	Maryse Choquette (N.D.P.)	Lachine	Traductrice	370	0.8
+Verchäres	StÇphane Bergeron (B.Q.)	Boucherville	AttachÇ Politique	38633	67.3
+Verchäres	Benoåt Chiquette (Lib.)	Ottawa	Adjoint lÇgislatif	12132	21.1
+Verchäres	Franáois Leduc (P.C.)	Longueuil	Avocat	5269	9.2
+Verchäres	Frances Elbourne (N.D.P.)	Wakefield	HygiÇniste Industrielle	695	1.2
+Verchäres	Jean Blaquiäre (C.H.P.)	Ste. Julie	RetraitÇ	470	0.8
+Verchäres	Nicholas Maris (Com'lth)	Verdun	Executive	194	0.3
+Ahuntsic	Michel Daviault (B.Q.)	MontrÇal	Administrateur	22686	45.1
+Ahuntsic	CÇline Hervieux-Payette (Lib.)	MontrÇal	Avocate	21028	41.8
+Ahuntsic	Nicole Roy-Arcelin (P.C.)	MontrÇal	DeputÇe D'Ahuntsic	4442	8.8
+Ahuntsic	RenÇ Samson (N.D.P.)	MontrÇal	Etudiant Universitaire	676	1.3
+Ahuntsic	Haytoug Chamlian (NIL)	MontrÇal	Avocat	551	1.1
+Ahuntsic	Marc Lacroix (N.L.P.)	Huntsville	Traducteur/êducateur	476	1.0
+Ahuntsic	Christiane Deland-Gervais (Com'lth)	Monträal	Organisatrice Politique	335	0.7
+Ahuntsic	Rolando Fusco (Abol.)	Roxboro	Consultant	151	0.3
+Anjou--Riviäre-des-Prairies	Roger Pomerleau (B.Q.)	Anjou	Menuisier	26163	43.1
+Anjou--Riviäre-des-Prairies	Normand Biron (Lib.)	Ville J'Anjou	Comptable AgrÇÇ	25631	42.2
+Anjou--Riviäre-des-Prairies	Jean Corbeil (P.C.)	Anjou	Ministre des Transports	7066	11.6
+Anjou--Riviäre-des-Prairies	Zamba Mandala (N.D.P.)	MontrÇal	Conseiller Financier	958	1.6
+Anjou--Riviäre-des-Prairies	Gilles Raymond (N.L.P.)	MontrÇal	Consultant en Informatique	747	1.2
+Anjou--Riviäre-des-Prairies	Frantz-Albert Mitton (Com'lth)	MontrÇal	Cuisinier	139	0.2
+Bourassa	Osvaldo Nunez (B.Q.)	Ville Saint-Laurent	Conseiller	18238	42.0
+Bourassa	Denis Coderre (Lib.)	MontrÇal-Nord	Animateur Radio	18185	41.9
+Bourassa	Marie Gibeau (P.C.)	Outremont	DÇputÇe	5194	12.0
+Bourassa	Raymond Laurent (N.D.P.)	MontrÇal	Journaliste	1026	2.4
+Bourassa	Miville Couture (N.L.P.)	MontrÇal	Professeur	480	1.1
+Bourassa	Lucien Lapointe (Abol.)	Montreal	RetraitÇ	205	0.5
+Bourassa	Harold Anthony Quesnel (Com'lth)	MontrÇal	Representative	103	0.2
+Laval East/Laval-Est	Maud Debien (B.Q.)	Laval	RetraitÇe	31491	51.9
+Laval East/Laval-Est	Raymonde Folco (Lib.)	MontrÇal	Gestionnaire	16270	26.8
+Laval East/Laval-Est	Vincent Della Noce (P.C.)	Vimont/Laval	DeputÇ FÇdÇrale	11131	18.4
+Laval East/Laval-Est	StÇphane Houle (N.D.P.)	Laval	Plombier	662	1.1
+Laval East/Laval-Est	Denis Cauchon (N.L.P.)	MontrÇal	Administratuer	587	1.0
+Laval East/Laval-Est	Denise Beaubien (Abol.)	Boisbrians	MÇnagäre	363	0.6
+Laval East/Laval-Est	Franáois LÇpine (Com'lth)	MontrÇal	ReprÇsentant	125	0.2
+Hochelaga--Maisonneuve	RÇal MÇnard (B.Q.)	MontrÇal	Attache Politique	26170	61.4
+Hochelaga--Maisonneuve	Jules LÇger (Lib.)	MontrÇal	Notaire	10675	25.0
+Hochelaga--Maisonneuve	Allan Koury (P.C.)	MontrÇal	Politicien	3723	8.7
+Hochelaga--Maisonneuve	Paul Vachon (N.D.P.)	Mansonville	Retraite	1050	2.5
+Hochelaga--Maisonneuve	Richard Lauzon (N.L.P.)	MontrÇal	ReprÇsentant	588	1.4
+Hochelaga--Maisonneuve	Christine Dandenault (M.-L.)	MontrÇal	SÇcrÇtaire	259	0.6
+Hochelaga--Maisonneuve	Steve BÇlanger (Com'lth)	MontrÇal	ReprÇsentant	180	0.4
+Lachine--Lac-Saint-Louis	Clifford Lincoln (Lib.)	Beaconsfield	Consultant	39732	67.5
+Lachine--Lac-Saint-Louis	Guy Amyot (B.Q.)	Le Gardeur	Homme D'Affaires	12014	20.4
+Lachine--Lac-Saint-Louis	Nick Di Tomaso (P.C.)	Beaconsfield	Consultant	4717	8.0
+Lachine--Lac-Saint-Louis	Val Udvarhely (N.D.P.)	Westmount	Union Representative	822	1.4
+Lachine--Lac-Saint-Louis	Bill Shaw (NIL)	Pointe Claire	Dental Surgeon	618	1.1
+Lachine--Lac-Saint-Louis	Ronald Bessette (N.L.P.)	Pierrefonds	Businessman	559	1.0
+Lachine--Lac-Saint-Louis	Jim Wiebe (Libert.)	Pierrefonds	Engineer	191	0.3
+Lachine--Lac-Saint-Louis	Claude Brosseau (Com'lth)	MontrÇal	Representant	169	0.3
+Lachine--Lac-Saint-Louis	Michael Robinson (Abol.)	MontrÇal	Home Renovations	81	0.1
+LaSalle--êmard	Paul Martin (Lib.)	Westmount	DÇputÇ	30869	59.5
+LaSalle--êmard	êric Cimon (B.Q.)	LaSalle	Etudiant	17279	33.3
+LaSalle--êmard	Johanne SenÇcal (P.C.)	Ville LaSalle	Femme D'Affaire	2378	4.6
+LaSalle--êmard	Richard Belzile (N.D.P.)	Kingston	Conseiller Scolaire/Professeur	707	1.4
+LaSalle--êmard	George Amarica (N.L.P.)	Ottawa	Engineer	418	0.8
+LaSalle--êmard	Giampaolo Carli (Com'lth)	MontrÇal	IngÇnieur	120	0.2
+LaSalle--êmard	ThÇräse Turmel (Abol.)	Nepean	RetraitÇe	103	0.2
+Laurier--Sainte-Marie	Gilles Duceppe (B.Q.)	MontrÇal	DÇputÇ	25060	61.8
+Laurier--Sainte-Marie	Robert Desbiens (Lib.)	MontrÇal	Directeur des Communications	9940	24.5
+Laurier--Sainte-Marie	Yvan Routhier (P.C.)	MontrÇal	CrÇdit Comm. Petites Entrepris	2156	5.3
+Laurier--Sainte-Marie	Alain Gravel (N.D.P.)	MontrÇal	Administration CoopÇrative	1237	3.1
+Laurier--Sainte-Marie	John Tromp (G.P.)	MontrÇal	Scientifique	1050	2.6
+Laurier--Sainte-Marie	Pierre Bergeron (N.L.P.)	MontrÇal	Professeur	652	1.6
+Laurier--Sainte-Marie	Normand Chouinard (M.-L.)	MontrÇal	Etudiant	205	0.5
+Laurier--Sainte-Marie	Michel DugrÇ (NIL)	MontrÇal	Ouvrier	131	0.3
+Laurier--Sainte-Marie	Sophie Brassard (Com'lth)	MontrÇal	Märe au Foyer	127	0.3
+Laval West/Laval-Ouest	Michel Dupuy (Lib.)	Ottawa	Conseiller en Polit.Etrang.	28449	46.2
+Laval West/Laval-Ouest	Michel Leduc (B.Q.)	Laval	Administrateur	26460	43.0
+Laval West/Laval-Ouest	Guy Ricard (P.C.)	Laval	IngÇnieur	4167	6.8
+Laval West/Laval-Ouest	Marcella Tardif-Provencher (N.D.P.)	Laval	Chanteuse	678	1.1
+Laval West/Laval-Ouest	Rick Blatter (Libert.)	Fabreville	consultant en SantÇ et C.P.	649	1.1
+Laval West/Laval-Ouest	Eddy GagnÇ (N.L.P.)	St-Eustache	Directeur D'Entreprise	546	0.9
+Laval West/Laval-Ouest	Cyril G. MacNeil (Nat.)	Rosemere	Unemployed	280	0.5
+Laval West/Laval-Ouest	John Ajemian (Com'lth)	Chomedey	Retired	187	0.3
+Laval West/Laval-Ouest	Georges Vaudrin (Abol.)	Boisbriand	Menuisier	109	0.2
+Laval Centre/Laval-Centre	Madeleine Dalphond-Guiral (B.Q.)	Laval	Professeure	31462	55.2
+Laval Centre/Laval-Centre	Guymond Fortin (Lib.)	Laval	IngÇnieur	19031	33.4
+Laval Centre/Laval-Centre	Bruno Fortier (P.C.)	Laval	Administrateur et Avocat	4548	8.0
+Laval Centre/Laval-Centre	Yvon Dodier (N.L.P.)	Laval	Electro Technicien	675	1.2
+Laval Centre/Laval-Centre	Afsun Qureshi (N.D.P.)	MontrÇal	Writer	640	1.1
+Laval Centre/Laval-Centre	Joe De Santis (Nat.)	St. Pierre	Sales Rep.	252	0.4
+Laval Centre/Laval-Centre	Michel Destroismaisons (Com'lth)	Vimont (Laval)	Enseignant	221	0.4
+Laval Centre/Laval-Centre	Emilien Martel (Abol.)	Laval	RetraitÇ	174	0.3
+Mercier	Francine Lalonde (B.Q.)	Laval	Charge de court	34678	58.9
+Mercier	Magda Tadros (Lib.)	MontrÇal	Administratrice	11812	20.1
+Mercier	Carole Jacques (NIL)	MontrÇal	Avocate/Politicien	8930	15.2
+Mercier	GÇrald Lacoste (P.C.)	Outremont	Avocat	2449	4.2
+Mercier	Guy D'Amours (N.D.P.)	MontrÇal	Journalier	682	1.2
+Mercier	William-John Apostol (Abol.)	Nepean		206	0.4
+Mercier	Pierre Aylwin (Com'lth)	Lasalle	êtudiant	128	0.2
+Mount Royal/Mont-Royal	Sheila Finestone (Lib.)	MontrÇal	Politician	39598	82.9
+Mount Royal/Mont-Royal	Guillaume Dumas (B.Q.)	Outremont	êtudiant	3324	7.0
+Mount Royal/Mont-Royal	Neil Drabkin (P.C.)	CSL Cote Sr. Luc	Lawyer	2758	5.8
+Mount Royal/Mont-Royal	Michael Richard Werbowski (N.D.P.)	Cìte-St-Luc	Journalist	796	1.7
+Mount Royal/Mont-Royal	Harry Polansky (NIL)	Dollard-Des-Ormeaux	Dental Surgeon	537	1.1
+Mount Royal/Mont-Royal	Ken Matthews (N.L.P.)	Huntsville	Recherchiste	312	0.7
+Mount Royal/Mont-Royal	Kurtis Law (Nat.)	Montreal	Shipping Clerk	300	0.6
+Mount Royal/Mont-Royal	Georges Duchesnay (Com'lth)	MontrÇal	Technicien	71	0.2
+Mount Royal/Mont-Royal	Marie Vienneau (Abol.)	MontrÇal	Sales	47	0.1
+Notre-Dame-de-GrÉce	Warren Allmand (Lib.)	MontrÇal	Member of Parliament	28646	70.7
+Notre-Dame-de-GrÉce	Gilbert Ouellet (B.Q.)	St-Hubert	Gestion dans le marchÇ/dÇtail	5733	14.2
+Notre-Dame-de-GrÉce	Maeve Quaid (P.C.)	MontrÇal	Professeur	2618	6.5
+Notre-Dame-de-GrÉce	Bruce Toombs (N.D.P.)	MontrÇal	Doctoral Candidate (student)	1416	3.5
+Notre-Dame-de-GrÉce	Shirley Demaine (Nat.)	MontrÇal	Office Manager	661	1.6
+Notre-Dame-de-GrÉce	Don Donderi (NIL)	MontrÇal	Professor	518	1.3
+Notre-Dame-de-GrÉce	Michael E. Wilson (N.L.P.)	MontrÇal	Banker	425	1.1
+Notre-Dame-de-GrÉce	Earl Wertheimer (Libert.)	MontrÇal	Computer Consultant	222	0.6
+Notre-Dame-de-GrÉce	John Philips (Ind.)	MontrÇal	Inventor-Scientist	155	0.4
+Notre-Dame-de-GrÉce	Michael Windeyer (Abol.)	MontrÇal	Consultant	80	0.2
+Notre-Dame-de-GrÉce	Alexander Shiroka (Com'lth)	MontrÇal	Free-Lance Writer	34	0.1
+Outremont	Martin Cauchon (Lib.)	MontrÇal	Avocat	21697	47.1
+Outremont	Jean-Louis HÇrivault (B.Q.)	Westmount	êconomiste	17258	37.4
+Outremont	Jean Pierre Hogue (P.C.)	Outremont	DÇputÇ du comtÇ d'Outremont	4011	8.7
+Outremont	Catherine Kallos (N.D.P.)	MontrÇal	Psychologue	2055	4.5
+Outremont	Daniel Bergeron (N.L.P.)	Outremont	Concepteur Graphiste	695	1.5
+Outremont	Michel Rocheleau (M.-L.)	MontrÇal	ETUDIANT	185	0.4
+Outremont	Sylvain M. Coulombe (Abol.)	MontrÇal	Antiquaire	130	0.3
+Outremont	Mamunor Rashid (Com'lth)	MontrÇal	Community Worker	84	0.2
+Papineau--Saint-Michel	AndrÇ Ouellet (Lib.)	Ottawa	Avocat	20064	52.0
+Papineau--Saint-Michel	Daniel Boucher (B.Q.)	MontrÇal	Conducteur	15148	39.2
+Papineau--Saint-Michel	Carmen De Pontbriand (P.C.)	Ile des Soeurs		1686	4.4
+Papineau--Saint-Michel	Gisäle Charlebois (N.D.P.)	MontrÇal	SecrÇtaire	708	1.8
+Papineau--Saint-Michel	AndrÇ Beaudoin (N.L.P.)	MontrÇal	Vendeur	678	1.8
+Papineau--Saint-Michel	Serge Lachapelle (M.-L.)	MontrÇal	Sans Emploi	141	0.4
+Papineau--Saint-Michel	P. A. D'Aoust (Abol.)	MontrÇal	Retraite	98	0.3
+Papineau--Saint-Michel	Normand Normandeau (Com'lth)	MontrÇal	Enseignant	78	0.2
+Pierrefonds--Dollard	Bernard Patry (Lib.)	Ile Bizard	MÇdecin	39974	65.0
+Pierrefonds--Dollard	RenÇ de Cotret Opzoomer (B.Q.)	Ile Bizard	Directeur de Bord	10712	17.4
+Pierrefonds--Dollard	Gerry Weiner (P.C.)	Dollard-Des-Ormeaux	Pharmacist	8106	13.2
+Pierrefonds--Dollard	Catherine J. Rideout-Erais (N.D.P.)	MontrÇal-Nord	Community Worker	864	1.4
+Pierrefonds--Dollard	Ruby Finkelstein (N.L.P.)	Dollard Des Ormeaux	Teacher	480	0.8
+Pierrefonds--Dollard	Carlos Roldan (Nat.)	Kirkland	PHD Exp. Psychology/Businessma	474	0.8
+Pierrefonds--Dollard	Hugh Rowe (Libert.)	Dollard-Des-Ormeaux	Financial Adviser	410	0.7
+Pierrefonds--Dollard	Lionel Albert (NIL)	Hampstead	Computer Analyst	386	0.6
+Pierrefonds--Dollard	Glenford Charles (Com'lth)	Pierrefonds		108	0.2
+Rosemont	Benoåt Tremblay (B.Q.)	MontrÇal	êconomiste	29414	63.0
+Rosemont	Pierre Bourque (Lib.)	Montreal	Administrateur	12826	27.5
+Rosemont	Pauline Vincent (P.C.)	MontrÇal	Communicatrice	2519	5.4
+Rosemont	Roger Lamarre (N.D.P.)	MontrÇal	OpÇrateur	1037	2.2
+Rosemont	Marc Roy (N.L.P.)	MontrÇal	Directeur de Marketing	646	1.4
+Rosemont	HÇläne HÇroux (M.-L.)	St-Le¢nard	Caissiäre	189	0.4
+Rosemont	StÇphane Levesque (Com'lth)	MontrÇal	IngÇnieur Junior	93	0.2
+Saint-Denis	Eleni Bakopanos (Lib.)	MontrÇal	Vice-PrÇsidente du C.C.C.I.	21883	52.4
+Saint-Denis	Gilles Pelchat (B.Q.)	MontrÇal	Gestionnaire - consultant	15274	36.6
+Saint-Denis	Aãda Baghjajian (P.C.)	MontrÇal	Professeur	2196	5.3
+Saint-Denis	JosÇe Panet-Raymond (N.D.P.)	MontrÇal	Adjointe Administrative	969	2.3
+Saint-Denis	StÇphane Lapointe (Ind.)	MontrÇal	IngÇnieur	423	1.0
+Saint-Denis	Alain-êdouard Lord (N.L.P.)	MontrÇal	Recherchiste	400	1.0
+Saint-Denis	Fernand Belisle (Abol.)	MontrÇal	Entrepreneur	249	0.6
+Saint-Denis	Panagiotis Macrisopoulos (M.-L.)	MontrÇal	Taxi Driver	205	0.5
+Saint-Denis	Benoit Chalifoux (Com'lth)	MontrÇal	ReprÇsentant	158	0.4
+Saint-Henri--Westmount	David Berger (Lib.)	Montreal	Lawyer	25940	61.7
+Saint-Henri--Westmount	Eugenia Romain (B.Q.)	Pierrefonds	Infirmiere	7950	18.9
+Saint-Henri--Westmount	Alain Perez (P.C.)	Ville Mont Royal	Administrateur	4507	10.7
+Saint-Henri--Westmount	Ann Elbourne (N.D.P.)	MontrÇal	High School Teacher	1662	4.0
+Saint-Henri--Westmount	Louise Pilon (Nat.)	Pierrefonds	Regional Co-ordinator	581	1.4
+Saint-Henri--Westmount	Allan Faguy (N.L.P.)	Montreal		558	1.3
+Saint-Henri--Westmount	Mark Edward Anderson Roper (NIL)	Westmount	Physician	259	0.6
+Saint-Henri--Westmount	Normand BÇlanger (Com'lth)	MontrÇal	Sans Emploi	131	0.3
+Saint-Henri--Westmount	Robert Adams (C.H.P.)	MontreaL	Security Agent	125	0.3
+Saint-Henri--Westmount	Rudolph Scalzo (Ind.)	Montreal		122	0.3
+Saint-Henri--Westmount	Arnold August (M.-L.)	Roxboro	Researcher	114	0.3
+Saint-Henri--Westmount	Robert Carlisle (Abol.)	Montreal	Unemployed	80	0.2
+Saint-Laurent--Cartierville	Shirley Maheu (Lib.)	Saint-Laurent	Courtier D'Assurances	32190	70.0
+Saint-Laurent--Cartierville	Amin Hachem (B.Q.)	MontrÇal	Homme d'Affaire	8472	18.4
+Saint-Laurent--Cartierville	Mark Weiner (P.C.)	Dollard Des Ormeaux	IngÇnieur	3414	7.4
+Saint-Laurent--Cartierville	Francine Poirier (N.D.P.)	Saint Laurent	Community Worker	895	1.9
+Saint-Laurent--Cartierville	JosÇ Torres (N.L.P.)	MontrÇal	Agent D'Immigration	347	0.8
+Saint-Laurent--Cartierville	Roopnarine Singh (Nat.)	Brossard	Medical Doctor	292	0.6
+Saint-Laurent--Cartierville	Monique Lanctìt (Com'lth)	MontrÇal	Traducteure	237	0.5
+Saint-Laurent--Cartierville	Madelaine Piquette-Bedard (Abol.)	MontrÇal	RetraitÇ	108	0.2
+Saint-LÇonard	Alfonso Gagliano (Lib.)	Saint Leonard	Comptable General Licencie	28799	61.2
+Saint-LÇonard	Umberto Di Genova (B.Q.)	MontrÇal	Educateur	12879	27.4
+Saint-LÇonard	Tony Tomassi (P.C.)	St-LÇonard	AttachÇ Politique	4021	8.5
+Saint-LÇonard	David D'Andrea (N.D.P.)	MontrÇal	êtudiant	583	1.2
+Saint-LÇonard	Marläne Charland (N.L.P.)	MontrÇal	GÇologue	499	1.1
+Saint-LÇonard	Claude Brunelle (M.-L.)	MontrÇal	Consultant	141	0.3
+Saint-LÇonard	Mauro Fusco (Abol.)	MontrÇal North	Sales Rep.	91	0.2
+Saint-LÇonard	Sylvain Deschànes (Com'lth)	MontrÇal	Sans Emploi	77	0.2
+Vaudreuil	Nick Discepola (Lib.)	Kirkland	Maire - Ville de Kirkland	31148	47.8
+Vaudreuil	Mario Turbide (B.Q.)	Dorion	Organisateur Communautaire	25138	38.6
+Vaudreuil	Richard PrÇfontaine (P.C.)	Rigaud	Courtier D'assurances	6471	9.9
+Vaudreuil	Yves Marie Christin (N.D.P.)	Ste Marthe	Agriculteur Ecologique	1107	1.7
+Vaudreuil	Eric E. Simon (N.L.P.)	Kirkland	Administrator	727	1.1
+Vaudreuil	Neal Ford (Libert.)	®le Perrot	Lib.	439	0.7
+Vaudreuil	Robert Charles (Com'lth)	Pierrefonds	Student	187	0.3
+Verdun--Saint-Paul	Raymond Lavigne (Lib.)	Verdun	Consultant	19644	43.7
+Verdun--Saint-Paul	Kim Beaudoin (B.Q.)	Verdun	ReprÇsentante de service beaca	19095	42.5
+Verdun--Saint-Paul	AndrÇ Martin (P.C.)	Ville Lasalle	Adjoint Politique	3864	8.6
+Verdun--Saint-Paul	Claude Ledoux (N.D.P.)	Montreal	Postal Worker	860	1.9
+Verdun--Saint-Paul	Jean-Marc Beaudin (G.P.)	Ville Lasalle	Consultant	598	1.3
+Verdun--Saint-Paul	Marylise Baux (N.L.P.)	MontrÇal	Agent Marketing	432	1.0
+Verdun--Saint-Paul	Yvan Cousineau (Abol.)	Verdun	Homme d'Affaire	140	0.3
+Verdun--Saint-Paul	J.J. McPherson (Nat.)	Verdun	National Director	130	0.3
+Verdun--Saint-Paul	D. Le Sheik Massand (NIL)	Montreal	Security Consultant, Actor	115	0.3
+Verdun--Saint-Paul	Golam Khan (Com'lth)	MontrÇal	Student	88	0.2				
+Algoma	Brent St. Denis (Lib.)	Elliot Lake	Parliamentary Assistant	18218	58.1
+Algoma	Ken Leffler (R.P.)	Blind River	Real Estate Appraiser	6623	21.1
+Algoma	David Mair (P.C.)	Elliot Lake	Lawyer	3613	11.5
+Algoma	Gayle Erma Broad (N.D.P.)	Sault Ste Marie	Community Legal Clinic Worker	2696	8.6
+Algoma	Bernard BrÇgaint (N.L.P.)	Gloucester	Librarian	235	0.8
+Brampton	Colleen Beaumier (Lib.)	Brampton	Business Woman	35203	51.7
+Brampton	Ernie McDonald (R.P.)	Brampton	School Principal	18196	26.7
+Brampton	Susan Fennell (P.C.)	Brampton	Politician-Regional Councillor	12134	17.8
+Brampton	John Morris (N.D.P.)	Brampton	Teacher	1925	2.8
+Brampton	Maxim Newby (N.L.P.)	Laxe of Bays	Researcher	455	0.7
+Brampton	Amarjit Dhillon (M.-L.)	Toronto	Printer	245	0.4
+Bramalea--Gore--Malton	Gurbax Malhi (Lib.)	Mississauga	Real Estate Sales Rep.	17675	43.3
+Bramalea--Gore--Malton	Darlene Florence (R.P.)	Bramalea	Registered Nurse	11896	29.1
+Bramalea--Gore--Malton	Harry Chadwick (P.C.)	Brampton	Autoworker	7856	19.2
+Bramalea--Gore--Malton	Paul Ledgister (N.D.P.)	Cambridge	Businessman	2064	5.1
+Bramalea--Gore--Malton	Jack Ardis (Nat.)	Orangevile	Educator	500	1.2
+Bramalea--Gore--Malton	Bill Davies (N.L.P.)	Toronto	Businessman	287	0.7
+Bramalea--Gore--Malton	John E. Maxwell (Ind.)	Brampton	Business Man	274	0.7
+Bramalea--Gore--Malton	Bill Emms (G.P.)	Bramalea	Student	224	0.6
+Bramalea--Gore--Malton	Iqbal Sumbal (M.-L.)	Toronto		82	0.2
+Brant	Jane Stewart (Lib.)	St. George	Human Resources	24686	51.5
+Brant	Ken Edmison (R.P.)	Brantford	Trust Company Manager	11863	24.7
+Brant	Mabel E. Dougherty (P.C.)	Caledonia		5831	12.2
+Brant	Michael C. Smith (N.D.P.)	Brantford	Agricultural Economist	3317	6.9
+Brant	Herman Kruis (Nat.)	St. George	Farmer	1227	2.6
+Brant	Jamie Legacey (G.P.)	Mt. Pleasant	Bookseller	482	1.0
+Brant	Helmut Kurmis (Libert.)	Brantford	(Draftsman) Unemployed	258	0.5
+Brant	Eleanor Toshiko Hyodo (N.L.P.)	Gloucester	Teacher	192	0.4
+Brant	Doug Stelpstra (NIL)	Brantford	Retired	112	0.2
+Bruce--Grey	Ovid L. Jackson (Lib.)	Owen Sound	Teacher	25689	49.1
+Bruce--Grey	Alan Aston (R.P.)	Sauble Beach	Developer	12938	24.7
+Bruce--Grey	Stew O'Keeffe (P.C.)	Meaford	Financial Consultant	9835	18.8
+Bruce--Grey	Cathy Hird (N.D.P.)	Chatsworth	Minister	2259	4.3
+Bruce--Grey	Stuart Marwick (Nat.)	Chatsworth	Entrepreneur	1001	1.9
+Bruce--Grey	Jim Garrity (G.P.)	Durham	Teacher	323	0.6
+Bruce--Grey	John Wolter (N.L.P.)	Huntsville	Researcher	160	0.3
+Bruce--Grey	Ralph Hanke (Libert.)	Owen Sound	Student	144	0.3
+Burlington	Paddy Torsney (Lib.)	Burlington	Gov't Relations Consultant	22880	44.3
+Burlington	Mike Kuegle (P.C.)	Burlington	Lawyer	13577	26.3
+Burlington	Hugh Ramolla (R.P.)	Burlington	Banker	12035	23.3
+Burlington	Jim Hough (N.D.P.)	Burlington	Electronics technician	1511	2.9
+Burlington	Bill Barlett (Ind.)	Burlington	Chartered Accountant	859	1.7
+Burlington	Bill Watson (Nat.)	Burlington	Businessperson	537	1.0
+Burlington	Ursula Kropfel (N.L.P.)	Burlington	Teacher	301	0.6
+Cambridge	Janko Peric (Lib.)	Cambridge	Welder	22121	39.3
+Cambridge	Reg Petersen (R.P.)	Cambridge	Businessman	18890	33.5
+Cambridge	Pat Sobeski (P.C.)	Cambridge	Member of Parliment	9773	17.3
+Cambridge	Bill McBain (N.D.P.)	Toronto	Briefing Co-Ordinator	2980	5.3
+Cambridge	Ron Cooper (Nat.)	Cambridge	Facility Manager	1802	3.2
+Cambridge	Michael Picard (C.H.P.)	Cambridge	Supervisor	407	0.7
+Cambridge	Thomas Mitchell (N.L.P.)	Compton	Teacher of T. M.	372	0.7
+Carleton--Gloucester	Eugäne Bellemare (Lib.)	Gloucester	Politician	46830	61.6
+Carleton--Gloucester	Ken Binda (R.P.)	Gloucester	Real Estate	12442	16.4
+Carleton--Gloucester	ThÇräse McKellar (P.C.)	Kars	Accountant	11930	15.7
+Carleton--Gloucester	Cindy Moriarty (N.D.P.)	Orleans	Policy Consultant	2795	3.7
+Carleton--Gloucester	Shelley Ann Clark (Nat.)	Gloucester	Public Servant	839	1.1
+Carleton--Gloucester	James M. Hea (N.L.P.)	Gloucester	Business Solutions Specialist	498	0.7
+Carleton--Gloucester	Alain Doiron (G.P.)	Ottawa	Private Contractor	390	0.5
+Carleton--Gloucester	Judy Thompson (C.H.P.)	Surrey	Domestic Services	236	0.3
+Carleton--Gloucester	Tom J. Kennedy (Abol.)	Ottawa	Teacher	65	0.1
+Cochrane--Superior/Cochrane--SupÇrieur	RÇginald BÇlair (Lib.)	Kapuskasing	Member of Parliament	19511	72.2
+Cochrane--Superior/Cochrane--SupÇrieur	Don Banks (R.P.)	Marathon	Electrician	2590	9.6
+Cochrane--Superior/Cochrane--SupÇrieur	Muriel J. Parent (P.C.)	Val-Rita	Administrator	2470	9.1
+Cochrane--Superior/Cochrane--SupÇrieur	Jean Paul Lajeunesse (N.D.P.)	Cochrane	Entrepeneur Forestier	2441	9.0
+Durham	Alex Shepherd (Lib.)	Seagrave	Chartered Accountant	22383	36.8
+Durham	Ian Smyth (R.P.)	Courtice	Travel Consultant	18543	30.5
+Durham	Ross Stevenson (P.C.)	Sunderland	Politician (M.P.)	14940	24.5
+Durham	Lucy Rybka-Becker (N.D.P.)	Oshawa	Public Servant	2529	4.2
+Durham	W.H. Harry Pope (Nat.)	Uxbridge	Economist	1169	1.9
+Durham	Durk T. Bruinsma (C.H.P.)	Bowmanville	Farmer	707	1.2
+Durham	Judy Hurvid (G.P.)	Newtonville	Supply Teacher	350	0.6
+Durham	Micheal Paul Larmand (N.L.P.)	Huntsville	Public Relations	271	0.5
+Elgin--Norfolk	Gar Knutson (Lib.)	St.Thomas	Manager	17439	43.1
+Elgin--Norfolk	Ken Monteith (P.C.)	St. Thomas	Farmer	11129	27.5
+Elgin--Norfolk	John Van Der Veen (R.P.)	Port Stanley	Economist/Farmer	8302	20.5
+Elgin--Norfolk	Bob Habkirk (N.D.P.)	Aylmer	Paint Quality Analyst	2164	5.3
+Elgin--Norfolk	Bob A. Dekraker (C.H.P.)	South Dorschester	Contractor-Farmer	1183	2.9
+Elgin--Norfolk	Rod Falk (N.L.P.)	London	Teacher	242	0.6
+Elgin--Norfolk	Mai Ly (Abol.)	Brampton	Student	51	0.1
+Erie	John Maloney (Lib.)	Port Colborne	Lawyer	19802	48.7
+Erie	Bob Lund (R.P.)	Ridgeway	Self Employed Construction Sup	11753	28.9
+Erie	Bradd Wilson (P.C.)	Port Colborne	Automobile Dealer	5894	14.5
+Erie	Lesley Penwarden (N.D.P.)	St. Catharines	Secretary	1842	4.5
+Erie	Alfred Kiers (C.H.P.)	Wainfleet	Greenhouse Manager	591	1.5
+Erie	Bill Robbins (Nat.)	Fort Erie	Construction Worker	586	1.4
+Erie	Jeffrey Ian Dreben (N.L.P.)	Toronto	Business Consultant	197	0.5
+Essex--Kent	Jerry Pickard (Lib.)	Kingsville	Teacher	21974	62.1
+Essex--Kent	Wayne Abbott (R.P.)	Tilbury	Construction Supplier	6412	18.1
+Essex--Kent	Kevin Charles Flood (P.C.)	Kingsville	Grain Elevator Manager	4751	13.4
+Essex--Kent	Mike Darnell (N.D.P.)	Leamington	Union Representative	2000	5.7
+Essex--Kent	Lester Newby (N.L.P.)	Brampton	Researcher	226	0.6
+Essex--Windsor	Susan Whelan (Lib.)	Amherstburg	Lawyer	25211	55.1
+Essex--Windsor	Steven Langdon (N.D.P.)	Amherstburg	Politician	12655	27.7
+Essex--Windsor	John Larsen (R.P.)	Anderdon	Self-employed(contrator)	6029	13.2
+Essex--Windsor	Brian Payne (P.C.)	Windsor	Manager of Sales	1484	3.3
+Essex--Windsor	George Opacic (Nat.)	Windsor	Business Executive	196	0.4
+Essex--Windsor	Paul Hawkins (M.-L.)	Windsor	Quality Control Inspector	83	0.2
+Essex--Windsor	Vlado Zugaj (Com'lth)	Windsor	Machinist	67	0.2
+Glengarry--Prescott--Russell	Don Boudria (Lib.)	Sarsfield	Civil Servant	44775	80.2
+Glengarry--Prescott--Russell	France Somers (P.C.)	Cumberland	Registered Nurse	4586	8.2
+Glengarry--Prescott--Russell	Sam McCracken (R.P.)	Dalkeith	Financial Planner	4458	8.0
+Glengarry--Prescott--Russell	Pascal Villeneuve (N.D.P.)	Hawkesbury W.	Self Employed	1295	2.3
+Glengarry--Prescott--Russell	Pierrette Blondin (N.L.P.)	Orleans	Teacher	456	0.8
+Glengarry--Prescott--Russell	Jean-Serge Brisson (Libert.)	Embrun	Mechanic-soudeur	245	0.4
+Guelph--Wellington	Brenda Chamberlain (Lib.)	Elora	Executive Director	24359	39.2
+Guelph--Wellington	Gerry Organ (R.P.)	Erin Township	Pastor	15483	24.9
+Guelph--Wellington	Bill Scott (P.C.)	Guelph	Superintendent of Schools	12825	20.7
+Guelph--Wellington	Frank Maine (NIL)	Guelph	Professional Engineer	3465	5.6
+Guelph--Wellington	Alex Michalos (N.D.P.)	Guelph		2904	4.7
+Guelph--Wellington	Maggie Laidlaw (Nat.)	Guelph	Lab Supervisor/Nutrientist	2018	3.3
+Guelph--Wellington	Simon C. Francis (G.P.)	Guelph	Student	318	0.5
+Guelph--Wellington	David W. Mitchell (N.L.P.)	Norland	Property Manager	255	0.4
+Guelph--Wellington	Tom Bradburn (Libert.)	Rockwood	Owner/Operator	247	0.4
+Guelph--Wellington	John H. Long (C.P.)	Guelph	Businessman	108	0.2
+Guelph--Wellington	Anna Di Carlo (NIL)	Guelph	Journalist	78	0.1
+Guelph--Wellington	Andrew Tait (Abol.)	Guelph	Unemployed	20	0.0
+Haldimand--Norfolk	Bob Speller (Lib.)	Waterford	Parliamentarian	24200	53.8
+Haldimand--Norfolk	Ken Gilpin (R.P.)	Simcoe	Mechanincal Technician	10561	23.5
+Haldimand--Norfolk	Jack Cronkwright (P.C.)	Simcoe	Consultant	7300	16.2
+Haldimand--Norfolk	Herman Plas (N.D.P.)	Waterford	Crane operator	1657	3.7
+Haldimand--Norfolk	Ross Bateman (Nat.)	Langton	Teacher	1248	2.8
+Halton--Peel	Julian Reed (Lib.)	Norval	Farmer/Performer	22278	37.0
+Halton--Peel	Garth Turner (P.C.)	Georgetown	M.P.	18350	30.5
+Halton--Peel	Dick MacDuffee (R.P.)	Palgrave	Owner Manufacturing Co.	16826	28.0
+Halton--Peel	Norma Peterson (N.D.P.)	Fergus	Executive Assistant	1458	2.4
+Halton--Peel	Brian Patriquin (Nat.)	Caledon East	Director of Marketing	564	0.9
+Halton--Peel	Hill Cox (Libert.)	Caledon Terra Cotta	Business Manager	420	0.7
+Halton--Peel	Marc Bianco (C.H.P.)	Hamilton	Entrepreneur	307	0.5
+Hamilton East/Hamilton-Est	Sheila Copps (Lib.)	Hamilton	Politician	22999	67.3
+Hamilton East/Hamilton-Est	John Stewart (R.P.)	Hamilton	General Contractor	5814	17.0
+Hamilton East/Hamilton-Est	Brian Joseph Bobolo (P.C.)	Hamilton	Registered Nurse	2324	6.8
+Hamilton East/Hamilton-Est	Wayne Marston (N.D.P.)	Hamilton	Telephone Tester	2262	6.6
+Hamilton East/Hamilton-Est	Bill Sommer (Nat.)	Hamilton	Court Interpreter/Translator	425	1.2
+Hamilton East/Hamilton-Est	James Brink (NIL)	Hamilton	Pastor	117	0.3
+Hamilton East/Hamilton-Est	Robert Jaggard (NIL)	Hamilton	Retired	111	0.3
+Hamilton East/Hamilton-Est	Rolf Gerstenberger (M.-L.)	Hamilton	Steelworker	72	0.2
+Hamilton East/Hamilton-Est	Jean-Sebastien Tremblay (Com'lth)	MontrÇal	Representative	51	0.2
+Hamilton Mountain	Beth Phinney (Lib.)	Hamilton	Member of Parliment	27221	57.3
+Hamilton Mountain	Craig Chandler (R.P.)	Burlington	 Business Lobbyist	10324	21.7
+Hamilton Mountain	Tamra Mann (P.C.)	Hamilton Wentworth	Barrister & Solicitor	5460	11.5
+Hamilton Mountain	Andrew Mackenzie (N.D.P.)	Hamilton		3626	7.6
+Hamilton Mountain	Gunter Hinz (Nat.)	Hamilton	Electronics Technologist	547	1.2
+Hamilton Mountain	Isabel Millman (N.L.P.)	Kingston	Teacher	331	0.7
+Hamilton--Wentworth	John Bryden (Lib.)	Lynden	Journalist	29695	45.8
+Hamilton--Wentworth	Mark Mullins (R.P.)	Dundas	Staff Membr, McMaster Univer.	16545	25.5
+Hamilton--Wentworth	Ray Johnson (P.C.)	Ancaster	Professor Emeritus	14539	22.4
+Hamilton--Wentworth	Rick McCall (N.D.P.)	Millgrove	Electrician	2555	3.9
+Hamilton--Wentworth	Ralph Ellis (Nat.)	Hamilton	Semi Retired	672	1.0
+Hamilton--Wentworth	Rien Van Den Enden (C.H.P.)	Rockton	Sales Supervisor	460	0.7
+Hamilton--Wentworth	Norm Sinclair (N.L.P.)	Burlington	Landscape Architect	353	0.5
+Hamilton West/Hamilton-Ouest	Stan Keyes (Lib.)	Hamilton	Member of Parliament	22592	58.7
+Hamilton West/Hamilton-Ouest	George G. Mills (R.P.)	Hamilton	Business Owner	5857	15.2
+Hamilton West/Hamilton-Ouest	Peter Peterson (P.C.)	Hamilton	Stockbroker	5789	15.0
+Hamilton West/Hamilton-Ouest	Denise Giroux (N.D.P.)	Hamilton	Lawyer	3143	8.2
+Hamilton West/Hamilton-Ouest	Owen Morgan (Nat.)	Hamilton	Environmentalist	606	1.6
+Hamilton West/Hamilton-Ouest	Rita Rassenberg (N.L.P.)	Hamilton	Real Estate Sales Rep.	396	1.0
+Hamilton West/Hamilton-Ouest	Elaine Couto (NIL)	Hamilton	Sales Manager	134	0.4
+Hastings--Frontenac--Lennox and Addington	Larry McCormick (Lib.)	Camden	Consultant	24082	50.1
+Hastings--Frontenac--Lennox and Addington	Bill Vankoughnet (P.C.)	Napanee	Politician	10963	22.8
+Hastings--Frontenac--Lennox and Addington	Stephen Ollerenshaw (R.P.)	Marmora	Accountant	8851	18.4
+Hastings--Frontenac--Lennox and Addington	Betty Hay Lambeck (N.D.P.)	Bancroft	Library Manager	2012	4.2
+Hastings--Frontenac--Lennox and Addington	Bob Hilson (Nat.)	Elginburg	Self Employed-Comp.Consultant	997	2.1
+Hastings--Frontenac--Lennox and Addington	T. Cheemo The Clown Walczak (Ind.)	Stirling	Clown	752	1.6
+Hastings--Frontenac--Lennox and Addington	Ross Baker (Ind.)	Arden	Tourist Operator & Farmer	413	0.9
+Huron--Bruce	Paul Steckle (Lib.)	Zurich	Businessman	21845	44.1
+Huron--Bruce	Murray Cardiff (P.C.)	Ethel	Farmer	13852	28.0
+Huron--Bruce	Len Lobb (R.P.)	Clinton	Farm Equipment Salesman	10464	21.1
+Huron--Bruce	Tony McQuail (N.D.P.)	Lucknow	Farmer	2064	4.2
+Huron--Bruce	Henry Zekveld (C.H.P.)	Clifford	Farmer	782	1.6
+Huron--Bruce	Allan Dettweiler (Libert.)	Brussels	Farmer	272	0.6
+Huron--Bruce	Rick Alexander (N.L.P.)	Ottawa	Administrator	243	0.5
+Kenora--Rainy River	Robert D. Nault (Lib.)	Keewatin	Politician(or Parliamentarian)	22409	64.8
+Kenora--Rainy River	Mel Fisher (R.P.)	Dryden	Professional Engineer	7109	20.6
+Kenora--Rainy River	Peter Kirby (N.D.P.)	Kenora	Lawyer	2194	6.4
+Kenora--Rainy River	George Hainsworth (P.C.)	Kanata	Consultant	2072	6.0
+Kenora--Rainy River	Harold Rowe (Nat.)	Keewatin	Program Officer	608	1.8
+Kenora--Rainy River	April I. McCormick (NIL)	Winnipeg	Business Woman	167	0.5
+Kent	Rex Crawford (Lib.)	Wallaceburg	Farmer	23177	63.8
+Kent	Arnold Broeders (R.P.)	Chatham	Teacher, Businessman	5618	15.5
+Kent	Tom Suitor (P.C.)	Chatham	Farmer	5015	13.8
+Kent	Aaron G. De Meester (N.D.P.)	Chatham	Quality Control Inspector	1368	3.8
+Kent	Victor Knight (Nat.)	Marpeth	Teacher	1014	2.8
+Kent	Marty Howe (N.L.P.)	Huntsville	Researcher	146	0.4
+Kingston and the Islands/Kingston et les ◊les	Peter Milliken (Lib.)	Elginburg	Solicitor	32372	56.5
+Kingston and the Islands/Kingston et les ◊les	Barry Gordon (P.C.)	Barriefield	Real Estate Broker/Auctioneer	10935	19.1
+Kingston and the Islands/Kingston et les ◊les	Sean McAdam (R.P.)	Kingston	University Student	7175	12.5
+Kingston and the Islands/Kingston et les ◊les	Mary Ann Higgs (N.D.P.)	Kingston	Lawyer	4051	7.1
+Kingston and the Islands/Kingston et les ◊les	Chris Papadopoulos (Nat.)	Kingston Township	Teacher	1768	3.1
+Kingston and the Islands/Kingston et les ◊les	Terry M. Marshall (C.H.P.)	Kingston	Computer Technician	663	1.2
+Kingston and the Islands/Kingston et les ◊les	Chris Wilson (N.L.P.)	Orleans	Consultant	376	0.7
+Kitchener	John English (Lib.)	Kitchener	Teacher	26616	50.5
+Kitchener	Reg Gosse (R.P.)	Kitchener	Business Owner	12214	23.2
+Kitchener	John Reimer (P.C.)	Kitchener	Member of Parliament	10413	19.8
+Kitchener	Ian MacFarlane (N.D.P.)	Kitchener	Occup. Health & Safety Co-ord	2373	4.5
+Kitchener	Pat Schiebel (C.H.P.)	Kitchener	Housewife	475	0.9
+Kitchener	Katherine Finlay (N.L.P.)	Kitchener	Teacher	438	0.8
+Kitchener	Joel Tarback (Libert.)	Kitchener	Engineering Technologist	165	0.3
+Lambton--Middlesex	Rose-Marie Ur (Lib.)	Strathroy	Senior Constituency Assistant	20314	48.6
+Lambton--Middlesex	David Crone (P.C.)	Komoka	Businessman	9401	22.5
+Lambton--Middlesex	Randy Dayman (R.P.)	Camlachie	Electrician	8101	19.4
+Lambton--Middlesex	Ken Willis (C.H.P.)	Wardsville	Upholsterer	1600	3.8
+Lambton--Middlesex	Jamie Hamilton (N.D.P.)	Parkhill	Family Support Worker	1508	3.6
+Lambton--Middlesex	Larry Farquharson (Nat.)	Mount Brydges	Teacher	438	1.1
+Lambton--Middlesex	Alex E. Gubbels (Ind.)	Mt. Brydges	Engineer/Economist	245	0.6
+Lambton--Middlesex	Travis Callender (N.L.P.)	Peterborough	Student	169	0.4
+Lanark--Carleton	Ian Murray (Lib.)	Carp	Director, Government Relations	34988	49.4
+Lanark--Carleton	Paul Dick (P.C.)	Kanata	Lawyer	16723	23.6
+Lanark--Carleton	Ron MacDonald (R.P.)	Kanata	Consultant	15743	22.2
+Lanark--Carleton	Judie McSkimmings (N.D.P.)	Kanata	Conference Coordinator	1697	2.4
+Lanark--Carleton	Jacques Rubacha (Nat.)	Lanark	Self Employed	921	1.3
+Lanark--Carleton	Stephen Johns (G.P.)	Ottawa	Water Meter reader	333	0.5
+Lanark--Carleton	Britt Roberts (N.L.P.)	Orleans	Controller	262	0.4
+Lanark--Carleton	Barbara Rowe (Libert.)	Kanata	Buyer	99	0.1
+Lanark--Carleton	Bracken Begley (Abol.)	Packenham	Self-Employed	67	0.1
+Leeds--Grenville	Jim Jordan (Lib.)	Brockville	M P	26567	52.6
+Leeds--Grenville	Sandra Lawn (P.C.)	Prescott	Consultant/Teacher	13608	26.9
+Leeds--Grenville	Paul West (R.P.)	Prescott	Computer Consultant	8071	16.0
+Leeds--Grenville	Mary Ann Greenwood (N.D.P.)	Brockville	Homemaker	1026	2.0
+Leeds--Grenville	Peter Stewart Bevan-Baker (G.P.)	Prescott	Dentist	538	1.1
+Leeds--Grenville	Holly Baker (Nat.)	Brockville	Day Care Operator	474	0.9
+Leeds--Grenville	Richard Beecroft (N.L.P.)	Gloucester	Consultant	196	0.4
+Leeds--Grenville	Christine M. Richardson (Abol.)	Spencerville	Hairstylist	59	0.1
+Lincoln	Tony Valeri (Lib.)	Stoney Creek	Insurance Consultant	29048	52.2
+Lincoln	Andy Sweck (R.P.)	Hamilton	Supervisor-Steelmaking	14325	25.7
+Lincoln	Jim Merritt (P.C.)	Grimsby	Businessman-School Bus Co.	8731	15.7
+Lincoln	Peter Cassidy (N.D.P.)	Hamilton	Lawyer	2182	3.9
+Lincoln	Brian Dolby (Nat.)	Lincoln	Retired	935	1.7
+Lincoln	Cynthia Marchand (N.L.P.)	Niagara On The Lake	Homemaker	307	0.6
+Lincoln	Ken Morningstar (NIL)	Stoney Creek	Steelworker	128	0.2
+London East/London-Est	Joe Fontana (Lib.)	London	Business Person	28279	55.8
+London East/London-Est	Rob Alder (P.C.)	London	Epidemiologist	9237	18.2
+London East/London-Est	Paul Cheng (R.P.)	London	Oil & Gas Consultant	8704	17.2
+London East/London-Est	Alfredo Marroquin (N.D.P.)	London	Director (Global House)	2614	5.2
+London East/London-Est	Bill Cecil-Smith (Nat.)	London	Computer Programmer	830	1.6
+London East/London-Est	Jeff Culbert (G.P.)	London	Researcher	567	1.1
+London East/London-Est	Jim Hill (N.L.P.)	London	Musician	282	0.6
+London East/London-Est	Al Plumb (C.P.)	London	Retired	108	0.2
+London East/London-Est	Sid Tarleton (Com'lth)	London	Contractor-Transportation	31	0.1
+London--Middlesex	Pat O'Brien (Lib.)	Middlesex	Teacher	27232	53.9
+London--Middlesex	Mark Simpson (R.P.)	Komoka	Horticultural Services	9826	19.4
+London--Middlesex	Ed Holder (P.C.)	London	Group Benefits	9126	18.1
+London--Middlesex	Carolyn Davies (N.D.P.)	London	Nurse Practitioner	2658	5.3
+London--Middlesex	David Howell (Nat.)	Arva	Sales	563	1.1
+London--Middlesex	Stan Winters (C.H.P.)	Strathroy	Production Supervisor	521	1.0
+London--Middlesex	Sven Biggs (G.P.)	London	Student	238	0.5
+London--Middlesex	David Goodman (N.L.P.)	London	Teacher	228	0.5
+London--Middlesex	Arun D. Sehgal (C.P.)	London	Student	59	0.1
+London--Middlesex	Peter Ewart (M.-L.)	London	Student	56	0.1
+London--Middlesex	Marva Foster (Abol.)	Mississauga	Lab. Technician	46	0.1
+London West/London-Ouest	Sue Barnes (Lib.)	London	Lawyer	31085	48.3
+London West/London-Ouest	Tom Hockin (P.C.)	London	Politician	15166	23.6
+London West/London-Ouest	Todd Christensen (R.P.)	London	Lawyer	12900	20.1
+London West/London-Ouest	Margaret Hoff (N.D.P.)	London	Professor	2547	4.0
+London West/London-Ouest	Michael van Holst (Nat.)	London	Student	1220	1.9
+London West/London-Ouest	Heidi Strasser (G.P.)	London	Canvasser	403	0.6
+London West/London-Ouest	Mark Hawkins (N.L.P.)	London	Teacher	385	0.6
+London West/London-Ouest	Ken DeVries (C.H.P.)	St. Thomas	Business Owner	310	0.5
+London West/London-Ouest	Tom Ha (C.P.)	London	Engineer	178	0.3
+London West/London-Ouest	Ivan W. Kasiurak (Ind.)	London	Self Employed	113	0.2
+London West/London-Ouest	Judith Foster (Abol.)	Mississauga	Student	32	0.1
+Markham--Whitchurch-Stouffville	Jag Bhaduria (Lib.)	Unionville	Management Consultant	35909	46.5
+Markham--Whitchurch-Stouffville	Bill Attewell (P.C.)	Gormley	Member of Parliment	19695	25.5
+Markham--Whitchurch-Stouffville	Joe Sherren (R.P.)	Stouffville	Business Consultant	17937	23.2
+Markham--Whitchurch-Stouffville	Jack Grant (N.D.P.)	Markham	Company Chairman	1692	2.2
+Markham--Whitchurch-Stouffville	Sheldon Bergson (Nat.)	Thornhill	University Student	973	1.3
+Markham--Whitchurch-Stouffville	Stephen R. Porter (N.L.P.)	Thornhill	Printer	469	0.6
+Markham--Whitchurch-Stouffville	Paul Wang (NIL)	Markham	Builder	458	0.6
+Markham--Whitchurch-Stouffville	Dean Papadopoulos (Abol.)	Markham	Self-employed	85	0.1
+Mississauga East/Mississauga-Est	Albina Guarnieri (Lib.)	Mississauga	Politician	32167	63.8
+Mississauga East/Mississauga-Est	Peter Zathey (R.P.)	Mississauga	Computer Analyst	9473	18.8
+Mississauga East/Mississauga-Est	Carl DeFaria (P.C.)	Mississauga	Lawyer	6427	12.8
+Mississauga East/Mississauga-Est	John Jackson (N.D.P.)	Mississauga	Teacher	1382	2.7
+Mississauga East/Mississauga-Est	Michael Patrick Curran (Nat.)	Peel	Technical Sales Consultant	393	0.8
+Mississauga East/Mississauga-Est	Geraldine Jackson (N.L.P.)	Etobicoke	Office Administrator	323	0.6
+Mississauga East/Mississauga-Est	Adrian Earl Crewson (NIL)	Mississauga	Chartered Accountant	148	0.3
+Mississauga East/Mississauga-Est	Yvon Turgeon (M.-L.)	Etobicoke	Pre-Press Operator	73	0.1
+Mississauga South/Mississauga-Sud	Paul Szabo (Lib.)	Mississauga	Chartered Accountant	21478	46.6
+Mississauga South/Mississauga-Sud	John Veenstra (R.P.)	Mississauga	Realtor	11592	25.1
+Mississauga South/Mississauga-Sud	Don Blenkarn (P.C.)	Mississauga	Lawyer	10763	23.4
+Mississauga South/Mississauga-Sud	Lili V. Weemen (N.D.P.)	St. Catharines	Secretary	981	2.1
+Mississauga South/Mississauga-Sud	Albina Burello (Nat.)	Mississauga	Writer	452	1.0
+Mississauga South/Mississauga-Sud	Richard Barrett (Libert.)	Mississauga	Lawyer	429	0.9
+Mississauga South/Mississauga-Sud	Jeffrey Dods (N.L.P.)	Toronto	Graduate Student	234	0.5
+Mississauga South/Mississauga-Sud	Michael John Charette (NIL)	Mississauga	All-Canadian Business Consult	124	0.3
+Mississauga South/Mississauga-Sud	Dagmar Sullivan (M.-L.)	Mississauga	Film Assembler	49	0.1
+Mississauga West/Mississauga-Ouest	Carolyn Parrish (Lib.)	Mississauga	Teacher	53567	55.9
+Mississauga West/Mississauga-Ouest	Charles Conn (R.P.)	Mississauga	Businessman	20218	21.1
+Mississauga West/Mississauga-Ouest	Bob Horner (P.C.)	Mississauga	Member of Parliament	18607	19.4
+Mississauga West/Mississauga-Ouest	Paul Simon (N.D.P.)	Mississauga	Business Agent	2219	2.3
+Mississauga West/Mississauga-Ouest	Michael Bay (G.P.)	Mississauga	Social Worker	498	0.5
+Mississauga West/Mississauga-Ouest	Michael Beifuss (N.L.P.)	Mississauga	Computer Consultant	487	0.5
+Mississauga West/Mississauga-Ouest	Dwayne Foster (Abol.)	Mississauga	Student	168	0.2
+Mississauga West/Mississauga-Ouest	Gurdev Singh (M.-L.)	Toronto	Limousine Driver	115	0.1
+Nepean	Beryl Gaffney (Lib.)	Nepean	Elected Official	36208	59.6
+Nepean	Donna Hicks (P.C.)	Nepean	Business	10804	17.8
+Nepean	Gus Klovan (R.P.)	Nepean	Real Estate	9798	16.1
+Nepean	Nizam Siddiqui (N.D.P.)	Nepean	Municipal Civil Servant	2078	3.4
+Nepean	Ralph Anderson (Nat.)	Nepean	Computer Programmer Analyst	880	1.5
+Nepean	Andrew Van Iterson (G.P.)	Ottawa	Student	455	0.8
+Nepean	Brian Jackson (N.L.P.)	Gloucester	Salesman	263	0.4
+Nepean	Brian Mackintosh (Libert.)	Nepean	Consultant	129	0.2
+Nepean	Marko Braovac (Com'lth)	Ottawa	General Contractor	56	0.1
+Nepean	Tonis Kasvand (Abol.)	Nepean	Student	35	0.1
+Niagara Falls	Gary Pillitteri (Lib.)	Niagara On The Lake	Farmer	20567	47.1
+Niagara Falls	Mel Grunstein (R.P.)	Niagara Falls	Professional Engineer	10895	25.0
+Niagara Falls	Rob Nicholson (P.C.)	Niagara Falls	Lawyer	9707	22.2
+Niagara Falls	Steve Leonard (N.D.P.)	Niagara Falls	Unemployed	1470	3.4
+Niagara Falls	John Cowan (Nat.)	Niagara Falls	Student	511	1.2
+Niagara Falls	John Bruce McBurney (G.P.)	Niagara Falls	Electrical Motor Mechanic	263	0.6
+Niagara Falls	Bill Amos (N.L.P.)	Niagara Falls	Business Consultant	169	0.4
+Niagara Falls	Ted Wiwchar (Abol.)	Niagara Falls	Teacher	82	0.2
+Nickel Belt	Ray Bonin (Lib.)	Sudbury	College Professor	25237	57.2
+Nickel Belt	John Rodriguez (N.D.P.)	Capreol	Politician/Parliamentarian	10197	23.1
+Nickel Belt	Janice Weitzel (R.P.)	Garson	Supply Teacher	5604	12.7
+Nickel Belt	Ian Munro (P.C.)	Whitefish	Student	2395	5.4
+Nickel Belt	Brian Woods (Nat.)	Sudbury	Businessman	346	0.8
+Nickel Belt	Daniel Jolicoeur (N.L.P.)	Huntsville	Health Technician	173	0.4
+Nickel Belt	Ernie Ashick (NIL)	Estaire	Auctioneer	122	0.3
+Nickel Belt	Cindy A. Burton (Abol.)	Pickering	Student	53	0.1
+Nipissing	Bob Wood (Lib.)	North Bay	Member of Parliament	25403	62.8
+Nipissing	Geraldine Lightfoot (R.P.)	North Bay	Seminar Leader/Trainer	6820	16.9
+Nipissing	Moe Mantha (P.C.)	Sturgeon Falls	Golf Course Proprietor	6608	16.3
+Nipissing	Arthur James Campbell (N.D.P.)	Nipissing	Labourer	1322	3.3
+Nipissing	Manon Charleen Isabelle (N.L.P.)	Huntsville	Office Manager	220	0.5
+Nipissing	Alcide Hamelin (Abol.)	Corbiel	Carpenter	73	0.2
+Northumberland	Christine Stewart (Lib.)	Roseneath	Member of Parliament	23986	49.5
+Northumberland	Gord Johnston (R.P.)	Bewdley	Self-Employed Businessman	11512	23.8
+Northumberland	Reg Jewell (P.C.)	Trenton	Funeral Director	10199	21.1
+Northumberland	Diana Stewart (N.D.P.)	Codrington	School Trustee	1667	3.4
+Northumberland	Joe Appleman (C.H.P.)	Port Hope	Tradesman	347	0.7
+Northumberland	Leona Noel (Nat.)	Oshawa	Translator	292	0.6
+Northumberland	Roy Anderson (N.L.P.)	Orleans	Management Consultant	248	0.5
+Northumberland	Steve R. Prust (Libert.)	Colborne		162	0.3
+Oakville--Milton	Bonnie Brown (Lib.)	Oakville		34124	46.6
+Oakville--Milton	Ann Mulvale (P.C.)	Oakville	Mayor	19197	26.2
+Oakville--Milton	Richard Malboeuf (R.P.)	Milton	Independant Businessman	17347	23.7
+Oakville--Milton	Willie Lambert (N.D.P.)	Oakville	Bus Driver	1643	2.2
+Oakville--Milton	Harry Bright (N.L.P.)	Oakville	University Admissions Director	544	0.7
+Oakville--Milton	Ken Campbell (NIL)	Milton	Clergyman	430	0.6
+Ontario	Dan McTeague (Lib.)	Ajax	Public Relations Officer	38680	43.3
+Ontario	Don Sullivan (R.P.)	Ajax	Administrator-Police/Security	28097	31.5
+Ontario	RenÇ Soetens (P.C.)	Ajax	Member Of Parliament	16872	18.9
+Ontario	Lynn Jacklin (N.D.P.)	Whitby	Secondary School Teacher	2746	3.1
+Ontario	Rob McMenemy (Nat.)	Pickering	Consultant	869	1.0
+Ontario	Doug Anderson (Ind.)	Whitby	Publisher	692	0.8
+Ontario	George S. Kozaroff (Libert.)	Whitby	Auto Worker	424	0.5
+Ontario	Scott Laycox (G.P.)	Pickering	Multi-Media Artist	402	0.5
+Ontario	Gerard Morris (N.L.P.)	Orleans	Health Educator	352	0.4
+Ontario	Val HachÇ (Com'lth)	Oshawa	Electrician	55	0.1
+Ontario	Peter Woods (Abol.)	Toronto	Truck Driver	42	0.0
+Oshawa	Ivan Grose (Lib.)	Clarington	Self-employed Businessman	15651	38.3
+Oshawa	Andrew Davies (R.P.)	Whitby	Computer Integrater	11826	28.9
+Oshawa	Linda Dionne (P.C.)	Oshawa	Regional Councillor	6140	15.0
+Oshawa	Mike Breaugh (N.D.P.)	Oshawa	Politician	6102	14.9
+Oshawa	John Arkelian (Nat.)	Oshawa	Lawyer	391	1.0
+Oshawa	Brian Chiasson (C.H.P.)	Pickering	National Promotion Manager	386	0.9
+Oshawa	Helene Ann Darisse (N.L.P.)	Orleans	Video Producer	263	0.6
+Oshawa	Ann-Marie Methot (Com'lth)	Oshawa	Student	74	0.2
+Oshawa	Christopher Boddy (Abol.)	Oshawa	Promotion Agent	60	0.2
+Ottawa Centre/Ottawa-Centre	Mac Harb (Lib.)	Ottawa		25962	51.9
+Ottawa Centre/Ottawa-Centre	Marion Dewar (N.D.P.)	Ottawa	Politician	11238	22.5
+Ottawa Centre/Ottawa-Centre	Ian R. Lee (P.C.)	Ottawa	Professor	6126	12.3
+Ottawa Centre/Ottawa-Centre	Len Tucker (R.P.)	Ottawa	Federal Public Servant	4700	9.4
+Ottawa Centre/Ottawa-Centre	John Foster (Nat.)	Ottawa	Retired	796	1.6
+Ottawa Centre/Ottawa-Centre	Frank Thompson (G.P.)	Ottawa	Geologist	595	1.2
+Ottawa Centre/Ottawa-Centre	Neil Laughlin Paterson (N.L.P.)	Ottawa	Chief Executive	352	0.7
+Ottawa Centre/Ottawa-Centre	Hardial Bains (M.-L.)	Hull		91	0.2
+Ottawa Centre/Ottawa-Centre	Clayoquot Keith Ashdown (NIL)	Ottawa	Canadian Coordinator	75	0.2
+Ottawa Centre/Ottawa-Centre	Pauline G. Morrissette (Abol.)	Nepean	Self-Employeed	37	0.1
+Ottawa Centre/Ottawa-Centre	Marie-ThÇräse Costisella (Com'lth)	Ottawa	Etudiante	37	0.1
+Ottawa Centre/Ottawa-Centre	Vic Wilczur (Ind.)	Ottawa	Retired Public Servant	0	0.0
+Ottawa South/Ottawa-Sud	John Manley (Lib.)	Ottawa	Lawyer	36485	65.9
+Ottawa South/Ottawa-Sud	Doug Walkinshaw (R.P.)	Ottawa	Consulting Engineer	8003	14.5
+Ottawa South/Ottawa-Sud	Joe Anton (P.C.)	Ottawa	Auditor	6971	12.6
+Ottawa South/Ottawa-Sud	Ursule Critoph (N.D.P.)	Ottawa	Economist	2169	3.9
+Ottawa South/Ottawa-Sud	George Shirreff (Nat.)	Nepean	Teacher	1038	1.9
+Ottawa South/Ottawa-Sud	Joe Palmer (G.P.)	Ottawa	Maintenance Worker	358	0.7
+Ottawa South/Ottawa-Sud	Ronald J.D. Parker (N.L.P.)	Huntsville	Physicist and Educator	251	0.5
+Ottawa South/Ottawa-Sud	Louise Waldman (M.-L.)	Ottawa	Student	63	0.1
+Ottawa--Vanier	Jean-Robert Gauthier (Lib.)	Ottawa	Politicien	34224	70.5
+Ottawa--Vanier	Marie-Christine Lemire (P.C.)	Ottawa		5116	10.5
+Ottawa--Vanier	Sam Dancey (R.P.)	Ottawa	Parent Therapist	3830	7.9
+Ottawa--Vanier	Willie Dunn (N.D.P.)	Ottawa	Filmaker	3155	6.5
+Ottawa--Vanier	Frank de Jong (G.P.)	Ottawa	Public School Teacher	652	1.3
+Ottawa--Vanier	Raymond Samuels (Nat.)	Kanata	Consultant	532	1.1
+Ottawa--Vanier	David Talbot (Ind.)	Ottawa	Student	445	0.9
+Ottawa--Vanier	Roger Bouchard (N.L.P.)	OrlÇans	êcrivain	438	0.9
+Ottawa--Vanier	Serge Lafortune (M.-L.)	Hull	Administrative Secretary	141	0.3
+Ottawa--Vanier	Steven Edward White (Abol.)	Ottawa	Croupier	31	0.1
+Ottawa West/Ottawa-Ouest	Marlene Catterall (Lib.)	Ottawa	Member of Parliament	28422	63.4
+Ottawa West/Ottawa-Ouest	Peter Boddy (R.P.)	Ottawa	Commercial Property Appraiser	6387	14.2
+Ottawa West/Ottawa-Ouest	Nancy Munro-Parry (P.C.)	Ottawa	Community Advocate	6344	14.1
+Ottawa West/Ottawa-Ouest	Norman Bobbitt (N.D.P.)	Ottawa	Engineer	1836	4.1
+Ottawa West/Ottawa-Ouest	Bryce Wilson (Nat.)	Ottawa	High School Teacher	1082	2.4
+Ottawa West/Ottawa-Ouest	Morgan Van Wyck (G.P.)	Ottawa	Environmental Consultant	340	0.8
+Ottawa West/Ottawa-Ouest	Stan Lamothe (N.L.P.)	Orleans	Consultant	215	0.5
+Ottawa West/Ottawa-Ouest	Leonard Knoll (Libert.)	Ottawa	Electronics Technologist	165	0.4
+Ottawa West/Ottawa-Ouest	Kamal Shah (Com'lth)	Ottawa	Self Employed	33	0.1
+Ottawa West/Ottawa-Ouest	Julie Start (Abol.)	Ottawa	Student	32	0.1
+Oxford	John Finlay (Lib.)	Tavistock	Retired School Superintendent	19669	41.1
+Oxford	John Mohr (R.P.)	Tavistock	Sales	12653	26.5
+Oxford	George Klosler (P.C.)	Mount Elgin	Business Person	10857	22.7
+Oxford	Martin Donlevy (N.D.P.)	Woodstock	Sales Representative	2380	5.0
+Oxford	Hans Strikwerda (C.H.P.)	Woodstock	Real Estate Sales/Teacher	935	2.0
+Oxford	George Moore (Ind.)	Tillsonburg	Entrepaneur	471	1.0
+Oxford	Bryan John Rahn (Nat.)	Drumbo	Farmer/Teacher	417	0.9
+Oxford	Kaye Sargent (Libert.)	Innerkip	Self Employed	230	0.5
+Oxford	Peter Leggat (N.L.P.)	Huntsville	Researcher	214	0.5
+Parry Sound--Muskoka	Andy Mitchell (Lib.)	Gravenhurst	Bank Manager	20427	44.2
+Parry Sound--Muskoka	Jim Newman (R.P.)	Sundridge	Real Estate Broker	13022	28.2
+Parry Sound--Muskoka	Terry Clarke (P.C.)	Port Sydney	Principal	9529	20.6
+Parry Sound--Muskoka	Shirley Davy (N.D.P.)	Pointe-au-Baril-Station	Sales Broker	2164	4.7
+Parry Sound--Muskoka	John Marshall (Nat.)	Parry Sound	Self-employed	581	1.3
+Parry Sound--Muskoka	Russell Guest (N.L.P.)	Huntsville	Publisher	263	0.6
+Parry Sound--Muskoka	John Farr (Ind.)	Bracebridge	Title Searcher	181	0.4
+Parry Sound--Muskoka	Jim Journeau (Abol.)	Scarborough	Carpenter	26	0.1
+Perth--Wellington--Waterloo	John Richardson (Lib.)	Stratford	Self Employed	20125	43.3
+Perth--Wellington--Waterloo	Jeff Gerber (R.P.)	Shakespeare	High School Teacher	12185	26.2
+Perth--Wellington--Waterloo	Harry Brightwell (P.C.)	Stratford	Veterinarian	10835	23.3
+Perth--Wellington--Waterloo	Stephanie Levesque (N.D.P.)	Stratford	Constituency Assistant	1909	4.1
+Perth--Wellington--Waterloo	Sid Vander Heide (C.H.P.)	Mitchell	Farmer	647	1.4
+Perth--Wellington--Waterloo	Ted Owen (Nat.)	Bornholm	Courier	486	1.0
+Perth--Wellington--Waterloo	Tom Lanier (N.L.P.)	Huntsville	Researcher	184	0.4
+Perth--Wellington--Waterloo	Joe Yundt (Libert.)	Monkton	Farmer	152	0.3
+Peterborough	Peter Adams (Lib.)	Peterborough	University Professor	27575	47.6
+Peterborough	Len Bangma (R.P.)	Peterborough	Building Contractor	13457	23.2
+Peterborough	Bill Domm (P.C.)	Peterborough	Businessman	11623	20.1
+Peterborough	Merv Richards (N.D.P.)	Peterborough	Constituency Assistant	3056	5.3
+Peterborough	Herb Wiseman (Nat.)	Peterborough	Behaviour Counsellor	1852	3.2
+Peterborough	Sandy Callender (N.L.P.)	Peterborough	Co. manager of a design firm	367	0.6
+Prince Edward--Hastings	Lyle Vanclief (Lib.)	Ameliasburg	Agrologist	26483	57.1
+Prince Edward--Hastings	Marjorie Foster (R.P.)	Belleville	Travel Consultant	9018	19.4
+Prince Edward--Hastings	Jim Hughes (P.C.)	Picton	Farmer	8246	17.8
+Prince Edward--Hastings	Jim Martin (N.D.P.)	Kingston	Small Business Person	1275	2.8
+Prince Edward--Hastings	Christine Kosman (Nat.)	Picton	Unemployed	640	1.4
+Prince Edward--Hastings	Dave Switzer (C.H.P.)	Frankford	Barber-Stylist	561	1.2
+Prince Edward--Hastings	Siggi Lamothe (N.L.P.)	Orleans	Adminstrator	171	0.4
+Renfrew--Nipissing--Pembroke	Len Hopkins (Lib.)	Petawawa	Teacher	25725	50.6
+Renfrew--Nipissing--Pembroke	Hec Clouthier (Ind.)	Petawawa	Businessman	10288	20.2
+Renfrew--Nipissing--Pembroke	Milton Stevenson (P.C.)	Renfrew	Farmer	7038	13.8
+Renfrew--Nipissing--Pembroke	Edward Pinnell (R.P.)	Arnprior	Engineer	6204	12.2
+Renfrew--Nipissing--Pembroke	Barbara Clarke (N.D.P.)	Pembroke	Administrator	1351	2.7
+Renfrew--Nipissing--Pembroke	Murray Reid (Abol.)	Renfrew	Businessman	145	0.3
+Renfrew--Nipissing--Pembroke	Daphne Quance (N.L.P.)	Orleans	Teacher	144	0.3
+St. Catharines	Walt Lastewka (Lib.)	St. Catharines	Plant Manager	23928	49.0
+St. Catharines	Rob Hesp (R.P.)	St. Catharines	Business	14011	28.7
+St. Catharines	Ken Atkinson (P.C.)	St. Catharines	Lawyer	7448	15.3
+St. Catharines	Jane Hughes (N.D.P.)	St. Catharines	Teacher	2799	5.7
+St. Catharines	David W. Bylsma (C.H.P.)	St. Catarines	Civil Engineer	568	1.2
+St. Catharines	Kevin Doucet (Abol.)	Welland	Unemployed	86	0.2
+Sarnia--Lambton	Roger Gallaway (Lib.)	Point Edward	Lawyer	20331	47.6
+Sarnia--Lambton	Ken James (P.C.)	Sarnia	Politician/Parliamentarian	9665	22.6
+Sarnia--Lambton	Bruce Brogden (R.P.)	Sarnia	Property Management	9055	21.2
+Sarnia--Lambton	Julie Foley (N.D.P.)	Brights Grove	Social Worker	2649	6.2
+Sarnia--Lambton	Louis Duke (C.H.P.)	Sarnia	House Renovator	610	1.4
+Sarnia--Lambton	John Kenneth Elliot (NIL)	Camlachie	Stationary Engineer	188	0.4
+Sarnia--Lambton	Shannon M. Bourke (N.L.P.)	Bright's Grove	Teacher	178	0.4
+Sarnia--Lambton	Doug O'Dell (NIL)	Sarnia	Steam Fitter & Farmer	67	0.2
+Sault Ste. Marie	Ron Irwin (Lib.)	Sault Ste. Marie	Lawyer	21427	53.0
+Sault Ste. Marie	Steve Butland (N.D.P.)	Sault Ste. Marie	Politician	8970	22.2
+Sault Ste. Marie	Paul Mathewson (R.P.)	Sault Ste. Marie	Retail Automotive Shop Owner	6576	16.3
+Sault Ste. Marie	Gerry Nori (P.C.)	Sault Ste. Marie	Lawyer	3143	7.8
+Sault Ste. Marie	Henry A. Roess (Nat.)	Sault Ste. Marie	Retired Electrician	188	0.5
+Sault Ste. Marie	Chris Evans (N.L.P.)	Toronto	Systems Analyst	155	0.4
+Simcoe Centre/Simcoe-Centre	Ed Harper (R.P.)	Barrie	Businessman	25446	37.9
+Simcoe Centre/Simcoe-Centre	Janice Laking (Lib.)	Barrie	Mayor	25264	37.6
+Simcoe Centre/Simcoe-Centre	Doug Jagges (P.C.)	Barrie	Chartered Accountant	11644	17.4
+Simcoe Centre/Simcoe-Centre	Pat Peters (N.D.P.)	Toronto	Provincial Government Employee	1872	2.8
+Simcoe Centre/Simcoe-Centre	Craig Busch (Nat.)	Barrie	Small Businessman	1345	2.0
+Simcoe Centre/Simcoe-Centre	Mike Ramsay (Ind.)	Barrie	Teacher	655	1.0
+Simcoe Centre/Simcoe-Centre	Ann Marie Tomlins (C.H.P.)	Borden	School Teacher	409	0.6
+Simcoe Centre/Simcoe-Centre	John Gregory (N.L.P.)	Huntsville	AYURUEDIC TECHNICIAN	307	0.5
+Simcoe Centre/Simcoe-Centre	John K. Carson (Ind.)	Barrie	Retired Teacher	139	0.2
+Simcoe Centre/Simcoe-Centre	Gene Carter (Abol.)	Aurora	Student	41	0.1
+Simcoe North/Simcoe-Nord	Paul DeVillers (Lib.)	Penetanguishene	Solicitor	23116	40.6
+Simcoe North/Simcoe-Nord	Ray Lyons (R.P.)	Orillia	Shift Supervisor	17498	30.7
+Simcoe North/Simcoe-Nord	Doug Lewis (P.C.)	Orillia	Politician(or Parliamentarian)	13141	23.1
+Simcoe North/Simcoe-Nord	Marsha Mitzak (N.D.P.)	Innisfil	Policy Advisor	1956	3.4
+Simcoe North/Simcoe-Nord	Brian Stewart (Nat.)	Orillia	Teacher	845	1.5
+Simcoe North/Simcoe-Nord	Garry Foster (N.L.P.)	Huntsville	Publisher	300	0.5
+Simcoe North/Simcoe-Nord	Bobby-Joe Edwards (Abol.)	Toronto	Student	67	0.1
+Stormont--Dundas	Bob Kilger (Lib.)	Cornwall	Businessman	27080	63.4
+Stormont--Dundas	Leslie Ault (P.C.)	Winchester	Lawyer	7498	17.6
+Stormont--Dundas	Annette Turner (R.P.)	South Mountain	Teacher	5901	13.8
+Stormont--Dundas	David Moss (N.D.P.)	Long Sault	Teacher	1153	2.7
+Stormont--Dundas	Andy Boyle (Nat.)	Avonmore	Labour Rel. /Human Resources	579	1.4
+Stormont--Dundas	Ian Campbell (N.L.P.)	Gloucester	Teacher of T.M. Technique	424	1.0
+Stormont--Dundas	Reginald Landry (Com'lth)	Long Sault	Marine Engineer	79	0.2
+Sudbury	Diane Marleau (Lib.)	Sudbury	Politician	27951	66.1
+Sudbury	Mike Smith (R.P.)	Verner	Sales Manager	5788	13.7
+Sudbury	Maurice Lamoureux (P.C.)	Sudbury	Realtor	3679	8.7
+Sudbury	Rosemarie Blenkinsop (N.D.P.)	Sudbury	Unemployed	3675	8.7
+Sudbury	Paul H. Chislett (Nat.)	Dill	Telephone Repair	512	1.2
+Sudbury	Billie Christiansen (NIL)	Hanmer	Secretary	276	0.7
+Sudbury	David Shaw (N.L.P.)	Scarborough	Marketing Consultant	202	0.5
+Sudbury	Ed Pokonzie (Ind.)	Sudbury	Truck Driver	129	0.3
+Sudbury	Richard Lionel Gouin (Abol.)	Scarborough	Bookbinder	86	0.2
+Thunder Bay--Atikokan	Stan Dromisky (Lib.)	Thunder Bay	Retired	19801	57.3
+Thunder Bay--Atikokan	Iain Angus (N.D.P.)	Thunder Bay	Politician	6565	19.0
+Thunder Bay--Atikokan	Colyne Gibbons (R.P.)	Thunder Bay	Retired Administrator	5378	15.6
+Thunder Bay--Atikokan	Tony Stehmann (P.C.)	Thunder Bay	Retail Consultant	2836	8.2
+Thunder Bay--Nipigon	Joe Comuzzi (Lib.)	Thunder Bay	Politician	24277	65.1
+Thunder Bay--Nipigon	Bob Reynolds (R.P.)	Neebing	Water Treatment Plant Operator	5575	14.9
+Thunder Bay--Nipigon	Marlene Hogarth (P.C.)	Thunder Bay	Educator	3575	9.6
+Thunder Bay--Nipigon	David Ramsay (N.D.P.)	Kaministiquia	Social Worker	3372	9.0
+Thunder Bay--Nipigon	Wayne Hill (Nat.)	Thunder Bay	Technical Consultant	439	1.2
+Thunder Bay--Nipigon	Brian Aalto (Com'lth)	Thunder Bay	Student	81	0.2
+Timiskaming--French-River	Ben SerrÇ (Lib.)	Verner	Businessman	17457	59.8
+Timiskaming--French-River	Bob Mantha (P.C.)	Springer	Golf Club Manager	4510	15.5
+Timiskaming--French-River	Dan Louie (R.P.)	Kirkland Lake	Businessman	3870	13.3
+Timiskaming--French-River	Steve Yee (N.D.P.)	Kirkland Lake	Miner	2582	8.8
+Timiskaming--French-River	Gary Whitman (NIL)	Matheson	Retired	483	1.7
+Timiskaming--French-River	Anne BÇlanger (N.L.P.)	Huntsville	Health Technician	296	1.0
+Timmins--Chapleau	Peter Thalheimer (Lib.)	Timmins	Barrister & Solicitor	17085	55.5
+Timmins--Chapleau	Cid Samson (N.D.P.)	South Porcupine	Worker Advisor	8219	26.7
+Timmins--Chapleau	John Murphy (P.C.)	South Porcupine	Railroad Supervisor	4370	14.2
+Timmins--Chapleau	Ronald Locas (Nat.)	White River	Teacher	443	1.4
+Timmins--Chapleau	Ben Lefebvre (N.L.P.)	Porquis Junction	Instrumentation Technician	394	1.3
+Timmins--Chapleau	Tilton Beaumont (NIL)	Picton	Machinist	289	0.9
+Victoria--Haliburton	John O'Reilly (Lib.)	Lindsay	Real Estate Broker	20511	36.7
+Victoria--Haliburton	Barry Devolin (R.P.)	Dysart	Realtor	15906	28.5
+Victoria--Haliburton	Lorne Edward Chester (P.C.)	Lindsay	Lawyer	12378	22.2
+Victoria--Haliburton	Dennis Drainville (Ind.)	Gooderham	Anglican Clergyman	3584	6.4
+Victoria--Haliburton	Cathy Vainio (N.D.P.)	Omemee	Occasional teacher	2046	3.7
+Victoria--Haliburton	Martin Doyle (Nat.)	Toronto	Actor/Voice-Over Announcer	622	1.1
+Victoria--Haliburton	Donald Waterhouse (C.H.P.)	Cardiff Township	Director - Group Home	407	0.7
+Victoria--Haliburton	David Hetherington (N.L.P.)	Huntsville	Educational Administrator	200	0.4
+Victoria--Haliburton	Charles Olito (C.P.)	Mariposa	Retired	178	0.3
+Waterloo	Andrew Telegdi (Lib.)	Waterloo		26269	42.1
+Waterloo	Mike Connolly (R.P.)	Waterloo	Semi-retired	15916	25.5
+Waterloo	Lynne Woolstencroft (P.C.)	Waterloo	Community College Professor	15109	24.2
+Waterloo	Scott Piatkowski (N.D.P.)	Waterloo	Housing Co-op Co-ordinator	2822	4.5
+Waterloo	Ted Kryn (C.H.P.)	Waterloo	Medical Doctor	942	1.5
+Waterloo	Rita Huschka Sprague (Libert.)	Waterloo		493	0.8
+Waterloo	Blaine P. Watson (N.L.P.)	Woolwich	Teacher	449	0.7
+Waterloo	Don Philip Faithful (Ind.)	Waterloo	University Student	332	0.5
+Welland--St. Catharines--Thorold	Gilbert Parent (Lib.)	Welland	Politician /Parliamentarian	25533	54.0
+Welland--St. Catharines--Thorold	Don Johnstone (R.P.)	Welland	Consultant	11901	25.2
+Welland--St. Catharines--Thorold	Terry St. Amand (P.C.)	Thorold	Restauranteur	5465	11.6
+Welland--St. Catharines--Thorold	Rob Dobrucki (N.D.P.)	Welland	Housing Consultant	3736	7.9
+Welland--St. Catharines--Thorold	Laureen Amos (N.L.P.)	Niagara Falls	Home Maker	310	0.7
+Welland--St. Catharines--Thorold	Jim Fannon (G.P.)	Welland	Real Estate Sales Rep.	295	0.6
+Welland--St. Catharines--Thorold	Leonard Doucet (Abol.)	East York	Pres./Toronto Odd Job Bank	64	0.1
+Wellington--Grey--Dufferin--Simcoe	Murray Calder (Lib.)	Egremont Twp.	Poultry Producer	20415	35.8
+Wellington--Grey--Dufferin--Simcoe	Perrin Beatty (P.C.)	Fergus	Public Servant	18645	32.7
+Wellington--Grey--Dufferin--Simcoe	Bob Greenland (R.P.)	Stayner	Self Employed	15400	27.0
+Wellington--Grey--Dufferin--Simcoe	Dan Heffernan (N.D.P.)	Angus	Staff Officer	2000	3.5
+Wellington--Grey--Dufferin--Simcoe	Sara Francis (G.P.)	Guelph	Student	563	1.0
+Windsor--St. Clair/Windsor--Sainte-Claire	Shaughnessy Cohen (Lib.)		Lawyer	22960	55.6
+Windsor--St. Clair/Windsor--Sainte-Claire	Howard McCurdy (N.D.P.)	Tecumseh	University Professor	9021	21.9
+Windsor--St. Clair/Windsor--Sainte-Claire	Tom Porter (P.C.)	Windsor	Lawyer	4577	11.1
+Windsor--St. Clair/Windsor--Sainte-Claire	Greg Novini (R.P.)	Windsor	Business Manager	4164	10.1
+Windsor--St. Clair/Windsor--Sainte-Claire	Stephen Harvey (G.P.)	Windsor	Articling Student	304	0.7
+Windsor--St. Clair/Windsor--Sainte-Claire	Stephanie Moniatowicz (N.L.P.)	Windsor	Reg. Massage Therapist	154	0.4
+Windsor--St. Clair/Windsor--Sainte-Claire	Dale Woodyard (M.-L.)	Windsor	Professor	62	0.2
+Windsor--St. Clair/Windsor--Sainte-Claire	Ayesha F. Bharmal (Abol.)	East York	Student	52	0.1
+Windsor West/Windsor-Ouest	Herb Gray (Lib.)	Windsor	Lawyer	28347	72.8
+Windsor West/Windsor-Ouest	Brett Skinner (R.P.)	Windsor	Customs Inspector	4427	11.4
+Windsor West/Windsor-Ouest	Emily Carasco (N.D.P.)	Lasalle	Professor	3579	9.2
+Windsor West/Windsor-Ouest	Dan Friesen (P.C.)	Windsor	Executive Directur	1783	4.6
+Windsor West/Windsor-Ouest	Sarah Atkinson (G.P.)	Windsor	Editor/Writer	406	1.0
+Windsor West/Windsor-Ouest	Larry Decter (N.L.P.)	Huntsville	Researcher	141	0.4
+Windsor West/Windsor-Ouest	Bill Steptoe (Ind.)	Windsor	Trader	139	0.4
+Windsor West/Windsor-Ouest	Robert Cruise (M.-L.)	Windsor	Factory Worker	97	0.3
+Windsor West/Windsor-Ouest	Rose Pope (Abol.)	Scarborough	Volunteer	35	0.1
+York North/York-Nord	Maurizio Bevilacqua (Lib.)	Maple		71535	63.3
+York North/York-Nord	Heather Sinclair (R.P.)	Aurora	Trustee	20146	17.8
+York North/York-Nord	Dario D'Angela (P.C.)	King City	Chartered Accountant	15484	13.7
+York North/York-Nord	Peter M.A. DeVita (N.D.P.)	Richmond Hill	Professional Engineer	3006	2.7
+York North/York-Nord	Ben Kestein (Nat.)	Aurora	Retired	1247	1.1
+York North/York-Nord	Robert Ede (Libert.)	Richmond Hill	Sales Consultant	915	0.8
+York North/York-Nord	Wayne Foster (N.L.P.)	Huntsville	Health Centre Director	679	0.6
+York--Simcoe	Karen Kraft Sloan (Lib.)	Mount Albert	Self-Employed	26932	38.9
+York--Simcoe	Paul Pivato (R.P.)	Keswick	Public Relations	22305	32.2
+York--Simcoe	John Cole (P.C.)	Newmarket	Optometrist	16114	23.3
+York--Simcoe	Steve Pliakes (N.D.P.)	York Region	Property manager	1709	2.5
+York--Simcoe	Ian Knight (C.H.P.)	York	Marketing & Promotions	956	1.4
+York--Simcoe	Ronald Fletcher (Nat.)	Newmarket	Student	675	1.0
+York--Simcoe	Ian Roberts (N.L.P.)	Toronto	Designer	406	0.6
+York--Simcoe	Gary George Brewer (Abol.)	Scarborough	Sales	95	0.1
+Beaches--Woodbine	Maria Minna (Lib.)	Toronto	Consultant	17639	40.7
+Beaches--Woodbine	Neil Young (N.D.P.)	Toronto	Business Manager	8037	18.6
+Beaches--Woodbine	Hugh Prendergast (R.P.)	East York	Senior Analyst	6844	15.8
+Beaches--Woodbine	Terry Kelly (NIL)	Toronto	Lawyer	4549	10.5
+Beaches--Woodbine	Denise Cole (P.C.)	Toronto		4316	10.0
+Beaches--Woodbine	John-Frederick Cameron (Nat.)	Burlington	Ontario Campaign Manager	1139	2.6
+Beaches--Woodbine	Leanne Haze (G.P.)	Toronto	Musician	335	0.8
+Beaches--Woodbine	Donalda Fredeen (N.L.P.)	Toronto	Mother at home	265	0.6
+Beaches--Woodbine	Pierre ChÇnier (M.-L.)	Toronto	Printer	94	0.2
+Beaches--Woodbine	Keith Meadowcroft (NIL)	MontrÇal	Student	66	0.2
+Beaches--Woodbine	Zahid H. Tirmizi (Abol.)			22	0.1
+Broadview--Greenwood	Dennis Mills (Lib.)	Toronto	Businessman	23558	61.1
+Broadview--Greenwood	Lynn McDonald (N.D.P.)	Toronto	Educator	5381	14.0
+Broadview--Greenwood	Frank Meyers (R.P.)	Toronto	Security Administrator	4356	11.3
+Broadview--Greenwood	John Papadakis (P.C.)	Toronto	Municipal Councillor	3601	9.3
+Broadview--Greenwood	Barbara A. Sim (Nat.)	Toronto	Entrepreneur	976	2.5
+Broadview--Greenwood	Bob Hyman (N.L.P.)	Toronto	Office Manager	389	1.0
+Broadview--Greenwood	Elizabeth Rowley (NIL)	Toronto	Organizer	148	0.4
+Broadview--Greenwood	Manuel Gitterman (M.-L.)	Toronto	Political Worker	92	0.2
+Broadview--Greenwood	Brian Blonski (Abol.)	Scarborough	Computer Operator	74	0.2
+Davenport	Charles Caccia (Lib.)	Toronto	Economist	20217	73.8
+Davenport	John Doherty (N.D.P.)	Toronto	School Trustee	2513	9.2
+Davenport	Michael Jakubcak (R.P.)	Weston	Urban Planner	2139	7.8
+Davenport	Margaret Samuel (P.C.)	Toronto	Student-At-Law	1255	4.6
+Davenport	Sherelanne Purcell (Nat.)	Toronto	Teacher	459	1.7
+Davenport	Bruce Hislop (N.L.P.)	Toronto	Educator	265	1.0
+Davenport	Sat K. Singh Khalsa (G.P.)	Toronto	Administrator	254	0.9
+Davenport	Nunzio Venuto (Libert.)	Toronto	Pension Trust Officer	201	0.7
+Davenport	Barbara Seed (M.-L.)	Toronto		65	0.2
+Davenport	Susan Lylliane Pennington (Abol.)	East York	Bartender	34	0.1
+Don Valley East/Don Valley-Est	David Collenette (Lib.)	Ottawa	Management Consultant	21630	53.7
+Don Valley East/Don Valley-Est	Alan Redway (P.C.)	East York	Lawyer	9334	23.2
+Don Valley East/Don Valley-Est	Gordon E. Honsey (R.P.)	North York	Truck Driver	6819	16.9
+Don Valley East/Don Valley-Est	Janice Waud Loper (N.D.P.)	Oakville	Publishing Consultant	1540	3.8
+Don Valley East/Don Valley-Est	Joe Braini (Nat.)	North York	Customer Rep.	403	1.0
+Don Valley East/Don Valley-Est	Mark Meschino (Libert.)	North York	Superintendant	238	0.6
+Don Valley East/Don Valley-Est	Fred Fredeen (N.L.P.)	Toronto	Broker	206	0.5
+Don Valley East/Don Valley-Est	Roger Carter (M.-L.)	Toronto	Postal Worker	90	0.2
+Don Valley East/Don Valley-Est	Michael Mazerolle (Abol.)	Scarborough	Product Engineer	21	0.1
+Don Valley North/Don Valley-Nord	Sarkis Assadourian (Lib.)	North York	Executive Director	22504	59.9
+Don Valley North/Don Valley-Nord	Barbara Greene (P.C.)	North York		7238	19.3
+Don Valley North/Don Valley-Nord	Peter Cobbold (R.P.)	North York	Business Management	6068	16.1
+Don Valley North/Don Valley-Nord	David Lu (N.D.P.)	Toronto	Worker Advisor	1395	3.7
+Don Valley North/Don Valley-Nord	William J. Sparling (N.L.P.)	North York	Retired Musician	319	0.9
+Don Valley North/Don Valley-Nord	Lindsay George King (Abol.)	Thornhill	Minister	69	0.2
+Don Valley West/Don Valley-Ouest	John Godfrey (Lib.)	Toronto	Economic Historian &Journalist	25874	49.8
+Don Valley West/Don Valley-Ouest	John Bosley (P.C.)	Toronto	Businessman	15111	29.1
+Don Valley West/Don Valley-Ouest	Julian Pope (R.P.)	Toronto	Stockbroker	7921	15.2
+Don Valley West/Don Valley-Ouest	Leonard Swartz (N.D.P.)	Toronto	Quality Engineer	1405	2.7
+Don Valley West/Don Valley-Ouest	Dorothy Campbell (Nat.)	North York	Retired Civil Servant	1008	1.9
+Don Valley West/Don Valley-Ouest	Dan King (G.P.)	Toronto	Enviromental Consultant	303	0.6
+Don Valley West/Don Valley-Ouest	Bob Pepper (N.L.P.)	Toronto	Theme Park Developer	252	0.5
+Don Valley West/Don Valley-Ouest	Judith A. Snow (NIL)	Toronto	Adult Educator	83	0.2
+Don Valley West/Don Valley-Ouest	Stephen Wilson (Abol.)	Willowdale		25	0.1
+Eglinton--Lawrence	Joseph Volpe (Lib.)	North York		28634	71.6
+Eglinton--Lawrence	Charles C. Van Tuinen (R.P.)	York	Millwright	4347	10.9
+Eglinton--Lawrence	Marc Monson (P.C.)	Toronto	Real Estate	4262	10.7
+Eglinton--Lawrence	Gael Hepworth (N.D.P.)	York	Financial Director	2091	5.2
+Eglinton--Lawrence	Debbie Weberg (N.L.P.)	Toronto	Developer	384	1.0
+Eglinton--Lawrence	Jeanne Gatley (M.-L.)	Willowdale	Graphic Artist	138	0.4
+Eglinton--Lawrence	Linda Kruschel (Abol.)	Willowdale	Homemaker	124	0.3
+Etobicoke Centre/Etobicoke-Centre	Allan Rock (Lib.)	Etobicoke	Lawyer	25739	54.4
+Etobicoke Centre/Etobicoke-Centre	Charles McLeod (R.P.)	Etobicoke	Actuary	10485	22.1
+Etobicoke Centre/Etobicoke-Centre	Charles Donley (P.C.)	Etobicoke	International Trade Manager	9242	19.5
+Etobicoke Centre/Etobicoke-Centre	Udayan Rege (N.D.P.)	Etobicoke	Professor	1039	2.2
+Etobicoke Centre/Etobicoke-Centre	Janice Tait (Nat.)	Toronto	Psychotherapist	499	1.1
+Etobicoke Centre/Etobicoke-Centre	Everett Murphy (N.L.P.)	Etobicoke	Retired Fire Fighter	202	0.4
+Etobicoke Centre/Etobicoke-Centre	Kelly Ann LeBlanc (Abol.)	Weston	Homemaker	77	0.2
+Etobicoke Centre/Etobicoke-Centre	Janice Murray (M.-L.)	Toronto	Bindery Operator	52	0.1
+Etobicoke Centre/Etobicoke-Centre	Joseph Zmak (Com'lth)	Etobicoke	Administrative Assistant	25	0.1
+Etobicoke--Lakeshore	Jean Augustine (Lib.)	Etobicoke	School Principal	19458	42.1
+Etobicoke--Lakeshore	Patrick Boyer (P.C.)	Etobicoke	Author and Lawyer	14306	31.0
+Etobicoke--Lakeshore	Ken Anstruther (R.P.)	Mississauga	Manufacturing Consultant	8673	18.8
+Etobicoke--Lakeshore	Karen Ridley (N.D.P.)	Etobicoke	Ex. Asst.	2316	5.0
+Etobicoke--Lakeshore	Gilles Brunet (Nat.)	Etobicoke	Property Management	871	1.9
+Etobicoke--Lakeshore	Don Jackson (N.L.P.)	Etobicoke	Business/Legal Administrator	284	0.6
+Etobicoke--Lakeshore	Alan D'Orsay (Libert.)	Toronto	Builder	197	0.4
+Etobicoke--Lakeshore	Julie Northrup (M.-L.)	Etobicoke	Sales Rep	78	0.2
+Etobicoke--Lakeshore	Michael McCabe (Abol.)	Weston	Unemployed	28	0.1
+Etobicoke North/Etobicoke-Nord	Roy MacLaren (Lib.)	Toronto	Publisher	28119	61.2
+Etobicoke North/Etobicoke-Nord	Joe Peschisolido (R.P.)	Etobicoke	Lawyer	9558	20.8
+Etobicoke North/Etobicoke-Nord	Jane MacLaren (P.C.)	Toronto	Manager	4936	10.8
+Etobicoke North/Etobicoke-Nord	Carmela Sasso (N.D.P.)	Toronto	Legislative Assistant	1849	4.0
+Etobicoke North/Etobicoke-Nord	Emanuele Danelon (Nat.)	Etobicoke	Location Manager	661	1.4
+Etobicoke North/Etobicoke-Nord	Daniel Hunt (Libert.)	Toronto	Salesman	334	0.7
+Etobicoke North/Etobicoke-Nord	Marilyn Pepper (N.L.P.)	Toronto	Business Person	253	0.6
+Etobicoke North/Etobicoke-Nord	Antonio Di Felice (NIL)	Toronto	Machine Operator	105	0.2
+Etobicoke North/Etobicoke-Nord	David Greig (M.-L.)	Etobicoke	Public Employee	104	0.2
+Parkdale--High Park	Jesse Flis (Lib.)	Etobicoke	Member of parliament	22358	54.4
+Parkdale--High Park	Lee Primeau (R.P.)	Mississauga	Minister	6647	16.2
+Parkdale--High Park	Don Baker (P.C.)	Etobicoke	Business Man	5668	13.8
+Parkdale--High Park	David Miller (N.D.P.)	Toronto	Lawyer	3855	9.4
+Parkdale--High Park	Stephen A. Biega (Nat.)	Toronto	Marketer-Business Person	1320	3.2
+Parkdale--High Park	Richard Roy (G.P.)	Toronto	Writer	430	1.1
+Parkdale--High Park	Wanda Beaver (N.L.P.)	Toronto	Self Employed	371	0.9
+Parkdale--High Park	Haig Baronikian (Libert.)	Toronto	Engineering Manager	264	0.6
+Parkdale--High Park	Miguel Figueroa (NIL)	Toronto	Party leader	105	0.3
+Parkdale--High Park	Thomas Earl Pennington (Abol.)	Toronto	Umemployed	60	0.2
+Parkdale--High Park	AndrÇ Vachon (M.-L.)	Toronto		53	0.1
+Rosedale	Bill Graham (Lib.)	Toronto	Lawyer	27707	50.0
+Rosedale	David MacDonald (P.C.)	Toronto	Politician	12018	21.7
+Rosedale	Daniel Jovkovic (R.P.)	Mississauga	Manufacturer	7048	12.7
+Rosedale	Jack Layton (N.D.P.)	Toronto		5937	10.7
+Rosedale	Martin Lanigan (Nat.)	Toronto	Commercial Banker	1091	2.0
+Rosedale	Doug Henning (N.L.P.)	Oakville	Entertainer/Theme Park Develop	839	1.5
+Rosedale	Leslie Hunter (G.P.)	Toronto	Student	479	0.9
+Rosedale	Linda Dale Gibbons (NIL)	Toronto	Crisis Pregnancy Counsellor	214	0.4
+Rosedale	Steve Rutchinski (M.-L.)	Toronto	Shipping Superviser	61	0.1
+Rosedale	Yann Patrice d'Audibert-Garcien (Abol.)	Toronto	Tourism Consultant	43	0.1
+St. Paul's	Barry Campbell (Lib.)	Toronto	Lawyer	27775	54.3
+St. Paul's	Isabel Bassett (P.C.)	Toronto	Journalist	12499	24.4
+St. Paul's	Paul Chaplin (R.P.)	Don Mills	Retired	5727	11.2
+St. Paul's	David Jacobs (N.D.P.)	Toronto	Lawyer	2641	5.2
+St. Paul's	Mario Godlewski (Nat.)	Toronto	Teacher	1259	2.5
+St. Paul's	Jim Harris (G.P.)	Toronto	Journalist, Consultant	481	0.9
+St. Paul's	Rick C. Weberg (N.L.P.)	Toronto	Theme Park Developer	313	0.6
+St. Paul's	Jim Conrad (Ind.)	Toronto	Professional Engineer	245	0.5
+St. Paul's	Rick Stenhouse (Libert.)	Toronto	Small Business Owner	108	0.2
+St. Paul's	David Gershuny (M.-L.)	Toronto	Shipper Receiver	75	0.2
+St. Paul's	Marion Velma Joyce (Abol.)	Scarborough	Telemarketing	17	0.0
+St. Paul's	Mike Twose (Com'lth)	Toronto		11	0.0
+Scarborough--Agincourt	Jim Karygiannis (Lib.)	Scarborough	Industrial Engineer	24710	59.7
+Scarborough--Agincourt	Ben Eng (P.C.)	Richmond Hill	Consultant	8802	21.3
+Scarborough--Agincourt	Cyril Gibb (R.P.)	Agincourt		6022	14.6
+Scarborough--Agincourt	Joe JosÇ Perez (N.D.P.)	Toronto	Mechanical Engineer	942	2.3
+Scarborough--Agincourt	Bruce Nord (Nat.)	Scarborough	Horticultural/Designer	273	0.7
+Scarborough--Agincourt	Anne C. McBride (Ind.)	Scarborough	Minister	244	0.6
+Scarborough--Agincourt	Bill Morrison (N.L.P.)	Scarborough	Professional Engineer	201	0.5
+Scarborough--Agincourt	Michael Green (Abol.)	Toronto	R.N.A.	94	0.2
+Scarborough--Agincourt	Sp. Thakore (Ind.)	Scarborough	Store Manager	85	0.2
+Scarborough Centre/Scarborough-Centre	John Cannis (Lib.)	Scarborough	Human Resource Consultant	21084	52.5
+Scarborough Centre/Scarborough-Centre	John Pope (R.P.)	Willowdale	Advertising Executive	8415	21.0
+Scarborough Centre/Scarborough-Centre	Pauline Browes (P.C.)	Scarborough	Educator	8154	20.3
+Scarborough Centre/Scarborough-Centre	Guy Hunter (N.D.P.)	Scarborough	Law Student	1599	4.0
+Scarborough Centre/Scarborough-Centre	Jean Schilling (Nat.)	Scarborough	Consultant	320	0.8
+Scarborough Centre/Scarborough-Centre	David Gordon (N.L.P.)	Toronto	Advertising Executive	190	0.5
+Scarborough Centre/Scarborough-Centre	Steven Lam (Ind.)	Scarborough	General Manager	184	0.5
+Scarborough Centre/Scarborough-Centre	George Dance (Libert.)	Scarborough	Office Manager	153	0.4
+Scarborough Centre/Scarborough-Centre	France Tremblay (M.-L.)	Etobicoke		38	0.1
+Scarborough Centre/Scarborough-Centre	Denis A. Mazerolle (Abol.)	Scarborough	Marketing	21	0.1
+Scarborough East/Scarborough-Est	Doug Peters (Lib.)	Toronto	Economist	20041	50.5
+Scarborough East/Scarborough-Est	Randall Flint (R.P.)	Clarington	Insurance Loss Control Insp.	10301	25.9
+Scarborough East/Scarborough-Est	D'Arcy Keene (P.C.)	Toronto	Health Management Consultant	6598	16.6
+Scarborough East/Scarborough-Est	Doug Ottenbreit (N.D.P.)	Scarborough	Constituency Liason Officer	1524	3.8
+Scarborough East/Scarborough-Est	David Glover (Nat.)	Scarborough	Consumer Services	373	0.9
+Scarborough East/Scarborough-Est	Jim McIntosh (Libert.)	Scarborough	Data Processing Consultant	363	0.9
+Scarborough East/Scarborough-Est	Lois Jean James (G.P.)	Scarborough	Community Volunteer	250	0.6
+Scarborough East/Scarborough-Est	Carol-Anne Coulter (N.L.P.)	Toronto	Design Professional	195	0.5
+Scarborough East/Scarborough-Est	James Norton Worthington (Abol.)	Scarborough	Taxi Driver	59	0.2
+Scarborough--Rouge River	Derek Lee (Lib.)	Scarborough	Lawyer	33867	66.1
+Scarborough--Rouge River	Les Saunders (R.P.)	Scarborough	Businessman	8596	16.8
+Scarborough--Rouge River	Paul Ng (P.C.)	Richmond Hill	Director, Data Centre Oper.	6014	11.7
+Scarborough--Rouge River	Orrin O. Benn (N.D.P.)	Agincourt	Professor	1425	2.8
+Scarborough--Rouge River	Gulam Mohamed (Ind.)	Scarborough	High School Teacher	368	0.7
+Scarborough--Rouge River	David Kenny (Libert.)	Scarborough	Sheet Metal Worker	350	0.7
+Scarborough--Rouge River	Chai Kalevar (Nat.)	Toronto	Engineer/Consultan/businessman	286	0.6
+Scarborough--Rouge River	Loucas CafÇ (N.L.P.)	Scarborough	High School Teacher	233	0.5
+Scarborough--Rouge River	Eric J. Brewer (Abol.)	Scarborough	Student	69	0.1
+Scarborough West/Scarborough-Ouest	Tom Wappel (Lib.)	Scarborough	Member of Parliament	21335	54.4
+Scarborough West/Scarborough-Ouest	Aubrey Millard (R.P.)	Toronto	Teacher	8314	21.2
+Scarborough West/Scarborough-Ouest	Reg Stackhouse (P.C.)	Bracebridge	Professor	5664	14.5
+Scarborough West/Scarborough-Ouest	Steve Thomas (N.D.P.)	Toronto	Fundraiser	2771	7.1
+Scarborough West/Scarborough-Ouest	Greg Gogan (Nat.)	Toronto	Political Organizer	578	1.5
+Scarborough West/Scarborough-Ouest	Jim MacLeod (G.P.)	Scarborough	Registered Nurse	276	0.7
+Scarborough West/Scarborough-Ouest	Ron Robins (N.L.P.)	Toronto	Business Consultant	212	0.5
+Scarborough West/Scarborough-Ouest	Alfred Morton (Abol.)	Scarborough	Draftsperson	40	0.1
+Trinity--Spadina	Tony Ianno (Lib.)	Toronto	Small Business Person	20472	51.0
+Trinity--Spadina	Winnie Ng (N.D.P.)	Toronto	Community Worker	10972	27.3
+Trinity--Spadina	Lee Monaco (P.C.)	Toronto	Lawyer	3242	8.1
+Trinity--Spadina	Peter Loftus (R.P.)	Toronto	Retired Businessman	3143	7.8
+Trinity--Spadina	Patrick Kutney (Nat.)	Toronto	Postal Clerk	912	2.3
+Trinity--Spadina	Chris Lea (G.P.)	Toronto	Architect	613	1.5
+Trinity--Spadina	Ashley James Deans (N.L.P.)	Fairfield	University Professor	398	1.0
+Trinity--Spadina	Paul Barker (Libert.)	Toronto	Printer	290	0.7
+Trinity--Spadina	Fernand Deschamps (M.-L.)	Etobicoke	Student	77	0.2
+Trinity--Spadina	Robert Martin (Abol.)	Toronto	Choreographer	58	0.1
+Willowdale	Jim Peterson (Lib.)	Toronto	Lawyer	28622	61.3
+Willowdale	John Oostrom (P.C.)	Vaughan	Consultant	7843	16.8
+Willowdale	Gerry Welbourn (R.P.)	Newmarket	Sales Manager	7108	15.2
+Willowdale	Mary Maron (N.D.P.)	North York	Homemaker	1687	3.6
+Willowdale	Shelley Goldstein (Nat.)	Toronto	Performer	681	1.5
+Willowdale	Tom Salsberg (G.P.)	Willowdale	Workshop Facilitator	285	0.6
+Willowdale	Mike Dubinsky (N.L.P.)	North York	Finance Adminstrator	249	0.5
+Willowdale	Owen Smith (Ind.)	Thornhill	Businessman	203	0.4
+Willowdale	JeweEL McKenzie (Abol.)	Willowdale	Homemaker	42	0.1
+York Centre/York-Centre	Art Eggleton (Lib.)	Toronto	Consultant	27128	69.7
+York Centre/York-Centre	Peter Li Preti (Ind.)	North York	Psychologist	3953	10.2
+York Centre/York-Centre	George Tsiolis (P.C.)	Richmond Hill	Student at Law	2684	6.9
+York Centre/York-Centre	John Beck (R.P.)	Scarborough	Limo Driver	2140	5.5
+York Centre/York-Centre	Israel Ellis (N.D.P.)	Willowdale	Self Employed	1559	4.0
+York Centre/York-Centre	Kurt Loeb (Nat.)	Downsview	Merchant/Author	737	1.9
+York Centre/York-Centre	Linda DubÇ (N.L.P.)	Scarborough	Cashier	236	0.6
+York Centre/York-Centre	Alan Jones (G.P.)	North York	Teaching Assistant	210	0.5
+York Centre/York-Centre	Douglas Quinn (Libert.)	Toronto	Office Worker	174	0.5
+York Centre/York-Centre	Diane Johnston (M.-L.)	Toronto	Office Worker	81	0.2
+York Centre/York-Centre	Randy Armour (Abol.)	Willowdale	Registration Officer	49	0.1
+York South--Weston/York-Sud--Weston	John Nunziata (Lib.)	Etobicoke	Lawyer	25150	70.1
+York South--Weston/York-Sud--Weston	Kathleen Crone (R.P.)	City of York	Florist	5313	14.8
+York South--Weston/York-Sud--Weston	Tony Figliano (P.C.)	Toronto	Consultant	2508	7.0
+York South--Weston/York-Sud--Weston	Sil Salvaterra (N.D.P.)	York	Articling Student	1971	5.5
+York South--Weston/York-Sud--Weston	Greg W. Roberts (N.L.P.)	Toronto	Truck Driver	276	0.8
+York South--Weston/York-Sud--Weston	Roma Kelembet (Libert.)	Toronto	Self Employed	269	0.8
+York South--Weston/York-Sud--Weston	Phillip Scott Carter (Abol.)	Toronto	Gaming Assistant	91	0.3
+York South--Weston/York-Sud--Weston	Felix Duda (Com'lth)	Toronto	Retired	81	0.2
+York South--Weston/York-Sud--Weston	Peter Hones (NIL)	Toronto	Sen. Child/Youth Worker	78	0.2
+York South--Weston/York-Sud--Weston	Heather Robertson (M.-L.)	Toronto	Production Manager	68	0.2
+York South--Weston/York-Sud--Weston	Danny Red Goldstick (NIL)	Toronto	University Lecturer	62	0.2
+York West/York-Ouest	Sergio Marchi (Lib.)	North York	Member of Parliament	25396	79.8
+York West/York-Ouest	Bruce A. Castleman (R.P.)	Etobicoke	Law Clerk	3385	10.6
+York West/York-Ouest	Marguerite Bebluk (P.C.)	Toronto	Teacher	1506	4.7
+York West/York-Ouest	Rosanne Giulietti (N.D.P.)	Toronto	Lawyer	1074	3.4
+York West/York-Ouest	Claudio Paolini (N.L.P.)	Etobicoke	Brokerage Manager	209	0.7
+York West/York-Ouest	Jean-Paul BÇdard (M.-L.)	Toronto	Teacher	164	0.5
+York West/York-Ouest	Ljiljana Medjedovic (Abol.)	Toronto	Lab Assistant	79	0.3				
+Brandon--Souris	Glen McKinnon (Lib.)	Virden	Retired School Principal	12130	33.0
+Brandon--Souris	Edward George Agnew (R.P.)	Winnipeg	Dentist	11163	30.4
+Brandon--Souris	Larry Maguire (P.C.)	Elgin	Farmer	8236	22.4
+Brandon--Souris	Ross C. Martin (N.D.P.)	Brandon	Technical Assistant II	4359	11.9
+Brandon--Souris	Abe Neufeld (C.H.P.)	Whitewater	Minister of the Gospel	339	0.9
+Brandon--Souris	Eldon Obach (Nat.)	Elkhorn	Farm Equipment Salesman	336	0.9
+Brandon--Souris	Robert Roberts (N.L.P.)	Winnipeg	Social Worker	112	0.3
+Brandon--Souris	George H. Armstrong (C.P.)	Virden	Journalist	82	0.2
+Churchill	Elijah Harper (Lib.)	Red Sucker Lake	Consultant	9658	40.7
+Churchill	Rod Murphy (N.D.P.)	Thompson	Politician\Parliamentarian	8751	36.9
+Churchill	Don Knight (P.C.)	The Pas	Lawyer	2438	10.3
+Churchill	Wally Daudrich (R.P.)	L.G.D./Churchill	Tour Bus Operator	2275	9.6
+Churchill	Charles Settee (Nat.)	Thompson	Business Executive	590	2.5
+Dauphin--Swan River	Marlene Cowling (Lib.)	Grandview	Farmer	10600	31.7
+Dauphin--Swan River	Dale Brown (R.P.)	Russell	Businessman	9865	29.5
+Dauphin--Swan River	Stan Struthers (N.D.P.)	Rorketon	School Principal	7412	22.2
+Dauphin--Swan River	Bill Galloway (P.C.)	Kenville	Farmer/Businessman	5267	15.8
+Dauphin--Swan River	Tony Riley (C.P.)	Strathclair	Farming	260	0.8
+Lisgar--Marquette	Jake E. Hoeppner (R.P.)	Pembina	Semi-Retired Farmer	13385	41.0
+Lisgar--Marquette	Grant Johnson (Lib.)	Neepawa	Retired Accountant	8732	26.8
+Lisgar--Marquette	Charlie Mayer (P.C.)	South Cypress	Farmer	7833	24.0
+Lisgar--Marquette	Leslie King (N.D.P.)	Swan Lake	Minister	1808	5.5
+Lisgar--Marquette	Martin Dewit (C.H.P.)	Dufferin	Construction	399	1.2
+Lisgar--Marquette	Larry Jeffers (Nat.)	Graysville	Farmhand	355	1.1
+Lisgar--Marquette	Roy Lyall (C.P.)	Portage	Farmer	115	0.4
+Portage--Interlake	Jon Gerrard (Lib.)	Headingley	Physician-Scientist	14506	40.7
+Portage--Interlake	Don Sawatsky (R.P.)	Oak Bluff	Businessman	9801	27.5
+Portage--Interlake	Felix Holtmann (P.C.)	Rosser	Politician	7036	19.7
+Portage--Interlake	Connie Gretsinger (N.D.P.)	Portage La Prarie	Registered Nurse	3029	8.5
+Portage--Interlake	Mel Christian (Nat.)	Woodlands	Manufacturer	935	2.6
+Portage--Interlake	Gary Schwartz (N.L.P.)	St. Claude	Self Employed Farrier	179	0.5
+Portage--Interlake	Dennis Rice (Libert.)	MacDonald	Farmer	92	0.3
+Portage--Interlake	Hans C. Kjear (C.P.)	Stonewall	Farmer	83	0.2
+Provencher	David Iftody (Lib.)	L.G.D. of Alexander	Business advisor	16119	44.0
+Provencher	Dean Waldon Whiteway (R.P.)	Kleefeld	Administrator	13463	36.8
+Provencher	Kelly Clark (P.C.)	Morris	Development Officer	3765	10.3
+Provencher	Martha Wiebe Owen (N.D.P.)	Pinawa	Housewife	1818	5.0
+Provencher	Wes Penner (Nat.)	Tache	Computer Consultant	1212	3.3
+Provencher	Corrine Ayotte (N.L.P.)	Winnipeg	Self Employed	157	0.4
+Provencher	Ted Bezan (C.P.)		Retired	69	0.2
+St. Boniface/Saint-Boniface	Ronald J. Duhamel (Lib.)	Winnipeg	Member of Parliament	30042	63.4
+St. Boniface/Saint-Boniface	Alison Anderson (R.P.)	Winnipeg	Sales	7960	16.8
+St. Boniface/Saint-Boniface	Barbara Thompson (P.C.)	Winnipeg	Registered Nurse	3404	7.2
+St. Boniface/Saint-Boniface	Pauline Dupont (N.D.P.)	Winnipeg	Agent D'immeuble	3364	7.1
+St. Boniface/Saint-Boniface	Marcelle Marion (Nat.)	St. Boniface	Public Administrator	2008	4.2
+St. Boniface/Saint-Boniface	Don Dumesnil (C.P.)	Winnipeg	Self Employed	329	0.7
+St. Boniface/Saint-Boniface	Ginette Robert (N.L.P.)	Winnipeg	Registered Nurse	251	0.5
+St. Boniface/Saint-Boniface	Sharon Segal (M.-L.)	Winnipeg	Researcher/Writer	59	0.1
+Selkirk--Red River	Ron Fewchuk (Lib.)	Selkirk	Self Employed	16003	32.9
+Selkirk--Red River	Jason E. Schreyer (N.D.P.)	East St. Paul		12515	25.7
+Selkirk--Red River	Terry Lewis (R.P.)	North Kildonan	Educational Consultant	12412	25.5
+Selkirk--Red River	David Bjornson (P.C.)	Selkirk	Member of Parliament	5687	11.7
+Selkirk--Red River	Jim Slobodzian (Nat.)	Winnipeg	Asst. Director Marketing/Comm	1402	2.9
+Selkirk--Red River	Eric Truijen (C.H.P.)	Winnipeg	Professional Firefighter	400	0.8
+Selkirk--Red River	Rose Marie Papetti (N.L.P.)	Winnipeg	Educator	179	0.4
+Selkirk--Red River	Ken Carver (C.P.)	Winnipeg	Railroad Worker	79	0.2
+Winnipeg North/Winnipeg-Nord	Rey D. Pagtakhan (Lib.)	Winnipeg	Politician/Physician	22220	51.3
+Winnipeg North/Winnipeg-Nord	Judy Wasylycia-Leis (N.D.P.)	Winnipeg	Legislator	13740	31.7
+Winnipeg North/Winnipeg-Nord	Mike Wiens (R.P.)	Winnipeg	Small Business Owner	4150	9.6
+Winnipeg North/Winnipeg-Nord	Lynn Filbert (P.C.)	Winnipeg	Self-employed	2001	4.6
+Winnipeg North/Winnipeg-Nord	Anna Polonyi (Nat.)	East St. Paul	Lecturer	772	1.8
+Winnipeg North/Winnipeg-Nord	Federico Papetti (N.L.P.)	Winnipeg	Mechanic	212	0.5
+Winnipeg North/Winnipeg-Nord	Joe Lynch (C.P.)	Winnipeg	Musician	135	0.3
+Winnipeg North/Winnipeg-Nord	Mary Stanley (NIL)	Winnipeg	Teacher Aide	110	0.3
+Winnipeg North Centre/Winnipeg-Nord-Centre	David Walker (Lib.)	Winnipeg	Professor	13905	50.2
+Winnipeg North Centre/Winnipeg-Nord-Centre	Maureen Hemphill (N.D.P.)	Anola	Cross Cultural Trainer	8933	32.2
+Winnipeg North Centre/Winnipeg-Nord-Centre	Reg Smith (R.P.)	Winnipeg	Retired Businessman	2275	8.2
+Winnipeg North Centre/Winnipeg-Nord-Centre	Leslie Zegalski (P.C.)	Winnipeg	Market Researcher	1307	4.7
+Winnipeg North Centre/Winnipeg-Nord-Centre	Gene Domine (Nat.)	Winnipeg	Publications/Electronics	908	3.3
+Winnipeg North Centre/Winnipeg-Nord-Centre	Deborah Shelton (N.L.P.)	Winnipeg	Social Worker	176	0.6
+Winnipeg North Centre/Winnipeg-Nord-Centre	James Plewak (NIL)	Winnipeg	Student	117	0.4
+Winnipeg North Centre/Winnipeg-Nord-Centre	Cliff Besson (C.P.)	Winnipeg	Landlord	97	0.4
+Winnipeg St. James	John Harvard (Lib.)	Winnipeg		21613	55.0
+Winnipeg St. James	Peter Blumenschein (R.P.)	Winnipeg	President (Winndell Homes)	8246	21.0
+Winnipeg St. James	Dave Schioler (P.C.)	Winnipeg	Lawyer	5094	13.0
+Winnipeg St. James	John Hutton (N.D.P.)	Winnipeg	Social Worker	2596	6.6
+Winnipeg St. James	Paul Reid (Nat.)	Winnipeg	Party Worker	1487	3.8
+Winnipeg St. James	Ron Decter (N.L.P.)	Winnipeg	Educational Administrator	155	0.4
+Winnipeg St. James	Guy Pickell (NIL)	Winnipeg	Broadcaster	58	0.2
+Winnipeg St. James	Glenn Michalchuk (M.-L.)	Winnipeg	Machinist	45	0.1
+Winnipeg St. James	Bjarne Aasland (C.P.)	Winnipeg	Musician/Piano Technician	38	0.1
+Winnipeg South/Winnipeg-Sud	Reg Alcock (Lib.)	Winnipeg	Former MLA for Osborne Const.	25950	49.6
+Winnipeg South/Winnipeg-Sud	Mark Hughes (R.P.)	Winnipeg	Minister	14822	28.3
+Winnipeg South/Winnipeg-Sud	Dorothy Dobbie (P.C.)	Winnipeg	Politician	6432	12.3
+Winnipeg South/Winnipeg-Sud	Shirley Loewen (Nat.)	Winnipeg	Political Party Organizer	2512	4.8
+Winnipeg South/Winnipeg-Sud	Rose Buss (N.D.P.)	Winnipeg	Organizer	2180	4.2
+Winnipeg South/Winnipeg-Sud	Richard Lepinsky (N.L.P.)	Winnipeg	Insurance & Real Estate Broker	197	0.4
+Winnipeg South/Winnipeg-Sud	Mike Olito (Ind.)	Richot	Industrialist	113	0.2
+Winnipeg South/Winnipeg-Sud	Rubin Kantorovich (M.-L.)	Winnipeg	Electronic Technician	68	0.1
+Winnipeg South/Winnipeg-Sud	Bill Martens (C.P.)	Winnipeg	Lawyer	44	0.1
+Winnipeg South Centre/Winnipeg-Sud-Centre	Lloyd Axworthy (Lib.)	Winnipeg	Member of Parliment	25881	61.4
+Winnipeg South Centre/Winnipeg-Sud-Centre	Vern A. Hannah (R.P.)	Winnipeg	Education Administrator	5288	12.6
+Winnipeg South Centre/Winnipeg-Sud-Centre	Mike Radcliffe (P.C.)	Winnipeg	Lawyer	3903	9.3
+Winnipeg South Centre/Winnipeg-Sud-Centre	Lloyd Penner (N.D.P.)	Winnipeg	Student	3512	8.3
+Winnipeg South Centre/Winnipeg-Sud-Centre	Bill Loewen (Nat.)	Winnipeg	Business Person	3099	7.4
+Winnipeg South Centre/Winnipeg-Sud-Centre	Elizabeth Innes (N.L.P.)	Winnipeg	Pharmacist	225	0.5
+Winnipeg South Centre/Winnipeg-Sud-Centre	Clancy Smith (Libert.)	Winnipeg	Retired	89	0.2
+Winnipeg South Centre/Winnipeg-Sud-Centre	Karen Naylor (NIL)	Winnipeg	Union Representantive	76	0.2
+Winnipeg South Centre/Winnipeg-Sud-Centre	Ben J. Fulawka (C.P.)	Winnipeg	Superintendent	54	0.1
+Winnipeg Transcona	Bill Blaikie (N.D.P.)	Winnipeg	Clergyman	16074	38.9
+Winnipeg Transcona	Art Miki (Lib.)	Winnipeg	School Prinicipal	15855	38.3
+Winnipeg Transcona	Helen Sterzer (R.P.)	Winnipeg	Retired	5829	14.1
+Winnipeg Transcona	Brett Eckstein (P.C.)	Winnipeg	Aerospace Consultant	2112	5.1
+Winnipeg Transcona	Marnie Johnston (Nat.)	Winnipeg	Articling Student at Law	900	2.2
+Winnipeg Transcona	Robert Scott (C.H.P.)	Winnipeg	Locomotive Engineer	362	0.9
+Winnipeg Transcona	Geoff Danyluk (N.L.P.)	Winnipeg	Drywall Contractor	150	0.4
+Winnipeg Transcona	Ken Kalturnyk (M.-L.)	Winnipeg	Machinist	42	0.1
+Winnipeg Transcona	Bill Tataryn (C.P.)	Winnipeg	Retired Policeman	39	0.1			
+Kindersley--Lloydminster	Elwin Hermanson (R.P.)	Beechy	FARMER	12292	40.5
+Kindersley--Lloydminster	Judy Setrakov (Lib.)	LLoydminster	Lawyer	8456	27.8
+Kindersley--Lloydminster	Elizabeth Thomas (N.D.P.)	Vanscoy	Market Gardener	4981	16.4
+Kindersley--Lloydminster	J. S. Jack Sandberg (P.C.)	Kindersley	Retired	4134	13.6
+Kindersley--Lloydminster	Rick Barsky (Nat.)	Saskatoon	Photofinisher	392	1.3
+Kindersley--Lloydminster	Emanuel Fahlman (C.P.)	Regina	Farmer	134	0.4
+Mackenzie	Vic Althouse (N.D.P.)	Kelvington	Farmer	9438	31.1
+Mackenzie	Brian Maurice Fitzpatrick (R.P.)	Nipawin	Lawyer	8200	27.1
+Mackenzie	Garfield Lutz (Lib.)	Mistatim	Farmer	8078	26.7
+Mackenzie	Sherwin Petersen (P.C.)	Rose Valley	Farmer	3882	12.8
+Mackenzie	Ken Goudy (C.H.P.)	Melfort	Businessman	599	2.0
+Mackenzie	Tony Panas (C.P.)	Prince Albert	Care taker	112	0.4
+Moose Jaw--Lake Centre	Allan Kerpan (R.P.)	Kenaston	Farmer	10432	30.3
+Moose Jaw--Lake Centre	Rod Laporte (N.D.P.)	Moose Jaw	Lawyer	10122	29.4
+Moose Jaw--Lake Centre	John Morris (Lib.)	Mosse Jaw	Researcher	9354	27.2
+Moose Jaw--Lake Centre	Bill Gottselig (P.C.)	Outlook	Farmer	4204	12.2
+Moose Jaw--Lake Centre	Jack Heilman (N.L.P.)	Moose Jaw	Contractor	158	0.5
+Moose Jaw--Lake Centre	Walton Eddy (C.P.)	Weyburn	Farmer	117	0.3
+Prince Albert--Churchill River/Prince-Albert--Churchill River	Gordon Kirkby (Lib.)	Prince Albert	Mayor	11601	38.6
+Prince Albert--Churchill River/Prince-Albert--Churchill River	Raymond John Funk (N.D.P.)	Buckland	Adult Educator	9095	30.3
+Prince Albert--Churchill River/Prince-Albert--Churchill River	J. Paul Meagher (R.P.)	Christopher Lake	Plumber	5702	19.0
+Prince Albert--Churchill River/Prince-Albert--Churchill River	Rick V. Laliberte (NIL)	Beauval	Trustee	1575	5.2
+Prince Albert--Churchill River/Prince-Albert--Churchill River	Joyce Middlebrook (P.C.)	R.M. of Buckland	Real Estate Agent	1424	4.7
+Prince Albert--Churchill River/Prince-Albert--Churchill River	Brian Baker (Nat.)	Prince Albert	Aircraft Mechanic	445	1.5
+Prince Albert--Churchill River/Prince-Albert--Churchill River	Donald Kavanagh (C.P.)	Saskatoon	Farmer	125	0.4
+Prince Albert--Churchill River/Prince-Albert--Churchill River	Richard Arthur Potratz (NIL)	Prince Albert	Housing Management	80	0.3
+Regina--Lumsden	John Solomon (N.D.P.)	Regina	Businessman	12879	35.9
+Regina--Lumsden	Anita Bergman (Lib.)	Lumsden	Psychology Consultant/Potter	11854	33.0
+Regina--Lumsden	Jerry Boychuk (R.P.)	Regina	Businessman	7665	21.3
+Regina--Lumsden	Beattie Martin (P.C.)	Regina	Media Consultant	2668	7.4
+Regina--Lumsden	Nancy Penkala (Nat.)	Regina	Unemployed	779	2.2
+Regina--Lumsden	Frederick B. King (C.P.)	Regina	Contractor	80	0.2
+Regina--Qu'Appelle	Simon deJong (N.D.P.)	Regina	Businessman	11166	34.4
+Regina--Qu'Appelle	Reina Sinclair (Lib.)	Regina	Consultant	10091	31.1
+Regina--Qu'Appelle	Kerry Gray (R.P.)	Bulyea	Credit Union Manager	7317	22.6
+Regina--Qu'Appelle	Tom Hull (P.C.)	Balcarres	Farmer	3287	10.1
+Regina--Qu'Appelle	Jenny Watson (Nat.)	Regina	Student/Business Partner	394	1.2
+Regina--Qu'Appelle	Joseph A. Thauberger (C.P.)	Regina	Realtor	177	0.6
+Regina--Wascana	Ralph Goodale (Lib.)	Regina	Business Executive	19555	44.2
+Regina--Wascana	Donna Shire (N.D.P.)	Regina	Researcher	9394	21.2
+Regina--Wascana	Larry Schneider (P.C.)	Regina	Politician/Parliamentarian	6943	15.7
+Regina--Wascana	Andrew Jackson (R.P.)	Regina	Unemployed	6934	15.7
+Regina--Wascana	John Keen (Nat.)	Lajord	Farmer	734	1.7
+Regina--Wascana	C. Angus Hunt (N.L.P.)	Regina	Accountant	228	0.5
+Regina--Wascana	Hugh Owens (C.H.P.)	Regina	Corrections Officer	192	0.4
+Regina--Wascana	Barry James Farr (Ind.)	Lewvan	Businessman	189	0.4
+Regina--Wascana	Walter P. Sigda (C.P.)	Fillmore	Farmer	64	0.1
+Saskatoon--Clark's Crossing	Chris Axworthy (N.D.P.)	Saskatoon	Law Professor	12266	30.9
+Saskatoon--Clark's Crossing	Roy Norris (Lib.)	Saskatoon	Broadcaster	11200	28.2
+Saskatoon--Clark's Crossing	Frederick Wesolowski (R.P.)	Saskatoon	Police Officer	11149	28.0
+Saskatoon--Clark's Crossing	Peter McCann (P.C.)	Saskatoon	Businessman	4114	10.4
+Saskatoon--Clark's Crossing	Henry Garman (Nat.)	Grandora	Computer Graphic Artist	652	1.6
+Saskatoon--Clark's Crossing	Patrick James Coulterman (N.L.P.)	Saskatoon	Maintenance Supervisor	188	0.5
+Saskatoon--Clark's Crossing	Rhys Frostad (NIL)	Saskatoon	Pharmacist	114	0.3
+Saskatoon--Clark's Crossing	Shawn Cawley (C.P.)	Saskatoon	Truck Driver	77	0.2
+Saskatoon--Dundurn	Morris Bodnar (Lib.)	Saskatoon	Lawyer	14716	35.3
+Saskatoon--Dundurn	Ron Fisher (N.D.P.)	Saskatoon	Hoistman	11514	27.6
+Saskatoon--Dundurn	Eric Eugene Schenstead (R.P.)	Saskatoon	Estate Planner	10281	24.7
+Saskatoon--Dundurn	Donna L. Birkmaier (P.C.)	Saskatoon	Accountant	3726	8.9
+Saskatoon--Dundurn	Kateri Hellman Pino (Nat.)	Saskatoon	Communications Officer	784	1.9
+Saskatoon--Dundurn	Al Krieger (Ind.)	Saskatoon	General Foreman	310	0.7
+Saskatoon--Dundurn	LÇon Laforge (N.L.P.)	Saskatoon	Agricultural Technologist	205	0.5
+Saskatoon--Dundurn	Bob Lloyd (C.P.)	Saskatoon	Architect	81	0.2
+Saskatoon--Dundurn	Colleen Stanton (NIL)	Saskatoon	Homemaker	60	0.1
+Saskatoon--Humboldt	Georgette Sheridan (Lib.)	Saskatoon	Lawyer	12838	34.3
+Saskatoon--Humboldt	Bob Head (R.P.)	Saskatoon	Farmer-Consultant	11155	29.8
+Saskatoon--Humboldt	Barrett Halderman (N.D.P.)	Humboldt	Lawyer	8546	22.9
+Saskatoon--Humboldt	Tom Gossen (P.C.)	Waldheim	Businessman	3530	9.4
+Saskatoon--Humboldt	Larry Buhr (Nat.)	Saskatoon	Student	904	2.4
+Saskatoon--Humboldt	Dale L. Monson (N.L.P.)	Iowa, USA  52556	Educator	255	0.7
+Saskatoon--Humboldt	Bryan Sandberg (NIL)	Saskatoon	Engineering Technician	158	0.4
+Souris--Moose Mountain	Bernie Collins (Lib.)	Estevan	Retired Educator	10917	32.4
+Souris--Moose Mountain	Doug Heimlick (R.P.)	Moosomin	Businessman	10326	30.7
+Souris--Moose Mountain	Caroline Saxon (N.D.P.)	Estevan	Business Person	5541	16.5
+Souris--Moose Mountain	Earl Silcox (P.C.)	Kenosee Lake	Realtor & Businessman	5042	15.0
+Souris--Moose Mountain	Art Mainil (Ind.)	Weyburn	Farmer & Businessman	893	2.7
+Souris--Moose Mountain	David Davis (NIL)	Estevan	General Manager Farm Machinery	672	2.0
+Souris--Moose Mountain	David Bouchard (C.P.)	Fertile	Farmer	269	0.8
+Swift Current--Maple Creek--Assiniboia	Lee Morrison (R.P.)	Eastend	Farmer/Geologist	11486	34.9
+Swift Current--Maple Creek--Assiniboia	Rob Heinrichs (Lib.)	Swift Current	Lawyer	10661	32.4
+Swift Current--Maple Creek--Assiniboia	Lois Ross (N.D.P.)	Gravelbourg	Business Woman	5448	16.5
+Swift Current--Maple Creek--Assiniboia	Geoff Wilson (P.C.)	Swift Current	Politician	5119	15.6
+Swift Current--Maple Creek--Assiniboia	Shirley Wilson (N.L.P.)	Swift Current	Farmer-Retired	216	0.7
+The Battlefords--Meadow Lake	Len Taylor (N.D.P.)	North Battleford	Member of Parliament	9772	31.2
+The Battlefords--Meadow Lake	Delon Bleakney (R.P.)	Turtleford	Farmer	9043	28.9
+The Battlefords--Meadow Lake	Neil Currie (Lib.)	Turtleford	Retired	7364	23.5
+The Battlefords--Meadow Lake	Ken Cheveldayoff (P.C.)	Blaine Lake	Farmer/Business Person	4299	13.7
+The Battlefords--Meadow Lake	Leon W. ChrÇtien (NIL)	Saskatoon	Maintenance Engineer	609	2.0
+The Battlefords--Meadow Lake	Peter Franklin (C.P.)	Regina	Retired	202	0.7
+Yorkton--Melville	Garry Breitkreuz (R.P.)	Springside	Teacher	10605	32.7
+Yorkton--Melville	Jim Walters (Lib.)	Melville	Mayor	9531	29.4
+Yorkton--Melville	Lorne Nystrom (N.D.P.)	Yorkton	Teacher	9487	29.2
+Yorkton--Melville	Bob Reitenbach (P.C.)	Langenburg	Sales Manager	2825	8.7				
+Athabasca	Dave Chatters (R.P.)	Jarvie	Farmer	15350	47.1
+Athabasca	Lawrence Courtoreille (Lib.)	Fort McKay	Administrator	8020	24.6
+Athabasca	Jack Shields (P.C.)	Fort McMurray	Politician	6248	19.2
+Athabasca	Ian Thorn (N.D.P.)	Fort McMurray	Union Representative	2489	7.6
+Athabasca	Harvey A. Scott (G.P.)	Athabasca	Teacher/Farmer	312	1.0
+Athabasca	Roger Shapka (N.L.P.)	Edmonton	Machinist	195	0.6
+Beaver River	Deborah Grey (R.P.)	Heinsburg	Member of Parliament	17725	58.0
+Beaver River	Michael J. Zacharko (Lib.)	St. Paul	Farmer	7542	24.7
+Beaver River	Dave Broda (P.C.)	Redwater	Realtor	3854	12.6
+Beaver River	Eugene Houle (N.D.P.)	Saddle Lake	Management Consultant	1050	3.4
+Beaver River	Guy C. Germain (N.L.P.)	Edmonton	Student	294	1.0
+Beaver River	B.H. Bud Glenn (NIL)	Leduc	Business Owner	94	0.3
+Calgary Centre/Calgary-Centre	Jim Silye (R.P.)	Calgary	Businessman	22600	45.1
+Calgary Centre/Calgary-Centre	Bob Blair (Lib.)	Calgary	Professional Engineer	15157	30.2
+Calgary Centre/Calgary-Centre	Sean O'Neil (P.C.)	Calgary	Lawyer	7466	14.9
+Calgary Centre/Calgary-Centre	Catherine McCreary (N.D.P.)	Calgary	Lawyer	2149	4.3
+Calgary Centre/Calgary-Centre	Peter Hoff (Nat.)	Calgary	Arts Administrator	1743	3.5
+Calgary Centre/Calgary-Centre	Rebecca Matiowsky (G.P.)	Calgary	Student	484	1.0
+Calgary Centre/Calgary-Centre	Annie Anderson (N.L.P.)	Edmonton	Video Producer	355	0.7
+Calgary Centre/Calgary-Centre	Bruce Jackman (C.P.)	Calgary	Equipment Operator	92	0.2
+Calgary Centre/Calgary-Centre	Margaret Askin (M.-L.)	Calgary	Telephone Operator	91	0.2
+Calgary North/Calgary-Nord	Diane Ablonczy (R.P.)	Calgary	Lawyer	35508	52.5
+Calgary North/Calgary-Nord	James Maxim (Lib.)	Calgary	Landman	17899	26.4
+Calgary North/Calgary-Nord	Al Johnson (P.C.)	Calgary	Politician	10424	15.4
+Calgary North/Calgary-Nord	Andrea Garnier (N.D.P.)	Calgary	Archivist	1592	2.4
+Calgary North/Calgary-Nord	Mike Schubert (Nat.)	Calgary	Environmentalist	1361	2.0
+Calgary North/Calgary-Nord	Michael Alvarez-Toye (G.P.)	Calgary	Artist	343	0.5
+Calgary North/Calgary-Nord	Bruce Hansen (N.L.P.)	Calgary	Securities Broker	308	0.5
+Calgary North/Calgary-Nord	Robert McCallum (Ind.)	Calgary	Business Admin Consultant	268	0.4
+Calgary Northeast/Calgary-Nord-Est	Art Hanger (R.P.)	Calgary	Police Officer	20602	44.4
+Calgary Northeast/Calgary-Nord-Est	Colin MacDonald (Lib.)	Calgary	Lawyer	15011	32.3
+Calgary Northeast/Calgary-Nord-Est	David Aftergood (P.C.)	Calgary	Small Businessman	5229	11.3
+Calgary Northeast/Calgary-Nord-Est	Alex Kindy (NIL)	Calgary	Physician	3136	6.8
+Calgary Northeast/Calgary-Nord-Est	Ken Richmond (N.D.P.)	Calgary	Senior Maintance Technician	1310	2.8
+Calgary Northeast/Calgary-Nord-Est	Ray McLeod (Nat.)	Calgary	Freelance Writer/Photographer	853	1.8
+Calgary Northeast/Calgary-Nord-Est	Neeraj Varma (N.L.P.)	Calgary	Sales (Realtor)	175	0.4
+Calgary Northeast/Calgary-Nord-Est	Norm Norcross (G.P.)	Calgary	Customs Rater	134	0.3
+Calgary Southeast/Calgary-Sud-Est	Jan Brown (R.P.)	Calgary	Business Management-Self Emplo	33564	59.9
+Calgary Southeast/Calgary-Sud-Est	Lee Richardson (P.C.)	Calgary	Politician	11287	20.1
+Calgary Southeast/Calgary-Sud-Est	Quoi Nguyen (Lib.)	Calgary	Doctor of Engineering	7642	13.6
+Calgary Southeast/Calgary-Sud-Est	Neale Smith (N.D.P.)	Calgary	Student	1888	3.4
+Calgary Southeast/Calgary-Sud-Est	Jocelyne Wandler (Nat.)	Calgary	Information Analyst	1111	2.0
+Calgary Southeast/Calgary-Sud-Est	Maureen Doram (N.L.P.)	Calgary	Sales Manager	443	0.8
+Calgary Southeast/Calgary-Sud-Est	Peter Hope (C.P.)	Calgary	Retired	148	0.3
+Calgary Southwest/Calgary-Sud-Ouest	Preston Manning (R.P.)	Calgary	Management Consultant	41630	61.2
+Calgary Southwest/Calgary-Sud-Ouest	Bobbie Sparrow (P.C.)	Calgary	Business person	12642	18.6
+Calgary Southwest/Calgary-Sud-Ouest	Bill Richards (Lib.)	Calgary	Businessman	11087	16.3
+Calgary Southwest/Calgary-Sud-Ouest	Catherine Rose (N.D.P.)	Calgary	Chemist	1099	1.6
+Calgary Southwest/Calgary-Sud-Ouest	Lea Russell (Nat.)	Calgary	Dental Hygienist	910	1.3
+Calgary Southwest/Calgary-Sud-Ouest	Sol Candel (G.P.)	Calgary	Businessman	301	0.4
+Calgary Southwest/Calgary-Sud-Ouest	Ida Bugmann (N.L.P.)	Calgary	Artist-Poet	249	0.4
+Calgary Southwest/Calgary-Sud-Ouest	Miel S.R. Gabriel (Ind.)	Calgary	Businessman(Civil Engineer)	57	0.1
+Calgary Southwest/Calgary-Sud-Ouest	Darrell T. Rankin (NIL)	Ottawa	Researcher	28	0.0
+Calgary West/Calgary-Ouest	Stephen Harper (R.P.)	Calgary	Economist	30209	52.3
+Calgary West/Calgary-Ouest	Karen Gainer (Lib.)	Calgary	Lawyer	15314	26.5
+Calgary West/Calgary-Ouest	Jim Hawkes (P.C.)	Calgary	Professor	9090	15.7
+Calgary West/Calgary-Ouest	Rudy Rogers (N.D.P.)	Calgary	Accounting Consultant	1194	2.1
+Calgary West/Calgary-Ouest	Kathleen McNeil (Nat.)	Calgary	Student	1068	1.9
+Calgary West/Calgary-Ouest	Frank Haika (N.L.P.)	Calgary	Financial Advisor	483	0.8
+Calgary West/Calgary-Ouest	Don Francis (G.P.)	Ottawa	Educator	347	0.6
+Calgary West/Calgary-Ouest	Larry Heather (C.H.P.)	Calgary	Receiver	116	0.2
+Crowfoot	Jack Ramsay (R.P.)	Camrose	Business Consultant	23611	66.0
+Crowfoot	Brian Heidecker (P.C.)	Coronation	Rancher	6431	18.0
+Crowfoot	Darryl Sandford (Lib.)	Three Hills	Barber	4506	12.6
+Crowfoot	Berend J. Wilting (N.D.P.)	Edmonton	Steam Engineer	860	2.4
+Crowfoot	Alan J. Livingston (N.L.P.)	Calgary	Floor Trader (Alb. Stock Ex)	263	0.7
+Crowfoot	Anita Ashmore (NIL)	Edmonton	Business woman	114	0.3
+Edmonton East/Edmonton-Est	Judy Bethel (Lib.)	Edmonton		11922	33.0
+Edmonton East/Edmonton-Est	Linda Robertson (R.P.)	Edmonton	Home Economist	11807	32.6
+Edmonton East/Edmonton-Est	Ross Harvey (N.D.P.)	Edmonton	Researcher	7976	22.1
+Edmonton East/Edmonton-Est	Kevin Kovacs (P.C.)	Edmonton	Account Representative	2672	7.4
+Edmonton East/Edmonton-Est	Jim Musson (Nat.)	Edmonton	Writer	1049	2.9
+Edmonton East/Edmonton-Est	Cor Labots (C.H.P.)	Edmonton	Retired	231	0.6
+Edmonton East/Edmonton-Est	Paula Johnsen (N.L.P.)	Edmonton	Educational Consultant	212	0.6
+Edmonton East/Edmonton-Est	Ernst Eder (G.P.)	Edmonton	Restauranteur	171	0.5
+Edmonton East/Edmonton-Est	Peter Kiriaka (C.P.)	Edmonton	Financial Broker	80	0.2
+Edmonton East/Edmonton-Est	James Jacques (NIL)	Edmonton	Sales	51	0.1
+Edmonton North/Edmonton-Nord	John Loney (Lib.)	Edmonton	Businessman	19536	39.5
+Edmonton North/Edmonton-Nord	Ron Mix (R.P.)	Edmonton	Businessman	19334	39.1
+Edmonton North/Edmonton-Nord	Mitch Panciuk (P.C.)	Edmonton	Management Consultant	4592	9.3
+Edmonton North/Edmonton-Nord	Lori Hall (N.D.P.)	Edmonton	Politician	3427	6.9
+Edmonton North/Edmonton-Nord	Ed Agoto (Nat.)	Edmonton	Engineering Specialist	2174	4.4
+Edmonton North/Edmonton-Nord	Ria Kinzel (N.L.P.)	Edmonton	Teacher	256	0.5
+Edmonton North/Edmonton-Nord	Tim Formoe (C.P.)	Edmonton	Production Worker	103	0.2
+Edmonton North/Edmonton-Nord	Robert Vallee (NIL)	Edmonton	Self Employed	77	0.2
+Edmonton Northwest/Edmonton-Nord-Ouest	Anne McLellan (Lib.)	Edmonton	University Professor	12599	35.8
+Edmonton Northwest/Edmonton-Nord-Ouest	Richard Kayler (R.P.)	Edmonton	Businessman	12587	35.8
+Edmonton Northwest/Edmonton-Nord-Ouest	Mel Hurtig (Nat.)	Edmonton	Author	4507	12.8
+Edmonton Northwest/Edmonton-Nord-Ouest	Murray Dorin (P.C.)	Edmonton	Politician	3485	9.9
+Edmonton Northwest/Edmonton-Nord-Ouest	Stephanie Michaels (N.D.P.)	Edmonton	Information Officer	1671	4.8
+Edmonton Northwest/Edmonton-Nord-Ouest	Ric Johnsen (N.L.P.)	Edmonton	Education Consultant	186	0.5
+Edmonton Northwest/Edmonton-Nord-Ouest	Roger Swan (G.P.)	Edmonton	R.N.	119	0.3
+Edmonton Northwest/Edmonton-Nord-Ouest	Heide Zeeper (NIL)	Sherwood Park	Business Owner	41	0.1
+Edmonton Southeast/Edmonton-Sud-Est	David Kilgour (Lib.)	Edmonton	Politician	23129	46.2
+Edmonton Southeast/Edmonton-Sud-Est	Aurell Royer (R.P.)	Edmonton	High School Principal	19910	39.7
+Edmonton Southeast/Edmonton-Sud-Est	John Kurian (P.C.)	Edmonton	Research Scholar(P.H.D.in Law)	3203	6.4
+Edmonton Southeast/Edmonton-Sud-Est	Ken Ross (N.D.P.)	Edmonton	Exercise Physio. (unemployed)	1988	4.0
+Edmonton Southeast/Edmonton-Sud-Est	Janet Blond (Nat.)	Edmonton	Teacher	1457	2.9
+Edmonton Southeast/Edmonton-Sud-Est	Richard Shelford (N.L.P.)	Edmonton	Businessman	194	0.4
+Edmonton Southeast/Edmonton-Sud-Est	Ed Schell (G.P.)	Edmonton	Youth Worker	149	0.3
+Edmonton Southeast/Edmonton-Sud-Est	Michael Gushnowski (C.P.)	Edmonton	Self-Employed	78	0.2
+Edmonton Southwest/Edmonton-Sud-Ouest	Ian McClelland (R.P.)	Edmonton	Businessman	26582	45.5
+Edmonton Southwest/Edmonton-Sud-Ouest	Betty Macfarlan (Lib.)	Edmonton	Small Business Owner	19570	33.5
+Edmonton Southwest/Edmonton-Sud-Ouest	Jim Edwards (P.C.)	Edmonton	Broadcaster	9385	16.1
+Edmonton Southwest/Edmonton-Sud-Ouest	Colleen Glenn (N.D.P.)	Edmonton	Consultant	2148	3.7
+Edmonton Southwest/Edmonton-Sud-Ouest	Pat Simpson (N.L.P.)	Edmonton	Business Owner	447	0.8
+Edmonton Southwest/Edmonton-Sud-Ouest	Kevin Ashmore (NIL)	Edmonton	Businessman	269	0.5
+Edmonton Southwest/Edmonton-Sud-Ouest	Peggy Morton (M.-L.)	Edmonton	Hospital Worker	81	0.1
+Edmonton--Strathcona	Hugh Hanrahan (R.P.)	Edmonton	Teacher	19541	39.3
+Edmonton--Strathcona	Chris Peirce (Lib.)	Edmonton	Lawyer	19137	38.5
+Edmonton--Strathcona	Scott Thorkelson (P.C.)	Edmonton	Politician	5617	11.3
+Edmonton--Strathcona	Rita Egan (N.D.P.)	Edmonton	Project Coordinator	2513	5.1
+Edmonton--Strathcona	Adrian Greenwood (Nat.)	Edmonton	Retired Family Counsellor	2129	4.3
+Edmonton--Strathcona	Harry Garfinkle (G.P.)	Edmonton	Professor	286	0.6
+Edmonton--Strathcona	Maury Shapka (N.L.P.)	Edmonton	Owner/Mgr. Furniture Business	284	0.6
+Edmonton--Strathcona	Naomi Rankin (NIL)	Edmonton	Computer Programmer	92	0.2
+Edmonton--Strathcona	Oran K. Johnson (C.P.)	Sherwood Park	Financial Adviser	83	0.2
+Elk Island	Ken Epp (R.P.)	Sherwood Park	Instructor	25726	56.0
+Elk Island	Jean Boisvert (Lib.)	Sherwood Park	AGT - Service Mgr.	11589	25.3
+Elk Island	Brian O'Kurley (P.C.)	Ottawa	Educator	5714	12.5
+Elk Island	Steve Jacobs (N.D.P.)	Sherwood Park	Small Businessman	1296	2.8
+Elk Island	James Keith Steinhubl (Nat.)	Sherwood Park	Marketing & Ad. Consultant	1222	2.7
+Elk Island	Lorne Hoff (N.L.P.)	Sherwood Park	Business Consultant	242	0.5
+Elk Island	Gerry Averes (C.P.)	Ardrossan	Bus Driver	117	0.3
+Lethbridge	Ray Speaker (R.P.)	Lethbridge	Farmer	24530	52.6
+Lethbridge	John William McGee (Lib.)	Lethbridge	Software Designer	11870	25.5
+Lethbridge	Dean Lien (P.C.)	Warner	Farmer	7092	15.2
+Lethbridge	Carson Tannant (Nat.)	Magrath	Businessman	1586	3.4
+Lethbridge	Doug Petherbridge (N.D.P.)	Lethbridge	Retired Professor	1283	2.8
+Lethbridge	Cliff Kinzel (N.L.P.)	Edmonton	Research Technologist	247	0.5
+Macleod	Grant Hill (R.P.)	Okotoks	Physician & Surgeon	23828	63.3
+Macleod	Ken Hughes (P.C.)	High River	Businessman	6512	17.3
+Macleod	Roy Whitney (Lib.)	Calgary	Chief	6196	16.5
+Macleod	Susanne Abildgaard (N.D.P.)	Nanton	Businesswoman	712	1.9
+Macleod	Warren Smith (G.P.)	Calgary	Student	213	0.6
+Macleod	Gloria Hansen (N.L.P.)	Calgary	Educator	200	0.5
+Medicine Hat	Monte Solberg (R.P.)	Brooks	Businessman	22439	54.7
+Medicine Hat	Glenn Ennis (Lib.)	Redcliff	Instructor/Admn., College	8555	20.9
+Medicine Hat	Bill Wyse (P.C.)	Medicine Hat	Co-ordinator - Senior Citizens	6934	16.9
+Medicine Hat	Allan Hunt (N.D.P.)	Medicine Hat	Retired	1832	4.5
+Medicine Hat	Ivor Ottrey (C.H.P.)	Medicine Hat	Minister of Religion	989	2.4
+Medicine Hat	Jack Hopkins (C.P.)	Burdett	Farmer	262	0.6
+Peace River	Charlie Penson (R.P.)	Sexsmith	Farmer	25761	60.2
+Peace River	Joshua Phillpotts (Lib.)	Edmonton	Parish Priest/Ins. Agent	6629	15.5
+Peace River	Alan Y. Tanaka (P.C.)	High Level	Senior Administrator	6144	14.4
+Peace River	Jacquie Gaboury (N.D.P.)	Grande Prairie	Social Worker	2344	5.5
+Peace River	David Ridgeway (Nat.)	Grande Prairie	Business Man	1656	3.9
+Peace River	Roni Shapka (N.L.P.)	Edmonton	Sales/Manufacturing Manager	241	0.6
+Red Deer	Bob Mills (R.P.)	Red Deer	Businessman	31876	64.8
+Red Deer	Doug Fee (P.C.)	Innisfall	Politician	8006	16.3
+Red Deer	Dobie To (Lib.)	Red Deer	Restauranteur	6614	13.4
+Red Deer	Karen Mc Laren (N.D.P.)	Red Deer	Pet Groomer	1313	2.7
+Red Deer	Joan Hepburn (Nat.)	Red Deer	Office Manager	1074	2.2
+Red Deer	Ken Arnold (N.L.P.)	Red Deer	Computer Consultant	297	0.6
+St. Albert/St-Albert	John Williams (R.P.)	Morinville	Accountant	24964	50.9
+St. Albert/St-Albert	Jack Jeffery (Lib.)	St. Albert	Chartered Accountant	13860	28.3
+St. Albert/St-Albert	Jerry Manegre (P.C.)	St. Albert	Manager	5884	12.0
+St. Albert/St-Albert	Steven Powers (Nat.)	St. Albert	Insurance Adjuster	2219	4.5
+St. Albert/St-Albert	Zahid Makhdoom (N.D.P.)	St. Albert	Social Worker	1435	2.9
+St. Albert/St-Albert	Rudy Penner (C.H.P.)	Edmonton	Electronic Technologist	294	0.6
+St. Albert/St-Albert	Richard Day (N.L.P.)	Edmonton	Video Production Technician	257	0.5
+St. Albert/St-Albert	Jennifer Vallee (NIL)	Edmonton	Accountant	90	0.2
+Vegreville/VÇgrÇville	Leon E. Benoit (R.P.)	Mannville	Farmer	19732	54.7
+Vegreville/VÇgrÇville	Roger Lehr (P.C.)	Wainwright	Businessman	8180	22.7
+Vegreville/VÇgrÇville	Ed Wieclaw (Lib.)	Vegreville	Economic Development Officer	5610	15.6
+Vegreville/VÇgrÇville	Terry Zawalski (N.D.P.)	Edmonton	Manager	1175	3.3
+Vegreville/VÇgrÇville	Alex Ziniewicz (Nat.)	Myrnam	Retired	562	1.6
+Vegreville/VÇgrÇville	Les Parsons (Ind.)	Vermilion	Student Recreation Coordinator	456	1.3
+Vegreville/VÇgrÇville	Katherine Emilia Fisher (N.L.P.)	Improve. District#14	Self-Employed	191	0.5
+Vegreville/VÇgrÇville	Valerie Morrow (NIL)	Vegreville	School Teacher	141	0.4
+Wetaskiwin	Dale Johnston (R.P.)	Ponoka	Farmer	26210	63.4
+Wetaskiwin	Doug Sirrs (Lib.)	Wetaskiwin	Lawyer	6914	16.7
+Wetaskiwin	Brian Rhiness (P.C.)	Wetaskiwin	Agrologist	6124	14.8
+Wetaskiwin	Clifford Reid (N.D.P.)	Leduc	Retired	1475	3.6
+Wetaskiwin	David M. Greene (C.P.)	Wetaskiwin	Self Employed/Sales	335	0.8
+Wetaskiwin	Randy Fritz (N.L.P.)	Edmonton	Business Owner/Consultant	274	0.7
+Wild Rose	Myron Thompson (R.P.)	Sundre	Teacher, Retired	30986	63.8
+Wild Rose	Louise Feltham (P.C.)	Calgary	Business Woman	7542	15.5
+Wild Rose	Roy Shellnutt (Lib.)	Calgary	Lawyer	6902	14.2
+Wild Rose	Anne Wilson (N.D.P.)	Canmore	Landscape Gardener	1067	2.2
+Wild Rose	Stuart Hughes (Nat.)	Calgary	Independent Business Person	809	1.7
+Wild Rose	Michael Leslie (Ind.)	Banff	Waiter	562	1.2
+Wild Rose	Scott Chisholm Lamont (G.P.)	Banff	Registered Nurse	457	0.9
+Wild Rose	Dale Doram (N.L.P.)	Calgary	Consultant	204	0.4
+Wild Rose	Dave Strang (NIL)	Olds	Self-employed Welder	80	0.2
+Yellowhead	Cliff Breitkreuz (R.P.)	Onoway	Agricultural Cmds. Prod.Farmer	22790	55.0
+Yellowhead	John Higgerty (Lib.)	Hinton	Crown Prosecutor	8964	21.7
+Yellowhead	Marilyn Stecyk (P.C.)	Jasper	Political Advisor	5799	14.0
+Yellowhead	Joe Woytowich (N.D.P.)	Entwistle	Public Relations Consultant	1811	4.4
+Yellowhead	Alex S. Mann (Nat.)	County of Parkland #31	Oilfield Rig Mechanic	1147	2.8
+Yellowhead	Peter Piers (C.H.P.)	Neerlandia	Farmer	441	1.1
+Yellowhead	Dennis Ronald Michaelchuk (N.L.P.)	Edmonton	Research Project Manager	251	0.6
+Yellowhead	Douglas Bruce Pederson (Ind.)	Whitecourt	Computer Programmer	202	0.5				
+Burnaby--Kingsway	Svend J. Robinson (N.D.P.)	Burnaby	Member of Parliament	18273	34.2
+Burnaby--Kingsway	Kwangyul Peck (Lib.)	Burnaby	Economist	14056	26.3
+Burnaby--Kingsway	John Carpay (R.P.)	Burnaby	Businessman	13389	25.0
+Burnaby--Kingsway	Adele Haines (P.C.)	Burnaby	Radiographer	5327	10.0
+Burnaby--Kingsway	Daniel Fontaine (Nat.)	Burnaby	Immigration Officer	1493	2.8
+Burnaby--Kingsway	Carlo Nigro (Libert.)	Burnaby	Investment Advisor	378	0.7
+Burnaby--Kingsway	Deborah Rubin (N.L.P.)	Vancouver	Business Administrator	270	0.5
+Burnaby--Kingsway	Poldi Meindl (Ind.)	Burnaby	Consultant	119	0.2
+Burnaby--Kingsway	Mike Milkovich (Com'lth)	Burnaby	Brewery Production Manager	117	0.2
+Burnaby--Kingsway	Byrun F. Tylor (NIL)	Burnaby	Author	51	0.1
+Burnaby--Kingsway	Joseph Theriault (M.-L.)	Vancouver	Residential Councillor	39	0.1
+Capilano--Howe Sound	Herb Grubel (R.P.)	North Vancouver	Professor of Economics	19259	42.0
+Capilano--Howe Sound	Audrey Sojonky (Lib.)	West Vancouver	Business Woman	14606	31.8
+Capilano--Howe Sound	Mary Collins (P.C.)		Politician/Parliamentarian	8130	17.7
+Capilano--Howe Sound	Sandra Bauer (N.D.P.)	Squamish	Registered Nurse	1529	3.3
+Capilano--Howe Sound	Doris Fuller (Nat.)	Gibsons	Retired(Teacher/Librarian)	1467	3.2
+Capilano--Howe Sound	Peggy Stortz (G.P.)	West Vancouver	Songwriter	448	1.0
+Capilano--Howe Sound	William Alexander Cameron (N.L.P.)	North Vancouver	Chiropractor	274	0.6
+Capilano--Howe Sound	Audrey Ashley (NIL)	North Vancouver	Retired	105	0.2
+Capilano--Howe Sound	Bill Tomlinson (Libert.)	North Vancouver	Plumber	77	0.2
+Capilano--Howe Sound	Rolf A.F. Witzsche (Com'lth)	North Vancouver	Retired	15	0.0
+Cariboo--Chilcotin	Philip William Mayfield (R.P.)	Williams Lake	Ordained Minister	11510	36.4
+Cariboo--Chilcotin	Barry Lorne Nordin (Lib.)	Quesnel	Lawyer	8461	26.8
+Cariboo--Chilcotin	Dave Worthy (P.C.)	Williams Lake	Politicain/Parliamentarian	7050	22.3
+Cariboo--Chilcotin	Gillian MacDonald (N.D.P.)	Williams Lake	Business Person	3286	10.4
+Cariboo--Chilcotin	Richard Lawrence Bennett (Nat.)	Ashcroft	Band Administrator	537	1.7
+Cariboo--Chilcotin	Bob Hampton (C.P.)	Likely	Logger/Miner	315	1.0
+Cariboo--Chilcotin	Teresa Gillen (N.L.P.)	Cache Creek	Student	222	0.7
+Cariboo--Chilcotin	Donald Stuart Rennie (G.P.)	Lillooet	Farmer/gardener/student	206	0.7
+Comox--Alberni	Bill Gilmour (R.P.)	Nanoose Bay	Professional Forester	25000	44.2
+Comox--Alberni	Lonnie W. Hindle (Lib.)	Qualicum Beach	Consultant	11534	20.4
+Comox--Alberni	Bob Skelly (N.D.P.)	Port Alberni	Member of Parliament	9365	16.6
+Comox--Alberni	Mike Hicks (P.C.)	Bamfield	Business Person	5461	9.7
+Comox--Alberni	Ernest Daley (Nat.)	Courtenay	Asst.Manager of Fishing Resort	3283	5.8
+Comox--Alberni	Richard Porter (G.P.)	Courtenay	Businessperson	1313	2.3
+Comox--Alberni	Kathleen Lapeyrouse (N.L.P.)	Tofino	Homemaker/Office Manager	299	0.5
+Comox--Alberni	Kenneth R. Foster (Ind.)	Merville	Retired	276	0.5
+Comox--Alberni	GÅenther Heinrich Smuda (C.P.)	Port Alberni	Bailiff	72	0.1
+Delta	John Cummins (R.P.)	Delta	Teacher/Fisherman	18289	38.2
+Delta	Karen Morgan (Lib.)	Delta	Freelance Editor	14609	30.5
+Delta	Stan Wilbee (P.C.)		Physician	10054	21.0
+Delta	Lloyd Macdonald (N.D.P.)	Delta	Writer/Researcher	2725	5.7
+Delta	John Waller (Nat.)	Delta	Research Chemist	1254	2.6
+Delta	Keith Gee (C.H.P.)	Delta	Marine Electrician	354	0.7
+Delta	Joan Buzik (N.L.P.)	Delta	Teacher	190	0.4
+Delta	Bryan Wagman (G.P.)	Vancouver	Self Employed	172	0.4
+Delta	Benjamin Brian Wolfe (Ind.)	Delta	Store Clerk	114	0.2
+Delta	Ryan Bigge (NIL)	Delta	Student	62	0.1
+Delta	Carollyne Tayler (NIL)	Vancouver	Graphic Artist	37	0.1
+Delta	Nevenka Kos (Com'lth)	White Rock	Retired	12	0.0
+Esquimalt--Juan de Fuca	Keith Martin (R.P.)	Mill Bay	Physician	16352	35.3
+Esquimalt--Juan de Fuca	Dave Barrett (N.D.P.)	Esquimalt	Broadcaster/Lecturer	12600	27.2
+Esquimalt--Juan de Fuca	Ross McKinnon (Lib.)	Victoria	Manager	9970	21.5
+Esquimalt--Juan de Fuca	Grace Holman (P.C.)	Victoria	Owner/Operator Bed & Breakfast	4582	9.9
+Esquimalt--Juan de Fuca	Dan W. Whetung (Nat.)	Victoria	Consultant	2214	4.8
+Esquimalt--Juan de Fuca	Don McCarthy (N.L.P.)	Victoria	General Building Contractor	426	0.9
+Esquimalt--Juan de Fuca	Louis J. Lesosky (NIL)	East Sooke	Handyman	98	0.2
+Esquimalt--Juan de Fuca	Alisen Oliver (C.P.)	Westbank	Business Woman/Farmer	97	0.2
+Fraser Valley East/Fraser Valley-Est	Chuck Strahl (R.P.)	Sardis	Logging Contractor	23494	45.9
+Fraser Valley East/Fraser Valley-Est	Hal Singleton (Lib.)	Chilliwack	Self Employed, Small Business	15782	30.8
+Fraser Valley East/Fraser Valley-Est	Ross Belsher (P.C.)	Abbotsford	Retail Management	6648	13.0
+Fraser Valley East/Fraser Valley-Est	Rollie Keith (N.D.P.)		Historian	2724	5.3
+Fraser Valley East/Fraser Valley-Est	Bill Boesterd (C.H.P.)	Sardis	Businessman	1158	2.3
+Fraser Valley East/Fraser Valley-Est	Ernie Pope (Nat.)	Abbotsford	Outdoor Power Products	851	1.7
+Fraser Valley East/Fraser Valley-Est	Richard Steven Kisby (G.P.)	Chilliwack	Service Technician	243	0.5
+Fraser Valley East/Fraser Valley-Est	Estelle Rachel Brooke (N.L.P.)	Vancouver	Nurse	205	0.4
+Fraser Valley East/Fraser Valley-Est	Croft Egan (C.P.)	Westbank	Driller-Blaster	67	0.1
+Fraser Valley West/Fraser Valley-Ouest	Randy White (R.P.)	Matsqui	C.M.A.	30667	49.1
+Fraser Valley West/Fraser Valley-Ouest	Peter Warkentin (Lib.)	Aldergrove	Business Owner	18447	29.5
+Fraser Valley West/Fraser Valley-Ouest	Donald Lyle Nundal (P.C.)	Langley	Lawyer	7135	11.4
+Fraser Valley West/Fraser Valley-Ouest	Lynn Fairall (N.D.P.)	Clearbrook	Consultant	3237	5.2
+Fraser Valley West/Fraser Valley-Ouest	Robert J. Billyard (Nat.)	Langley	Carpenter	1281	2.1
+Fraser Valley West/Fraser Valley-Ouest	Edward John Vanwoudenberg (C.H.P.)	Surrey	Executive Director	1036	1.7
+Fraser Valley West/Fraser Valley-Ouest	Terry Scarff (N.L.P.)	Langley	Teacher & Researcher	336	0.5
+Fraser Valley West/Fraser Valley-Ouest	Lewis C. Dahlby (Libert.)	Port Coquitlam	Businessman	245	0.4
+Fraser Valley West/Fraser Valley-Ouest	Conan Nagle (NIL)	East Vancouver	Carpenter	79	0.1
+Kamloops	Nelson Riis (N.D.P.)	Kamloops	Member of Parliament	16063	36.3
+Kamloops	Keith Raddatz (R.P.)	Kamloops	Manager/Owner	11847	26.8
+Kamloops	Kevin Krueger (Lib.)	Kamloops	Insurance Claims Manager	10776	24.3
+Kamloops	Frank Coldicott (P.C.)	Kamloops	Realtor/Trainer	3857	8.7
+Kamloops	Kathrine Wunderlich (Nat.)	Kamloops	Homemaker	1399	3.2
+Kamloops	Mark McCooey (N.L.P.)	Richmond	Businessman	133	0.3
+Kamloops	Randall Edge (Libert.)	Kamloops	Businessman	109	0.3
+Kamloops	Marion Munday (C.P.)	Kelowna	Registered Nurse	45	0.1
+Kamloops	Thomas Brown (NIL)	Burnaby	Businessman	41	0.1
+Kootenay East/Kootenay-Est	Jim Abbott (R.P.)	Wasa	Businessman	17050	48.4
+Kootenay East/Kootenay-Est	Jim S. Wavrecan (Lib.)	Cranbrook	Bus Driver\Businessman	7915	22.5
+Kootenay East/Kootenay-Est	Sid Parker (N.D.P.)	Kimberley	Politician	5107	14.5
+Kootenay East/Kootenay-Est	Jake McInnis (P.C.)	Cranbrook	College President	3840	10.9
+Kootenay East/Kootenay-Est	Hilda Bechler (Nat.)	New Westminster	Ecologist	582	1.7
+Kootenay East/Kootenay-Est	Rhonda Smith (G.P.)	Parson	Infant Devel. Consultant	293	0.8
+Kootenay East/Kootenay-Est	Gerald Lionel Brinders (C.H.P.)	Cranbrook	Automotive Mechanic	194	0.6
+Kootenay East/Kootenay-Est	Ruth Anne Taves (N.L.P.)	Nelson	Educational Consultant	158	0.5
+Kootenay East/Kootenay-Est	Lelannd Haver (C.P.)	West Bank	Manager - Sales	71	0.2
+Kootenay West--Revelstoke/Kootenay-Ouest--Revelstoke	Jim Gouk (R.P.)	Castlegar	Real Estate Agent	11348	32.5
+Kootenay West--Revelstoke/Kootenay-Ouest--Revelstoke	Garry Jenkins (Lib.)	Rossland	Medical Doctor	10620	30.4
+Kootenay West--Revelstoke/Kootenay-Ouest--Revelstoke	Heather Suggitt (N.D.P.)	Nelson	Staff Rep.	5483	15.7
+Kootenay West--Revelstoke/Kootenay-Ouest--Revelstoke	Blair Suffredine (P.C.)	Nelson	Lawyer	3111	8.9
+Kootenay West--Revelstoke/Kootenay-Ouest--Revelstoke	Bev Collins (Nat.)	Nelson	Co-ordinator	2983	8.5
+Kootenay West--Revelstoke/Kootenay-Ouest--Revelstoke	Jack Ross (G.P.)	Argenta	Educator	809	2.3
+Kootenay West--Revelstoke/Kootenay-Ouest--Revelstoke	Brian Zacharias (C.H.P.)	Nelson	Contractor	336	1.0
+Kootenay West--Revelstoke/Kootenay-Ouest--Revelstoke	Michäle Roy (N.L.P.)	South Slocan	Student	191	0.6
+Kootenay West--Revelstoke/Kootenay-Ouest--Revelstoke	Greg Eyolfson (C.P.)	Sorrento	Retired Engineer	79	0.2
+Mission--Coquitlam	Daphne Jennings (R.P.)	Maple Ridge	School Teacher	20168	36.7
+Mission--Coquitlam	Mae Cabott (Lib.)	Maple Ridge	Business Executive	14774	26.9
+Mission--Coquitlam	Joy Langan (N.D.P.)	Maple Ridge	Politician/Parliamentarian	9210	16.8
+Mission--Coquitlam	A.M. Sandy Macdougall (P.C.)	Maple Ridge	Reporter	6445	11.7
+Mission--Coquitlam	Mike Shields (Nat.)	Port Moody	Entrepreneur	2739	5.0
+Mission--Coquitlam	Tim Bonner (C.H.P.)	Maple Ridge		479	0.9
+Mission--Coquitlam	Rose Bennett (G.P.)		Realtor	397	0.7
+Mission--Coquitlam	Matt Deacon (N.L.P.)	Maple Ridge	Researcher in Consciousness	294	0.5
+Mission--Coquitlam	D'Arcy James Flannery (Libert.)	Coquitlam	Health Care Worker	228	0.4
+Mission--Coquitlam	E. Chum Richardson (Ind.)	Misson	Retired	135	0.3
+Mission--Coquitlam	Stephen Clews (NIL)	Mission	Ironworker/Welding Supervisor	67	0.1
+Nanaimo--Cowichan/Nanaãmo--Cowichan	Bob Ringma (R.P.)	Thetis Island	Retired	25339	41.2
+Nanaimo--Cowichan/Nanaãmo--Cowichan	Ron Cantelon (Lib.)	Nanaimo	Realtor	13840	22.5
+Nanaimo--Cowichan/Nanaãmo--Cowichan	David Stupich (N.D.P.)	Nanaimo	Chartered Accountant	12018	19.6
+Nanaimo--Cowichan/Nanaãmo--Cowichan	Bruce Wilbee (P.C.)	Nanaimo	Business Manager	5614	9.1
+Nanaimo--Cowichan/Nanaãmo--Cowichan	Larry Whaley (Nat.)	Nanaimo	Borrowers Advocate	3470	5.6
+Nanaimo--Cowichan/Nanaãmo--Cowichan	Cliff Brown (N.L.P.)	Nanaimo	Educator/Businessman	507	0.8
+Nanaimo--Cowichan/Nanaãmo--Cowichan	Mark Alan Chase (Libert.)	Nanaimo	Computer Programmer	245	0.4
+Nanaimo--Cowichan/Nanaãmo--Cowichan	R. W. Jackson (NIL)	North Cowicham	STEVEADORE	165	0.3
+Nanaimo--Cowichan/Nanaãmo--Cowichan	Bruce Tober (NIL)	Nanaimo	Commission Sales	158	0.3
+Nanaimo--Cowichan/Nanaãmo--Cowichan	Neall Lenard (C.P.)	Westbank	Professional Geologist	116	0.2
+New Westminster--Burnaby	Paul E. Forseth (R.P.)	Langley	Probation Officer/Court Cnslr.	16262	29.3
+New Westminster--Burnaby	Leanore Copeland (Lib.)	Burnaby	Publisher	15448	27.9
+New Westminster--Burnaby	Dawn Black (N.D.P.)	New Westminister	Member of Parliament	14441	26.0
+New Westminster--Burnaby	Neil MacKay (P.C.)	Delta	R.C.M.P.(Retired) Bus.Person	6419	11.6
+New Westminster--Burnaby	P. Jeffery Jewell (Nat.)	Vancouver	Manager, Engineering Systems	1766	3.2
+New Westminster--Burnaby	Carolyn Grayson (N.L.P.)	Vancouver	Educator	371	0.7
+New Westminster--Burnaby	Todd E. Romaine (G.P.)	Vancouver	Student	314	0.6
+New Westminster--Burnaby	Robert Fong (Libert.)	Vancouver	Accountant	273	0.5
+New Westminster--Burnaby	Jess P. Lee (NIL)	Burnaby	Entertainer	73	0.1
+New Westminster--Burnaby	Geoff Dakin (Com'lth)	Vancouver	Massage Therapist	71	0.1
+North Island--Powell River	John Duncan (R.P.)	Campbell River	Forester	18256	39.3
+North Island--Powell River	Al Huddlestan (Lib.)	Port Hardy	Telephone Technician	11880	25.6
+North Island--Powell River	Raymond Skelly (N.D.P.)	Powell River	Teacher	7823	16.8
+North Island--Powell River	Mark von Schellwitz (P.C.)	Campbell River	Hotel Manager	3673	7.9
+North Island--Powell River	Mark A. Grenier (Nat.)	Campbell River	House Painter	3418	7.4
+North Island--Powell River	Michael Mascall (G.P.)	Quathiaski Cove	Economist	1015	2.2
+North Island--Powell River	Wayne A. Melvin (N.L.P.)	Vancouver	Ph.D. Candidate	254	0.6
+North Island--Powell River	James Peter Turner (C.P.)	Campbell River	Salesman	158	0.3
+North Vancouver	Ted White (R.P.)	North Vancouver	Company President	20213	40.0
+North Vancouver	Mobina Jaffer (Lib.)	North Vancouver		15934	31.5
+North Vancouver	Will McMartin (P.C.)	North Vancouver	Businessman	7765	15.4
+North Vancouver	Graeme Bowbrick (N.D.P.)	N.Vancouver	Lawyer	3220	6.4
+North Vancouver	Dallas Collis (Nat.)	North Vancouver	Hairstylist	2220	4.4
+North Vancouver	Arne B. Hansen (G.P.)	Vancouver	Environmental Consultant	493	1.0
+North Vancouver	Bradford Cooke (N.L.P.)	North Vancouver	Owner of International Mining	448	0.9
+North Vancouver	Clarke L. Ashley (NIL)	North Vancouver	Businessman	147	0.3
+North Vancouver	Anthony Jasich (Libert.)	North Vancouver	Businessman	113	0.2
+North Vancouver	Paul Fraleigh (Com'lth)	London	Sales Representative	21	0.0
+Okanagan Centre/Okanagan-Centre	Werner Schmidt (R.P.)	Kelowna	Businessman	30703	46.6
+Okanagan Centre/Okanagan-Centre	Murli G. Pendharkar (Lib.)	Kelowna	Trustee-School Board Chair	15688	23.8
+Okanagan Centre/Okanagan-Centre	Al Horning (P.C.)	Kelowna	Realtor	12629	19.2
+Okanagan Centre/Okanagan-Centre	Bryan McIver (N.D.P.)	Kelowna		4562	6.9
+Okanagan Centre/Okanagan-Centre	Jack Davis (Nat.)	Kelowna	Artist	1082	1.6
+Okanagan Centre/Okanagan-Centre	David Hughes (G.P.)	Kelowna	Home Environment Consultant	666	1.0
+Okanagan Centre/Okanagan-Centre	Douglas Walker (N.L.P.)	Richmond	University Administrator	211	0.3
+Okanagan Centre/Okanagan-Centre	Faye Stroo (C.P.)	Kelowna	Businesswoman	179	0.3
+Okanagan Centre/Okanagan-Centre	Trevor L. Adams (NIL)	Burnaby	Marble Mason	134	0.2
+Okanagan--Shuswap	Darrel Stinson (R.P.)	Spallumcheen	Mining	20930	42.4
+Okanagan--Shuswap	Lyle MacWilliam (N.D.P.)	Vernon	Educator	11703	23.7
+Okanagan--Shuswap	Brooke Jeffrey (Lib.)	Vernon	Political Scientist	9082	18.4
+Okanagan--Shuswap	Alice Klim (P.C.)	Vernon	Business Woman	4865	9.9
+Okanagan--Shuswap	Don MacLennan (Nat.)	Vernon	Engineer	2009	4.1
+Okanagan--Shuswap	Hermann Bruns (G.P.)	Mara	Biologist/Organic Grower	312	0.6
+Okanagan--Shuswap	Gordon Campbell (NIL)	Kelowna	Meat Manager	213	0.4
+Okanagan--Shuswap	Rig Gelfand (N.L.P.)	Westmount	Educator/Administrator	130	0.3
+Okanagan--Shuswap	Claire Foss (C.P.)	Lumby	Businessman	78	0.2
+Okanagan--Similkameen--Merritt	Jim Hart (R.P.)	Summerland	Account Executive	21151	43.6
+Okanagan--Similkameen--Merritt	Mike Reed (Lib.)	Naramata	Orchardist	11883	24.5
+Okanagan--Similkameen--Merritt	Jack Whittaker (N.D.P.)	Osoyoos	Lawyer/Politician	7201	14.8
+Okanagan--Similkameen--Merritt	Sue Irvine (P.C.)	Naramata	Business Person	6150	12.7
+Okanagan--Similkameen--Merritt	Ken Noble (Nat.)	Penticton	Writer/Historian	1181	2.4
+Okanagan--Similkameen--Merritt	Harry Naegel (G.P.)	Penticton	Horticultural Contractor	472	1.0
+Okanagan--Similkameen--Merritt	Steven R. Beck (N.L.P.)	Vancouver	Retail Manager	267	0.6
+Okanagan--Similkameen--Merritt	Leslie G. Sykes (C.P.)	Peachland	Retired/Farmer	217	0.5
+Port Moody--Coquitlam	Sharon Hayes (R.P.)	Coquitlam	Homemaker	20257	34.0
+Port Moody--Coquitlam	Celso Boscariol (Lib.)	Burnaby	Lawyer	16546	27.8
+Port Moody--Coquitlam	Ian Waddell (N.D.P.)	Coquitlam	Politician (Lawyer)	12616	21.2
+Port Moody--Coquitlam	Jim Allard (P.C.)	Coquitlam	Businessman	7641	12.8
+Port Moody--Coquitlam	Mark Hemming (Nat.)	Coquitlam	Businessman	1556	2.6
+Port Moody--Coquitlam	William Robert Ayling (N.L.P.)		Businessman	333	0.6
+Port Moody--Coquitlam	Geoffrey Berner (G.P.)	Vancouver	Student	329	0.6
+Port Moody--Coquitlam	Paul A. Geddes (Libert.)	Coquitlam	Economics Instructor	239	0.4
+Port Moody--Coquitlam	Cathie Sackville (NIL)	Abbotsford	Business Person	64	0.1
+Port Moody--Coquitlam	Elizabeth Smith (Com'lth)	Coquitlam	Public Relations	44	0.1
+Prince George--Bulkley Valley	Dick Harris (R.P.)	Prince George	Retired	14757	40.3
+Prince George--Bulkley Valley	Brian Gardiner (N.D.P.)	Prince George	Politician	8526	23.3
+Prince George--Bulkley Valley	David Stephen Wilbur (Lib.)	Prince George	Lawyer	8147	22.3
+Prince George--Bulkley Valley	Colin J. Kinsley (P.C.)	Prince George	Construction Supervisor	4463	12.2
+Prince George--Bulkley Valley	Bert Prins (C.H.P.)	Houston	Rancher	351	1.0
+Prince George--Bulkley Valley	Rick Zammuto (G.P.)	Crescent Spur	Retired University Professor	203	0.6
+Prince George--Bulkley Valley	Alan Phillips (N.L.P.)	North Vancouver	Businessman	176	0.5
+Prince George--Peace River	Jay Hill (R.P.)	Taylor	Farmer	20775	56.4
+Prince George--Peace River	Jacques Monlezun (Lib.)	Dawson Creek	Service Shop Owner	7191	19.5
+Prince George--Peace River	Ted Sandhu (P.C.)	Danson Creek	Businessman	4153	11.3
+Prince George--Peace River	Alan Timberlake (N.D.P.)	Prince George	Administrator	4051	11.0
+Prince George--Peace River	Robert Walker (N.L.P.)	Richmond	Engineering Research Associate	295	0.8
+Prince George--Peace River	John Van der Woude (C.H.P.)	Prince George	Realtor	199	0.5
+Prince George--Peace River	Dorothy Folk (Com'lth)	Fort St. John	Landlord	116	0.3
+Prince George--Peace River	Archie Tannock (NIL)	Watson Lake	Pipefitter	63	0.2
+Richmond	Raymond Chan (Lib.)	Richmond	Research Engineer	21457	37.1
+Richmond	Nick Loenen (R.P.)	Richmond	Businessman	17900	30.9
+Richmond	Tom Siddon (P.C.)	Richmond	Professional Engineer	11033	19.1
+Richmond	Sylvia Surette (N.D.P.)	Richmond	Sales Agent	3633	6.3
+Richmond	Fred Pawluk (Nat.)	Richmond	Small Businessman	2271	3.9
+Richmond	Kevan Hudson (G.P.)	Richmond	Teacher	336	0.6
+Richmond	Kathy McClement (N.L.P.)	Richmond	Business Woman	333	0.6
+Richmond	Judith Campbell (NIL)	Vancouver	Manager	317	0.6
+Richmond	Clyde E. Vint (C.H.P.)	Langley	Aviation Repairs/Self-employed	282	0.5
+Richmond	Jerry Haldeman (Ind.)	Richmond	Retired	166	0.3
+Richmond	Kerry Daniel Pearson (Libert.)	Richmond	Security Guard	155	0.3
+Richmond	John Edgar Square-Briggs (NIL)	Richmond	Plumber	29	0.1
+Saanich--Gulf Islands/Saanich--Les ◊les-du-Golfe	Jack Frazer (R.P.)	Ganges	Retired	26480	37.2
+Saanich--Gulf Islands/Saanich--Les ◊les-du-Golfe	Alex Phillips (Lib.)	Sidney	Legal Counsel	18442	25.9
+Saanich--Gulf Islands/Saanich--Les ◊les-du-Golfe	Lynn Hunter (N.D.P.)	Victoria	Member of Parliament	13414	18.9
+Saanich--Gulf Islands/Saanich--Les ◊les-du-Golfe	Marilyn Loveless (P.C.)	Victoria	Activity Co-ordinator	8222	11.6
+Saanich--Gulf Islands/Saanich--Les ◊les-du-Golfe	Judith Rayburn (Nat.)	Victoria	College Instructor	3817	5.4
+Saanich--Gulf Islands/Saanich--Les ◊les-du-Golfe	Andy Guest (N.L.P.)	Victoria	Chartered Financial Planner	524	0.7
+Saanich--Gulf Islands/Saanich--Les ◊les-du-Golfe	C.R. Bob Ward (Ind.)	Victoria	Marine Consultant	217	0.3
+Saanich--Gulf Islands/Saanich--Les ◊les-du-Golfe	Arleigh Rolind (C.P.)	Westbank	Bookkeeper, Retired	53	0.1
+Skeena	Mike Scott (R.P.)	Kitimat	Businessman	11994	37.9
+Skeena	Rhoda Witherly (Lib.)	Prince Rupert	Manager	7586	24.0
+Skeena	Joe Barrett (N.D.P.)	Prince Rupert	Teacher	6535	20.7
+Skeena	Isaac Sobol (Nat.)	New Aiyansh	Family Physician/Med. Health	2420	7.7
+Skeena	Danny Sheridan (P.C.)	Terrace	Executive Director	2137	6.8
+Skeena	Louis Luke Kwantes (C.H.P.)	Smithers	Account Manager	647	2.0
+Skeena	Peter Ewart Mehling (G.P.)	Prince Rupert	Accountant	178	0.6
+Skeena	Calvin Danyluk (N.L.P.)	Tofino	Park Supervisor	150	0.5
+Surrey North/Surrey-Nord	Margaret Bridgman (R.P.)	Surrey	Nurse Manager	22390	36.9
+Surrey North/Surrey-Nord	Prem S. Vinning (Lib.)	Surrey	Businessman	15977	26.4
+Surrey North/Surrey-Nord	Jim Karpoff (N.D.P.)	Surrey	Member of Parliament	10355	17.1
+Surrey North/Surrey-Nord	Cliff Blair (P.C.)	Surrey	Businessman	8381	13.8
+Surrey North/Surrey-Nord	Shirley Ann Stonier (Nat.)	Surrey	Consultant - H.R.D.	2014	3.3
+Surrey North/Surrey-Nord	Bill Stilwell (C.H.P.)	Surrey	Engineering Technologist	907	1.5
+Surrey North/Surrey-Nord	Anthony F. Quance (N.L.P.)	Surrey	Tradesman - Businessman	376	0.6
+Surrey North/Surrey-Nord	Braden Karringten (NIL)	Surrey	Consultant	128	0.2
+Surrey North/Surrey-Nord	Louise J. Belanger (Com'lth)	Cloverdale	Retired	84	0.1
+Surrey--White Rock--South Langley	Val Meredith (R.P.)	Surrey	Businesswoman, Realtor	32198	44.1
+Surrey--White Rock--South Langley	Gordon J. Hogg (Lib.)	White Rock		24683	33.8
+Surrey--White Rock--South Langley	Norm Blain (P.C.)	Surrey	Corporate Communications	8885	12.2
+Surrey--White Rock--South Langley	Mota Singh Jheeta (N.D.P.)	Surrey	Accounts Administrator	3029	4.2
+Surrey--White Rock--South Langley	Carolyn Dorothy Goertzen (Nat.)	Surrey	Counsellor	2387	3.3
+Surrey--White Rock--South Langley	Heather Stilwell (C.H.P.)	Surrey	Homemaker	877	1.2
+Surrey--White Rock--South Langley	Steve Chitty (G.P.)	Surrey	Program Director	464	0.6
+Surrey--White Rock--South Langley	Derek Nadeau (N.L.P.)	Vancouver	Sales Rep.	251	0.3
+Surrey--White Rock--South Langley	Charles Boylan (M.-L.)	Vancouver	Researcher	67	0.1
+Surrey--White Rock--South Langley	Rhonda Thiessen (NIL)	Burnaby	Homemaker	59	0.1
+Surrey--White Rock--South Langley	Farlie Paynter (C.P.)	Westbank	Agriculturist, Teacher	56	0.1
+Surrey--White Rock--South Langley	Giancarlo Dalla Valle (Com'lth)	Surrey	Mill Worker	35	0.1
+Vancouver Centre/Vancouver-Centre	Hedy Fry (Lib.)	Vancouver	Physician	20095	31.1
+Vancouver Centre/Vancouver-Centre	Kim Campbell (P.C.)	Vancouver	Lawyer	16274	25.2
+Vancouver Centre/Vancouver-Centre	Ian Isbister (R.P.)	Vancouver	Businessman	11235	17.4
+Vancouver Centre/Vancouver-Centre	Betty Baxter (N.D.P.)	Vancouver	Business Person	9830	15.2
+Vancouver Centre/Vancouver-Centre	Thorsten Ewald (Nat.)	Vancouver	Technical Writer	5144	8.0
+Vancouver Centre/Vancouver-Centre	John Cowhig (N.L.P.)	Vancouver	Businessman	670	1.0
+Vancouver Centre/Vancouver-Centre	Imtiaz Popat (G.P.)	Vancouver	Media Producer	616	1.0
+Vancouver Centre/Vancouver-Centre	Darren Lowe (C.H.P.)	Vancouver	Legal Assistant	254	0.4
+Vancouver Centre/Vancouver-Centre	Tunya Audain (Libert.)	West Vancouver	Taxi Driver	252	0.4
+Vancouver Centre/Vancouver-Centre	Brian Godzilla Gnu Salmi (NIL)	Vancouver	Business Person	109	0.2
+Vancouver Centre/Vancouver-Centre	Scott Adams (Ind.)	Vancouver	Writer, Author, Publisher	99	0.2
+Vancouver Centre/Vancouver-Centre	Lucille Boikoff (Com'lth)	Langley	Teacher	27	0.0
+Vancouver Centre/Vancouver-Centre	Peter C. Nuthall (NIL)	Vancouver	Businessman	24	0.0
+Vancouver East/Vancouver-Est	Anna Terrana (Lib.)	Burnaby	Executive Director	14237	36.0
+Vancouver East/Vancouver-Est	Margaret Mitchell (N.D.P.)	Vancouver	Politician	12339	31.2
+Vancouver East/Vancouver-Est	Joan Stewart (R.P.)	Vancouver	NOTARY PUBLIC	4671	11.8
+Vancouver East/Vancouver-Est	Susan Tom (P.C.)	Vancouver	Lawyer	3484	8.8
+Vancouver East/Vancouver-Est	Bruce Frank Wright (Nat.)	Vancouver	Consultant	2419	6.1
+Vancouver East/Vancouver-Est	Wayne Marsden (Libert.)	Vancouver	Investment Advisor	802	2.0
+Vancouver East/Vancouver-Est	Kelly Elizabeth White (G.P.)	Vancouver	Research of Economic Dev.	571	1.4
+Vancouver East/Vancouver-Est	David Grayson (N.L.P.)	Vancouver	Businessman	383	1.0
+Vancouver East/Vancouver-Est	Kimball Cariou (NIL)	Vancouver	Journalist	343	0.9
+Vancouver East/Vancouver-Est	Will Offley (NIL)	Vancouver	Registered Nurse	98	0.3
+Vancouver East/Vancouver-Est	Brian Sproule (M.-L.)	Vancouver	Health Care Worker	84	0.2
+Vancouver East/Vancouver-Est	Joe Young (NIL)	Vancouver	Machine Operator	75	0.2
+Vancouver East/Vancouver-Est	Alan Imrie (NIL)	Burnaby	CSR	59	0.2
+Vancouver Quadra	Ted McWhinney (Lib.)	Vancouver	Unversity Professor	20364	39.5
+Vancouver Quadra	Bill McArthur (R.P.)	Vancouver	Physician	11445	22.2
+Vancouver Quadra	Geoff Chutter (P.C.)	Vancouver	Business Person	9002	17.4
+Vancouver Quadra	Tommy Tao (N.D.P.)	Vancouver	Lawyer	5552	10.8
+Vancouver Quadra	W.J. Willy Spat (Nat.)	Vancouver	Teacher	3331	6.5
+Vancouver Quadra	Alannah New-Small (G.P.)	Vancouver	Student	594	1.2
+Vancouver Quadra	Walter Boytinck (Libert.)	Vancouver	Businessman	410	0.8
+Vancouver Quadra	Alan M. Brooke (N.L.P.)	Vancouver	Production Technologist	376	0.7
+Vancouver Quadra	Walter Opmeer (C.H.P.)	Richmond	Grocery Retail	208	0.4
+Vancouver Quadra	Janet Ludlam (NIL)	South Vancouver	Property Manager	100	0.2
+Vancouver Quadra	Roman York (Ind.)	Vancouver	Pilot	90	0.2
+Vancouver Quadra	Dorothy-Jean O'Donnell (M.-L.)	Vancouver	Lawyer	80	0.2
+Vancouver Quadra	J.G. Joseph Jackman (Com'lth)	Vancouver	Electronics Technician	59	0.1
+Vancouver South/Vancouver-Sud	Herb Dhaliwal (Lib.)	Richmond	Businessman	17215	35.6
+Vancouver South/Vancouver-Sud	Gordon Shreeve (R.P.)	Vancouver	Minister	12292	25.4
+Vancouver South/Vancouver-Sud	K. K. Wan (P.C.)	Vancouver	Dentist	11359	23.5
+Vancouver South/Vancouver-Sud	John MatÇ (N.D.P.)	Vancouver	Environmental Consultant	3625	7.5
+Vancouver South/Vancouver-Sud	Cameron Ward (Nat.)	Vancouver	Lawyer	2113	4.4
+Vancouver South/Vancouver-Sud	John Clarke (Libert.)	Vancouver	Warehouseman	554	1.2
+Vancouver South/Vancouver-Sud	Valerie Jerome (G.P.)	Vancouver	Teacher	418	0.9
+Vancouver South/Vancouver-Sud	Prince Pabbies (N.L.P.)	Vancouver	Realtor	287	0.6
+Vancouver South/Vancouver-Sud	Jas Mangat (Ind.)	Vancouver	Immigration Consultant	278	0.6
+Vancouver South/Vancouver-Sud	Dan Logan (NIL)	Vancouver	Carpet & Furniture Cleaning	69	0.1
+Vancouver South/Vancouver-Sud	Robert Walter Ross (NIL)	Vancouver	Businessman	60	0.1
+Vancouver South/Vancouver-Sud	Allan H. Bezanson (M.-L.)	Vancouver	Desktop Publisher	47	0.1
+Vancouver South/Vancouver-Sud	Issam Mansour (NIL)	Vancouver	Physicist	20	0.0
+Victoria	David Anderson (Lib.)	Victoria	Environmental Consultant	21557	37.2
+Victoria	Patrick Hunt (R.P.)	Saanich	Computer Sales & Marketing Spe	15978	27.6
+Victoria	John Brewin (N.D.P.)	Saanich	Lawyer	8182	14.1
+Victoria	Faith Collins (P.C.)	Victoria	Administrator	6049	10.4
+Victoria	Cecilia Mavrow (Nat.)	Victoria	University Lecturer	4072	7.0
+Victoria	Donna Morton (G.P.)	Victoria	Nanny/Waitress/Sales/Activist	1135	2.0
+Victoria	Michael Coon (N.L.P.)	Oak Bay	Marine Biologist	505	0.9
+Victoria	R. Kent Cowan (Libert.)	Victoria	Journalist	171	0.3
+Victoria	Roger Rocan (Ind.)	Victoria	Terminal Manager - Trucking Co	121	0.2
+Victoria	V. Anne Foss (C.P.)	Lumby	Cousellor, Advocate	73	0.1
+Victoria	Rhyon Caldwell (NIL)	Victoria	Marketing Consultant	49	0.1
+Victoria	John Ernest Currie (NIL)	Ymir	Handy Man	45	0.1				
+Nunatsiaq	Jack Iyerak Anawak (Lib.)	Rankin Inlet	Politician	6685	69.8
+Nunatsiaq	Leena Evic-Twerdin (P.C.)	Iqaluit	Policy Advisor	1970	20.6
+Nunatsiaq	Mike Illnik (N.D.P.)	Arviat	Maintenance Coordinator	924	9.7
+Western Arctic	Ethel Blondin-Andrew (Lib.)	Yellowknife	Politician	8867	62.5
+Western Arctic	Mansell C. Grey (R.P.)	Hay River	Self-Employed Contractor	2000	14.1
+Western Arctic	Martin Hanly (P.C.)	Yellowknife	Civil Servant	1893	13.3
+Western Arctic	Bill Schram (N.D.P.)	Yellowknife	Mill Operator	896	6.3
+Western Arctic	Chris O'Brien (G.P.)	Yellowknife	Writer/Photographer	325	2.3
+Western Arctic	Lynn Taylor (N.L.P.)	Yellowknife	Librarian	213	1.5				
+Yukon	Audrey McLaughlin (N.D.P.)	Whitehorse	Business Person	6252	43.3
+Yukon	Don Branigan (Lib.)	Whitehorse	Doctor	3359	23.3
+Yukon	Al Kapty (P.C.)	Whitehorse	Businessperson	2566	17.8
+Yukon	A.B. Short Tompkins (R.P.)	Charlie Lake	Farmer	1891	13.1
+Yukon	Robert L. Olson (Nat.)	Carcross	Businessman	296	2.1
+Yukon	Geoffrey Capp (C.H.P.)	Whitehorse	Clerk	61	0.4

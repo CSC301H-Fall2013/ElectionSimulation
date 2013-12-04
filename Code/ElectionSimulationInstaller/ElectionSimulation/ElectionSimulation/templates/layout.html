@@ -1,0 +1,19 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Election simulation </title>
+    <link rel="stylesheet" type="text/css" href="{% static "bootstrap/css/bootstrap.min.css" %}">
+    <link rel="stylesheet" type="text/css" href="{% static "css/mainStyle.css" %}">
+    <script type="text/javascript" src="{% static "bootstrap/js/bootstrap.min.js" %}"></script>
+    <script type="text/javascript" src="{% static "js/jquery/jquery.min.js" %}"></script>
+</head>
+<body>
+{% block content %}{% endblock %}
+<div class="footer">
+    <p>
+        &copy; Team Great Bear - CSC301 - University of Toronto - September 2013
+    </p>
+</div>
+</body>
+</html>

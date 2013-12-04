@@ -9,12 +9,14 @@ ADMINS = (
 
 MANAGERS = ADMINS
 
+# This setting can be found in /Code/environments.properties
+# Must keep this information in synch with the file
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',                     
         'NAME': 'electiondatabase',
-        'USER': 'dbuser',
-        'PASSWORD': 'dbuser',
+        'USER': '',
+        'PASSWORD': '',
         'HOST': '',
         'PORT': '',
     }
@@ -68,6 +70,7 @@ STATIC_URL = '/static/'
 
 # Additional locations of static files
 STATICFILES_DIRS = (
+    'ElectionSimulation/static/',
     # Put strings here, like "/home/html/static" or "C:/www/django/static".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
@@ -107,6 +110,7 @@ ROOT_URLCONF = 'ElectionSimulation.urls'
 WSGI_APPLICATION = 'ElectionSimulation.wsgi.application'
 
 TEMPLATE_DIRS = (
+    'ElectionSimulation/templates',
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
@@ -119,11 +123,15 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'ElectionSimulation',
+    'ElectionSimulation.Models',
+    'ElectionSimulation.CampaignMaster',
+    'ElectionSimulation.login',
     # Uncomment the next line to enable the admin:
-    # 'django.contrib.admin',
+    'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
-    # 'django.contrib.admindocs',
-)
+    'django.contrib.admindocs'
+    )
 
 SESSION_SERIALIZER = 'django.contrib.sessions.serializers.JSONSerializer'
 
